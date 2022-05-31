@@ -3,3 +3,5 @@
 
 * Configuration
   * [Configuration](configuration.md)
+
+* [Keyboard Shortcuts](keyboard.md)
