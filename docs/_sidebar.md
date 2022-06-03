@@ -1,5 +1,6 @@
 * Getting started
-  * [Quick start](quick-start.md)
+  * [Quick start](getting_started/quick-start.md)
+  * [Structure](getting_started/structure.md)
 
 * Configuration
   * [Configuration](configuration.md)
