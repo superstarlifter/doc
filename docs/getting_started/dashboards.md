@@ -1,6 +1,6 @@
 ## Dashboards
 
-All dashboards are listed in the dropbown next to the dashboard title
+All dashboards are listed in the dropbown:
 
 <img src="../assets/dropdown.png"  style="width:400px" class="border"></img>
 
@@ -10,17 +10,17 @@ To save rename a dashboard:
 
 <img src="../assets/rename.png"  style="width:400px" class="border"></img>
 
-To add a dashboard
-1. Select the add icon:
+To add a dashboard:
+1. Select the add icon: 
 
-<img src="../assets/add.png"  style="width:400px" class="border"></img>
+<img src="../assets/add.png"  style="width:100px" class="border"></img>
 
-To delete a dashboard
+To delete a dashboard:
 1. Select the delete icon:
 
-<img src="../assets/delete.png"  style="width:400px" class="border"></img>
+<img src="../assets/delete.png"  style="width:100px" class="border"></img>
 
-To download a dashboard to PDF
+To download a dashboard to PDF:
 1. Select the PDF icon:
 
-<img src="../assets/pdf.png"  style="width:400px" class="border"></img>
+<img src="../assets/pdf.png"  style="width:100px" class="border"></img>
