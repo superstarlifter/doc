@@ -3,14 +3,17 @@
 Rolling up groups values together.  To roll up data and charts by date:
 1.  Select the **Day**, **Week**, **Month**, **Quarter** or **Year**.
 
-None
+### None
+
 <img src="../assets/rollup_none.png"  style="width:600px" class="border"></img>
 
-Quarter
+### Quarter
+
 <img src="../assets/rollup_qtr.png"  style="width:600px" class="border"></img>
 
-Year
-<img src="../assets/rollup.annualpng"  style="width:600px" class="border"></img>
+### Year
+
+<img src="../assets/rollup_annual.png"  style="width:600px" class="border"></img>
 
 
 To filter dates on a dashboard:
