@@ -8,16 +8,21 @@
 3.  Click **Create organization**
 
 
+
 ### Upload data
 1.  Select **Upload XLS, CSV...**
 
-<img src="../assets/upload.png"  style="width:600px" class="border"></img>
+<img src="../assets/upload.png"  style="width:400px" class="border"></img>
 
 2.  Drag or select a file to upload
-![upload_select](../assets/upload_select.png)
+
+<img src="../assets/upload_select.png"  style="width:600px" class="border"></img>
+
 3.  The workbook is saved as a data domain
 4.  Choose to add or ignore each collection the domain
-![add_ignore](../assets/add_ignore.png)
+
+<img src="../assets/add_ignore.png"  style="width:600px" class="border"></img>
+
 5.  Select **GO**
 
 
@@ -27,9 +32,7 @@
 2.  Select **Set header row**
 3.  Note:  All data above this row will be deleted
 
-
 <img src="../assets/header_row.png"  style="width:200px;" class="border"></img>
-
 
 
 ### Change data types on a field
@@ -47,5 +50,7 @@
 4.  Select how the field is treated when aggregated: **sum**, **average**, or **none**
 5.  Choose fields that should be hidden
 6.  Write a description of the field 
-![dictionary](../assets/dictionary.png)
+
+<img src="../assets/dictionary.png"  style="width:800px" class="border"></img>
+
 
