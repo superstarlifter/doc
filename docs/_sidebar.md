@@ -1,7 +1,8 @@
 * Getting started
-  * [Create an organization and set up data](getting_started/quick-start.md)
-  * [Create a dashboard with charts and KPIs](getting_started/quick-start.md)
-  * [Roll-up and filter data](getting_started/quick-start.md)
+  * [Create an organization & add data](getting_started/quick-start.md)
+  * [Create charts](getting_started/charts.md)
+  * [Create KPIs](getting_started/KPIs.md)
+  * [Save, add & delete dashboards](getting_started/dashboards.md)
   
 * How To
   * [Set a hierarchy](how_to/hierarchies.md)
