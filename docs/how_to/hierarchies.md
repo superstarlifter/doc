@@ -5,21 +5,22 @@ To define a hierarchy:
 2.  Highlight the columns
 3.	Right click ➔ **Data Transform** ➔ **Set hierarchy**
 
-![hierarchy](../assets/hierarchy.png)
+<img src="../assets/hierarchy.png"  style="width:600px" class="border"></img>
 
 To view a hierarchy:
 1.	Right click ➔ **View dictionary**
 2.	Note the **Hierarchy Number** and **Hierarchy Position** 
 
-![hierarchy_view](../assets/hierarchy_view.png)
+<img src="../assets/hierarchy_view.png"  style="width:600px" class="border"></img>
 
 To create a chart using a hierarchy:
 1.	Right click on a value ➔ **Create chart**
 2.	Select **TreeMap**
 
-![hierarchy_tree](../assets/hierarchy_tree.png)
-![hierarchy_treemap](../assets/hierarchy_treemap.png)
+<img src="../assets/hierarchy_tree.png"  style="width:200px" class="border"></img>
+
+<img src="../assets/hierarchy_treemap.png"  style="width:600px" class="border"></img>
 
 Right click ➔ **Edit chart definition** to view Hierarchy #1 and select/deselect the fields.
 
-![hierarchy_config](../assets/hierarchy_config.png)
+<img src="../assets/hierarchy_config.png"  style="width:600px" class="border"></img>
