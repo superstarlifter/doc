@@ -6,7 +6,7 @@
   
 * How To
   * [Roll up and filter by date](how_to/rollup.md)
-  * [Roll up and filter by categories](how_to/filter.md)
+  * [Roll up and filter](how_to/filter.md)
   * [Save, edit and delete a filter](how_to/edit_filter.md)
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Set a time series](how_to/timeseries.md)
