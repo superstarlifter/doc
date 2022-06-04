@@ -1,11 +1,14 @@
 * Getting started
-  * [Quick start](getting_started/quick-start.md)
-  * [Structure](getting_started/structure.md)
+  * [Create a user](getting_started/quick-start.md)
+  * [Create an organization](getting_started/quick-start.md)
+  * [Upload data](getting_started/quick-start.md)
+  * [Create a dashboard](getting_started/quick-start.md)
   
 * How To
   * [Set a hierarchy](how_to/hierarchies.md)
+  * [Set a time series](how_to/timeseries.md)
   
-* Configuration
+* Helpful Links
   * [Configuration](configuration.md)
-  
-* [Keyboard Shortcuts](keyboard.md)
+  * [Terms](getting_started/structure.md)
+  * [Keyboard shortcuts](keyboard.md)
