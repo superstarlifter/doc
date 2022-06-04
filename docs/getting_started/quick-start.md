@@ -10,7 +10,9 @@
 
 ### Upload data
 1.  Select **Upload XLS, CSV...**
-<img src="../assets/upload.png"  style="width:600px; border: 1px solid grey"></img>
+
+<img src="../assets/upload.png"  style="width:600px"></img>
+
 2.  Drag or select a file to upload
 ![upload_select](../assets/upload_select.png)
 3.  The workbook is saved as a data domain
@@ -24,14 +26,17 @@
 1.  Right click on a row
 2.  Select **Set header row**
 3.  Note:  All data above this row will be deleted
-![header_row](../assets/header_row.png)
+
+
+<img src="../assets/header_row.png"  style="width:200px;"></img>
 
 
 
 ### Change data types on a field
 1.  Right click ➔ **Set data type**
 2.  Choose from whole number, decimal, percent, general, currency, characters, date or boolean
-![data_type](../assets/data_type.png)
+
+<img src="../assets/data_type.png"  style="width:200px"></img>
 
 
 
