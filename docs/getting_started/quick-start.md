@@ -28,7 +28,7 @@
 3.  Note:  All data above this row will be deleted
 
 
-<img src="../assets/header_row.png"  style="width:200px;"></img>
+<img src="../assets/header_row.png"  style="width:200px;" class="border"></img>
 
 
 
