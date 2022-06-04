@@ -1,15 +1,16 @@
 ## Quick Start
-
-**To create an organization:**
+### Create an organization
 1.  Select **Create an Organization**
 2.  Fill in details
-<img src="../assets/org_details.png"  style="width:600px;"/>
-3.  Select **Create organization**
+
+<img src="../assets/org_details.png"  style="width:600px;"></img>
+
+3.  Click **Create organization**
 
 
-**To upload data:**
+### Upload data
 1.  Select **Upload XLS, CSV...**
-<img src="../assets/upload.png"  style="width:600px;"/>
+<img src="../assets/upload.png"  style="width:600px;"></img>
 2.  Drag or select a file to upload
 ![upload_select](../assets/upload_select.png)
 3.  The workbook is saved as a data domain
@@ -19,22 +20,22 @@
 
 
 
-**To set a header row:**
+### Set a header row
 1.  Right click on a row
 2.  Select **Set header row**
-3.  Note:  All data above this row will be deleted.
+3.  Note:  All data above this row will be deleted
 ![header_row](../assets/header_row.png)
 
 
 
-**To change data types on a field:**
+### Change data types on a field
 1.  Right click ➔ **Set data type**
 2.  Choose from whole number, decimal, percent, general, currency, characters, date or boolean
 ![data_type](../assets/data_type.png)
 
 
 
-**To edit the data dictionary:**
+### Edit the data dictionary
 1.  Rigth click ➔ **Show data dictionary**
 2.  Change the **Label** of a field to a more familiar term
 3.  Update **Type** on multiple fields at once
