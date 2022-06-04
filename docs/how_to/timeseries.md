@@ -1,15 +1,21 @@
-## How to set a time series
+## Time Series
 
-To set a time series on columnar data:   
+To set a time series:  
 1.	Right click ➔ **Data Transform** ➔ **Time Series**
-![ts_right_click](../assets/ts_right_click.png)
-2.  Choose Intervals
-3.  Choose start date
-![ts_interval](../assets/ts_interval.png)
-4.  Select columns for series
-![ts_columns](../assets/ts_columns.png)
-5.  Select **OK**
+
+<img src="../assets/ts_right_click.png"  style="width:300px" class="border"></img>
+
+2.  Choose Intervals and Start date
+
+<img src="../assets/ts_interval.png"  style="width:600px" class="border"></img>
+
+3.  Select columns for series
+
+<img src="../assets/ts_columns.png"  style="width:600px" class="border"></img>
+
+4.  Select **OK**
 
 To chart a time series:
 1.  Right click ➔ **Create chart** 
-![ts_chart](../assets/ts_chart.png)
+
+<img src="../assets/ts_chart.png"  style="width:600px" class="border"></img>
