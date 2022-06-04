@@ -3,21 +3,21 @@
 Rolling up groups values together.  
 
 To roll up:
-1.  Right click **Add to rollup
+1.  Right click **Add to rollup**
 
 <img src="../assets/add_rollup.png"  style="width:600px" class="border"></img>
 
 Data is grouped by the rolled up field
 
 
-<img src="../assets/add_rollup_result.png"  style="width:600px" class="border"></img>
+<img src="../assets/add_rollup_result.png"  style="width:500px" class="border"></img>
 
 
 To filter by including or excluding:
 1.  Right click 
 2.  Select from the dropbown
 
-<img src="../assets/filter_include.png"  style="width:600px" class="border"></img>
+<img src="../assets/include.png"  style="width:600px" class="border"></img>
 
 
 <img src="../assets/filter_include_result.png"  style="width:600px" class="border"></img>
