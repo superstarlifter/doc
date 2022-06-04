@@ -2,17 +2,14 @@
 
 **To create an organization:**
 1.  Select **Create an Organization**
-2.  Type in the organization name
-3.  Select the first month of the fiscal year
-4.  Select the first day of the work week
-5.  Select a theme color
-![org_details](../assets/org_details.png)
-6.  Select **Create organization**
+2.  Fill in details
+<img src="../assets/org_details.png"  style="width:600px;"/>
+3.  Select **Create organization**
 
 
 **To upload data:**
 1.  Select **Upload XLS, CSV...**
-![upload](../assets/upload.png)
+<img src="../assets/upload.png"  style="width:600px;"/>
 2.  Drag or select a file to upload
 ![upload_select](../assets/upload_select.png)
 3.  The workbook is saved as a data domain
