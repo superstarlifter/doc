@@ -10,7 +10,7 @@
 
 ### Upload data
 1.  Select **Upload XLS, CSV...**
-<img src="../assets/upload.png"  style="width:600px;"></img>
+<img src="../assets/upload.png"  style="width:600px; border: 1px solid grey"></img>
 2.  Drag or select a file to upload
 ![upload_select](../assets/upload_select.png)
 3.  The workbook is saved as a data domain
