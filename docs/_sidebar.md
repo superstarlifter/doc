@@ -1,7 +1,7 @@
 * Getting started
   * [Create an organization & add data](getting_started/quick-start.md)
   * [Create charts](getting_started/charts.md)
-  * [Create KPIs](getting_started/KPIs.md)
+  * [Create KPIs](getting_started/kpis.md)
   * [Save, add & delete dashboards](getting_started/dashboards.md)
   
 * How To
