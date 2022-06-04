@@ -2,13 +2,13 @@
 
 **To create an organization:**
 1.  Select **Create an Organization**
-![org](../assets/org.png)
 2.  Type in the organization name
 3.  Select the first month of the fiscal year
 4.  Select the first day of the work week
 5.  Select a theme color
 ![org_details](../assets/org_details.png)
 6.  Select **Create organization**
+
 
 **To upload data:**
 1.  Select **Upload XLS, CSV...**
@@ -17,17 +17,25 @@
 ![upload_select](../assets/upload_select.png)
 3.  The workbook is saved as a data domain
 4.  Choose to add or ignore each collection the domain
-![upload_add](../assets/upload_add.png)
+![add_ignore](../assets/add_ignore.png)
 5.  Select **GO**
+
+
 
 **To set a header row:**
 1.  Right click on a row
 2.  Select **Set header row**
 3.  Note:  All data above this row will be deleted.
+![header_row](../assets/header_row.png)
+
+
 
 **To change data types on a field:**
 1.  Right click ➔ **Set data type**
 2.  Choose from whole number, decimal, percent, general, currency, characters, date or boolean
+![data_type](../assets/data_type.png)
+
+
 
 **To edit the data dictionary:**
 1.  Rigth click ➔ **Show data dictionary**
