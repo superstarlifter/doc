@@ -2,7 +2,7 @@
   * [Create an organization & add data](getting_started/quick-start.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
-  * [Save, add & delete dashboards](getting_started/dashboards.md)
+  * [Add, delete & download dashboards](getting_started/dashboards.md)
   
 * How To
   * [Set a hierarchy](how_to/hierarchies.md)
