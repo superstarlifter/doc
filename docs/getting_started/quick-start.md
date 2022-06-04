@@ -11,7 +11,7 @@
 ### Upload data
 1.  Select **Upload XLS, CSV...**
 
-<img src="../assets/upload.png"  style="width:600px"></img>
+<img src="../assets/upload.png"  style="width:600px" class="border"></img>
 
 2.  Drag or select a file to upload
 ![upload_select](../assets/upload_select.png)
@@ -36,7 +36,7 @@
 1.  Right click ➔ **Set data type**
 2.  Choose from whole number, decimal, percent, general, currency, characters, date or boolean
 
-<img src="../assets/data_type.png"  style="width:200px"></img>
+<img src="../assets/data_type.png"  style="width:200px" class="border"></img>
 
 
 
