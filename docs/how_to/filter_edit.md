@@ -1,28 +1,25 @@
 ## How to save, edit and delete filters
 
-Rolling up groups values together.  To roll up data and charts by date:
-1.  Select the **Day**, **Week**, **Month**, **Quarter** or **Year**.
+To apply an existing filter, choose from the dropdown:  
 
-### None
+<img src="../assets/filter_applied.png"  style="width:200px" class="border"></img>
 
-<img src="../assets/rollup_none.png"  style="width:600px" class="border"></img>
+Select **Save as...** to save a new filter:
 
-### Quarter
+<img src="../assets/filter.png"  style="width:200px" class="border"></img>
 
-<img src="../assets/rollup_qtr.png"  style="width:600px" class="border"></img>
+<img src="../assets/filter_save.png"  style="width:400px" class="border"></img>
 
-### Year
+Select **Save** to make an edit to an existing filter
 
-<img src="../assets/rollup_annual.png"  style="width:600px" class="border"></img>
+<img src="../assets/filter_applied.png"  style="width:200px" class="border"></img>
 
+Select **Clear filter** to discard the appplied filter:
 
-To filter dates on a dashboard:
-1.  Move the end points of the slider to the left and right
+<img src="../assets/filter.png"  style="width:200px" class="border"></img>
 
-<img src="../assets/date_slider.png"  style="width:600px" class="border"></img>
+Select **Delete filter** to remove a filter
 
-To filter dates on a chart:
-1.  Move the end points of the zoomer to the left and right
+<img src="../assets/filter_applied.png"  style="width:200px" class="border"></img>
 
-<img src="../assets/date_zoomer.png"  style="width:600px" class="border"></img>
 
