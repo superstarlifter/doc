@@ -1,5 +1,7 @@
 ## How to set a time series
 
+Apply a time series when date-based data is presented in columns as opposed to rows.
+
 To set a time series:  
 1.	Right click ➔ **Data Transform** ➔ **Time Series**
 
