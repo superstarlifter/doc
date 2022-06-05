@@ -1,6 +1,6 @@
 ## How to rollup and filter 
 
-Rolling up groups values together.  
+Further explore data by rolling up (e.g. grouping data together) or filtering (e.g. including or excluding data).
 
 To roll up:
 1.  Right click **Add to rollup**
