@@ -1,5 +1,7 @@
 ## How to save, edit and delete filters
 
+Save filters to easily reference a view of data that is valuable to you. 
+
 To apply an existing filter, choose from the dropdown:  
 
 <img src="../assets/filter_applied.png"  style="width:200px" class="border"></img>
