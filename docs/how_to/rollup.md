@@ -1,4 +1,4 @@
-## How to roll up and filter dates
+## How to roll up and filter by date
 
 Rolling up groups values together.  To roll up data and charts by date:
 1.  Select the **Day**, **Week**, **Month**, **Quarter** or **Year**.
