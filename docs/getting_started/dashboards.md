@@ -1,6 +1,6 @@
 ## Dashboards
 
-All dashboards are listed in the dropbown:
+All dashboards are listed in the dropdown:
 
 <img src="../assets/dropdown.png"  style="width:400px" class="border"></img>
 
