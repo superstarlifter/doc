@@ -17,6 +17,7 @@
 <img src="../assets/kpi_selections.png"  style="width:500px" class="border"></img>
 
 4.  Add filter to KPI
+<br> *Example:  Filtering the 'Total Bins' KPI on a specific variety*
 
 <img src="../assets/kpi_filter.png"  style="width:600px" class="border"></img>
 
