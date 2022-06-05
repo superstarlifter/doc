@@ -1,6 +1,8 @@
 ## How to create a calculation
 
-Derive new values from exisitng values on collections, views or joins by using a calculation.  To create a calculation:
+Use a calculation to derive new values in a collection.
+
+To create a calculation:
 
 1.	Right click ➔ **Calculated fields**
 
