@@ -18,4 +18,4 @@ StarLifter is a self-service data analysis platform that gives teams one place t
 
 ### Connect
 
-If a topic area is not convered, please reach out to the StarLifter team at [answers@starlifter.io](answers@starlifter.io) to request its addition.
+If a topic area is not convered, please reach out to the [StarLifter team](mailto:answers@starlifter.io) to request its addition.
