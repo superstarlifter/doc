@@ -44,7 +44,7 @@
 
 
 ### Edit the data dictionary
-1.  Rigth click ➔ **Show data dictionary**
+1.  Right click ➔ **Show data dictionary**
 2.  Change the **Label** of a field to a more familiar term
 3.  Update **Type** on multiple fields at once
 4.  Select how the field is treated when aggregated: **sum**, **average**, or **none**
