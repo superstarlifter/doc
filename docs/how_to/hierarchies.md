@@ -1,5 +1,7 @@
 ## How to set a hierarchy for a tree map
 
+Hierarchies are used to create a relationship amongst categories.  Hierarchies are used to drill through data.
+
 To define a hierarchy:
 1.  Position columns in the desired order
 2.  Highlight the columns
