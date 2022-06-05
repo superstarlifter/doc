@@ -1,47 +1,21 @@
 ## StarLifter Documentation
+	
+StarLifter is a self-service data analysis platform that gives teams one place to connect data, explore analysis and share insight.  
 
-I vote for a better home page :-) 
+### Purpose
 
-You can use the [editor on GitHub](https://github.com/superstarlifter/doc/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#### This page will act as the source of truth for all StarLifter documentation.  Users will find this documentation helpful for:
+1.  Getting their first organization set up,
+2.  Educating themselves on new feature releases, and 
+3.  Maximizing the business value gained from implementation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sections
 
-### Built using Docsify
+#### Documentation is made up of three sections:
+1.  **Getting Started:**  A section dedicated to first-time users.
+2.  **How To:**  A list of each feature and how to use it.
+3.  **Helpful Links:**  Handy information for any super user.
 
-```npm i docsify-cli -g```
+### Connect
 
-[Docsify Documentation](https://docsify.js.org/#/quickstart)
-
-Everything can still be written in markdown. Just add the file and update _sidebar.md to build out the navigation.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/superstarlifter/doc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If a topic area is not convered, please reach out to the StarLifter team at [answers@starlifter.io](answers@starlifter.io) to request its addition.
