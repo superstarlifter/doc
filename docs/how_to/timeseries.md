@@ -1,4 +1,4 @@
-## Time Series
+## How to set a time series
 
 To set a time series:  
 1.	Right click ➔ **Data Transform** ➔ **Time Series**
