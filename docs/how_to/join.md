@@ -1,6 +1,6 @@
 ## How to create a join
 
-A join is used to connect to collections together using a common key.
+A join is used to connect multiple collections together using a common key.
 
 To create a join:  
 1.	Right click ➔ **Join Definitions**
