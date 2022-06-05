@@ -20,6 +20,6 @@
 
 <img src="../assets/kpi_filter.png"  style="width:600px" class="border"></img>
 
-5.  Select OK
+5.  Select **OK**
 
 <img src="../assets/kpi_finished.png"  style="width:300px" class="border"></img>
