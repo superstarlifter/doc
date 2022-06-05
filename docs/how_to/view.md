@@ -1,6 +1,6 @@
 ## How to create a view
 
-A view is a group of columns from a collection or join.  It is used to limit the number of columns in a collection.
+A view is a subset of the columns from a collection.  
 
 To create a view:  
 1.	Right click ➔ **View Definitions**
