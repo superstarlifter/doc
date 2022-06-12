@@ -18,7 +18,7 @@
   * [Cross filter a dashboard](how_to/cross_filter.md)
   * [Save, edit and delete a filter](how_to/filter.md)
 
-Analyzing data
+* Analyzing data
   * [Create a calculation](how_to/calculate.md)
   * [Pivot data](how_to/pivot.md)
   
