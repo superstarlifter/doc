@@ -6,11 +6,12 @@
   
 * Preparing data
   * [Set the header row](how_to/setheader.md)
-  * [Fill in the blanks](how_to/fillin.md)
-  * [Set a hierarchy](how_to/hierarchies.md)
-  * [Set a time series](how_to/timeseries.md)
-  * [Create a view](how_to/view.md)
   * [Create a join](how_to/join.md)
+  * [Set a hierarchy](how_to/hierarchies.md)
+  * [Fill in the blanks](how_to/fillin.md)
+  * [Set a time series](how_to/timeseries.md)
+  * [Update the dictionary](how_to/dictionary.md)
+  * [Create a view](how_to/view.md)
 
 * Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
