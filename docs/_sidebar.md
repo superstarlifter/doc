@@ -12,7 +12,7 @@
   * [Create a view](how_to/view.md)
   * [Create a join](how_to/join.md)
 
-Filtering & grouping
+* Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
   * [Roll up and filter](how_to/filter.md)
   * [Cross filter a dashboard](how_to/cross_filter.md)
