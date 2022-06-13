@@ -6,11 +6,10 @@
   
 * Preparing data
   * [Set the header row](how_to/setheader.md)
-  * [Create a join](how_to/join.md)
+  * [Set data types](how_to/data.md)
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
   * [Set a time series](how_to/timeseries.md)
-  * [Update the dictionary](how_to/dictionary.md)
   * [Create a view](how_to/view.md)
 
 * Filtering & grouping
@@ -22,8 +21,10 @@
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
   * [Pivot data](how_to/pivot.md)
+  * [Create a join](how_to/join.md)
   
 * Helpful Links
   * [Terms](getting_started/structure.md)
   * [Keyboard shortcuts](keyboard.md)
   * [Operator definitions](operators.md)
+  * [Guide to the dictionary](how_to/dictionary.md)
