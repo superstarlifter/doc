@@ -2,7 +2,7 @@
 
 Define the kind of data in each column by setting the data type.  
 
-To set a data:
+To set a data type:
 1.  Right click 
 2.  Set data type
 3.  Select the desired type  *Note:  Additional data types are available within the Dictionary*
@@ -18,6 +18,7 @@ The data types include:
 * **Characters** - A string (e.g. Hourly)
 * **Date** - 06/01/2022
 * **Boolean** - A binary value (e.g. true or false)
+* 
 
 <img src="../assets/datatype.png"  style="width:400px" class="border"></img> 
 
