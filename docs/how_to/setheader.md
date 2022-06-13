@@ -1,7 +1,5 @@
 ## How to set a header row
 
-Database 
-
 To set a header row:
 
 1.	Select the header row
