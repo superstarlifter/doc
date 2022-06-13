@@ -10,7 +10,6 @@
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
   * [Set a time series](how_to/timeseries.md)
-  * [Create a view](how_to/view.md)
 
 * Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
@@ -21,6 +20,7 @@
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
   * [Pivot data](how_to/pivot.md)
+  * [Create a view](how_to/view.md)
   * [Create a join](how_to/join.md)
   
 * Helpful Links
