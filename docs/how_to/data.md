@@ -18,7 +18,7 @@ The data types include:
 * **Characters** - A string (e.g. Hourly)
 * **Date** - 06/01/2022
 * **Boolean** - A binary value (e.g. true or false)
-* 
+
 
 <img src="../assets/datatype.png"  style="width:400px" class="border"></img> 
 
