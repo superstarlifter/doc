@@ -1,6 +1,6 @@
 ## Create a chart
 
-There are seven different chart types:
+Select from multiple chart types to best visualize data.
 
 <img src="../assets/chart_all.png"  style="width:900px" class="border"></img>
 
