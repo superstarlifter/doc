@@ -22,3 +22,15 @@ The data types include:
 
 <img src="../assets/datatype.png"  style="width:400px" class="border"></img> 
 
+### Date Formatting
+To modify the default date formatting, change the `Date Format` value in `Show Dictionary` for the date field.  The string may contain replacements for adding the day of week to the formatted date:
+
+* DDD - day of week (ie, Sun, Mon, ...)
+* dddd - the localized date
+
+For example, a date of `2022-04-03` will be formatted as:
+
+```
+DDD, dddd -> Sun, 04/03/2022
+dddd (DDD) -> 04/03/2022 (Sun)
+```
