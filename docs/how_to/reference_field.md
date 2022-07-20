@@ -22,7 +22,7 @@ To create a reference field:
 
 <img src="../assets/ref_field_add_search_field.png"  style="width:1000px" class="border"></img>
 
-5. In the row of the newly created field from Step 1 add the field you wish to return from the collection you are searching
+5. In the row of the newly created field from Step 1 add the field you wish to return from the collection you are searching prefixed by the field that contained your search value.
 
 <img src="../assets/ref_field_add_return_field.png"  style="width:1000px" class="border"></img>
 
