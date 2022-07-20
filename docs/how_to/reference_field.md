@@ -2,7 +2,7 @@
 
 Reference fields allow you to map a value from one collection to another.
 
-<img src="../assets/ref_field_diagram.jpg"  style="width:100px" class="border"></img>
+<img src="../assets/ref_field_diagram.jpg"  style="width:500px" class="border"></img>
 
 To create a reference field:
 
