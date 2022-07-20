@@ -6,7 +6,7 @@ To create a reference field:
 
 1. Right-click the grid and select  **Add field...** to add a field for the returned value of the reference field
 
-<img src="../assets/ref_field_add_field.jpg"  style="width:200px" class="border"></img>
+<img src="../assets/ref_field_add_field.jpg"  style="width:100px" class="border"></img>
 
 
 2. Right-click the grid and select **Show Dictionary**
