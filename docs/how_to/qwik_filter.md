@@ -4,7 +4,7 @@ As the name implies, Qwik filters provide a fast and simple way to filter data o
 
 To create a Qwik filter:
 
-1.	Go the the desired dashboard and click the filtered list icon in the upper right hand corner.
+1.	Go to the desired dashboard and click the filtered list icon in the upper right hand corner.
 
 <img src="../assets/qwik_filter_1.png"  style="width:400px" class="border"></img>
 
