@@ -28,6 +28,3 @@ To create a Qwik filter:
 
 5.  The charts that utilize the filtered collection will react to the filter selections.
 
-<img src="../assets/qwik_filter_5.png"  style="width:400px" class="border"></img>
-
-
