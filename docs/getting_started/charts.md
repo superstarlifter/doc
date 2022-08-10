@@ -18,7 +18,16 @@ Select from multiple chart types to best visualize data.
   
 <img src="../assets/charts_addfield_1.png"  style="width:400px" class="border"></img>  
   
-  Click the hamburger menu in the upper left of the chart and
+  Click the hamburger menu in the upper left of the chart and select **Edit Chart Definition**
+  
+  <img src="../assets/charts_edit_chart_definition_1.png"  style="width:400px" class="border"></img>
+  
+  Drag measures to the left or right vertical axes
+    **NOTE:** If the right axis is not visible click on the dotted icon to drage the right axis menu into view
+  Drag categories to the horzontalcategories axis
+  Drag a measure to the line to overalay a line on a column chart
+  
+  
 ### Good to know with charts: 
 
   Hover over data points on each chart to see tool tips
