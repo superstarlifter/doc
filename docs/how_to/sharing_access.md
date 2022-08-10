@@ -1,9 +1,9 @@
 ## Sharing Access to Users
 
 There are 3 areas of access that can be granted to other users:
-* **Domain** -  All collections and dasboard in a domain
+* **Domain** -  All collections and dasboards in a domain
 * **Collection** -  A single collection no dashboards
-* **Dashboard**  - A single dashboard no collections
+* **Dashboard**  - A single dashboard no collections 
 
 ### Domain Access
 
