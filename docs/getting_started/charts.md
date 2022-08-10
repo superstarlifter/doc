@@ -10,10 +10,15 @@ Select from multiple chart types to best visualize data.
 <img src="../assets/chart.png"  style="width:400px" class="border"></img>
 
 ### Edit a chart:
+  Click the hamburger menu in the upper left of the chart and select a chart type.
+  
+  <img src="../assets/charst_chart_type_1.png"  style="width:400px" class="border"></img>  
+  
   Click the **Add Field..** icon to quickly add categories and measures to the chart.
   
 <img src="../assets/charts_addfield_1.png"  style="width:400px" class="border"></img>  
   
+  Click the hamburger menu in the upper left of the chart and
 ### Good to know with charts: 
 
   Hover over data points on each chart to see tool tips
