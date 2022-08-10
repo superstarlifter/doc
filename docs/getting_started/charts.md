@@ -26,6 +26,7 @@ Select from multiple chart types to best visualize data.
     **NOTE:** If the right axis is not visible click on the dotted icon to drage the right axis menu into view
   * Drag categories to the horzontalcategories axis
   * Drag a measure to the line to overalay a line on a column chart
+<br>
   <img src="../assets/charts_edit_chart_definition_2.png"  style="width:800px" class="border"></img>
   
 ### Good to know with charts: 
