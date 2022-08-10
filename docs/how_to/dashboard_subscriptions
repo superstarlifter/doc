@@ -1,0 +1,17 @@
+## How to create a subscription to a dashboard
+
+Subscribe users to dashboard to allow a PDF version of the dashboard to be emailed at scheduled times.
+
+To create a dashboard subscription:
+
+1.	Go the the desired dashboard and click the envelope icon in the upper right hand corner
+
+<img src="../assets/calc.png"  style="width:200px" class="border"></img>
+
+2.  Click the + in the lower right of the dialog and input:
+*User(s) email address
+*Email Subject
+*Body of the email
+*Frequency the email will be sent
+
+
