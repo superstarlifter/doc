@@ -22,7 +22,7 @@ To create a Qwik filter:
 
 <img src="../assets/qwik_filter_3.png"  style="width:400px" class="border"></img>
 
-4.  To further filter, select the values you want to include or exclude by checking the corresponding box.
+4.  To filter, select the values you want to include or exclude by checking the corresponding box.
 
 <img src="../assets/qwik_filter_4.png"  style="width:400px" class="border"></img>
 
