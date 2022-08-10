@@ -13,7 +13,7 @@ There are 3 levels of access that can be granted to other users
 
 2.  Enter the email address of the user and select the level of access.
 
-<img src="../assets/sharing_access_domain_2.png"  style="width:400px" class="border"></img>
+<img src="../assets/sharing_access_domain_2.png"  style="width:600px" class="border"></img>
 
 3.  An email will be sent to the address provided with an invitation to access the domain.
 
