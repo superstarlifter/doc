@@ -29,7 +29,7 @@ There are 3 levels of access that can be granted to other users
 
 2.  Enter the email address of the user and select the level of access.
     * Access level **Viewer** - Can view anything in the collection.
-    * Access level **Edit and Configure** - Can edit, view the data in the collection and update the collection schema.
+    * Access level **Edit and Configure** - Can edit and view the data in the collection and update the collection schema.
     * Access level **Editor** - Can edit anything in the collection.
 
 <img src="../assets/sharing_access_collection_2.png"  style="width:600px" class="border"></img>
