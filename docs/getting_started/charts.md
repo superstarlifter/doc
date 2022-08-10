@@ -20,13 +20,13 @@ Select from multiple chart types to best visualize data.
   
   Click the hamburger menu in the upper left of the chart and select **Edit Chart Definition**
   
-  <img src="../assets/charts_edit_chart_definition_1.png"  style="width:400px" class="border"></img>
+  <img src="../assets/charts_edit_chart_definition_1.png"  style="width:200px" class="border"></img>
   
-  Drag measures to the left or right vertical axes
+  * Drag measures to the left or right vertical axes
     **NOTE:** If the right axis is not visible click on the dotted icon to drage the right axis menu into view
-  Drag categories to the horzontalcategories axis
-  Drag a measure to the line to overalay a line on a column chart
-  
+  * Drag categories to the horzontalcategories axis
+  * Drag a measure to the line to overalay a line on a column chart
+  <img src="../assets/charts_edit_chart_definition_2.png"  style="width:800px" class="border"></img>
   
 ### Good to know with charts: 
 
