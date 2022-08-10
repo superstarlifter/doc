@@ -43,3 +43,19 @@ Select the arrow for another Y axis and the line to add a line over the columns 
 <img src="../assets/charts_step4.png"  style="width:800px" class="border"></img>
 
 <img src="../assets/charts_step5.png"  style="width:800px" class="border"></img>
+
+
+5.  Add a horizontal zoomer:
+
+<img src="../assets/charts_horizontal_zoomer_1.png"  style="width:800px" class="border"></img>
+
+6.  Add a Max, Medin, Mean lines:
+
+<img src="../assets/charts_minmaxmedian_1.png"  style="width:800px" class="border"></img>
+
+6.  Add a filterable legend:
+
+<img src="../assets/charts_legend_1.png"  style="width:800px" class="border"></img>
+
+
+
