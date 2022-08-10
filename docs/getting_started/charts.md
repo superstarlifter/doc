@@ -1,4 +1,4 @@
-## Create a chart
+## Charts
 
 Select from multiple chart types to best visualize data.
 
@@ -9,6 +9,11 @@ Select from multiple chart types to best visualize data.
 
 <img src="../assets/chart.png"  style="width:400px" class="border"></img>
 
+### Edit a chart:
+  Click the **Add Field..** icon to quickly add categories and measures to the chart.
+  
+<img src="../assets/charts_addfield_1.png"  style="width:400px" class="border"></img>  
+  
 ### Good to know with charts: 
 
   Hover over data points on each chart to see tool tips
