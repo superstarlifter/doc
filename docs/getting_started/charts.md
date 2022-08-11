@@ -7,7 +7,7 @@ Select from multiple chart types to best visualize data.
 ### To create a chart:
   Right click ➔ **Create chart**
 
-<img src="../assets/chart.png"  style="width:400px" class="border"></img>
+<img src="../assets/charts_create_chart_1.png"  style="width:200px" class="border"></img>&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/chart.png"  style="width:400px" class="border"></img>
 
 ### Edit a chart:
 
@@ -28,8 +28,8 @@ Select from multiple chart types to best visualize data.
   
   * Drag measures to the left or right vertical axes
     **NOTE:** If the right axis is not visible click on the dotted icon to drage the right axis menu into view
-  * Drag categories to the horzontal categories axis
-  * Drag a measure to the line to overalay a line on a column chart
+  * Drag categories to the horzontal **Categories** axis
+  * Drag a measure to the **Line** box to overlay a line on a column chart
 <br>
   <img src="../assets/charts_edit_chart_definition_2.png"  style="width:800px" class="border"></img>
   
