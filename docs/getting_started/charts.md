@@ -20,7 +20,8 @@ Select from multiple chart types to best visualize data.
   Click the **Add Field..** icon to quickly add categories and measures to the chart.
   
 <img src="../assets/charts_addfield_1.png"  style="width:400px" class="border"></img>  
-  
+ 
+ #### Edit chart definition
   Click the hamburger menu in the upper left of the chart and select **Edit Chart Definition**
   
   <img src="../assets/charts_edit_chart_definition_1.png"  style="width:200px" class="border"></img>
