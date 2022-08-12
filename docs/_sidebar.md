@@ -13,7 +13,7 @@
 
 * Sharing Data
   * [Data access & permissions](how_to/sharing_access.md)
-  * [Email dashboard subscriptions] (how_to/dashboard_subscriptions.md)
+  * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
  
 * Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
