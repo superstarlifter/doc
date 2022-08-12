@@ -11,11 +11,16 @@
   * [Fill in the blanks](how_to/fillin.md)
   * [Set a time series](how_to/timeseries.md)
 
+* Sharing Data
+  * [Data access & permissions](how_to/sharing_access.md)
+  * [Email dashboard subscriptions] (how_to/dashboard_subscriptions.md)
+ 
 * Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
   * [Roll up and filter](how_to/filter.md)
   * [Cross filter a dashboard](how_to/cross_filter.md)
   * [Save, edit and delete a filter](how_to/filter.md)
+  * [Qwik filters](how_to/qwik_filter.md)
 
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
