@@ -1,4 +1,5 @@
 ## How to create a subscription to a dashboard
+How-to video link - https://youtu.be/34M9BJS9wjk
 
 Subscribe users to dashboard to allow a PDF version of the dashboard to be emailed at scheduled times.
 
