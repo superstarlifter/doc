@@ -1,4 +1,5 @@
 ## How to roll up and filter by date
+How-to video link - https://youtu.be/Bfs9N2WiNYc
 
 Explore data by rolling up (e.g. grouping data together by date) or filtering (e.g. including or excluding dates).
 
