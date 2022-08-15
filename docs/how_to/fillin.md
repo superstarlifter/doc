@@ -1,4 +1,5 @@
 ## How to use fill in blanks
+How-to video link - https://youtu.be/SEtwwsYOct8
 
 For a hierarchy to work across a dataset, each field in the column needs to be populated.
 
