@@ -1,4 +1,5 @@
 ## The importance of the dictionary
+How-to video link - https://youtu.be/P4LC7HkmHIc
 
 There are two purposes for the dictionary:
 1.  The organization's administrator can further edit the data within a collection, and 
