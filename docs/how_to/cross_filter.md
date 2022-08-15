@@ -1,4 +1,5 @@
 ## How to cross-filter
+How-to video link - https://youtu.be/EBZi2hHNLtw
 
 Cross-filtering dashboards allows users to perform ad hoc analysis by filtering data in or out.
 
