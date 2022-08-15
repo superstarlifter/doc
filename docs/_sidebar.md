@@ -10,7 +10,8 @@
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
   * [Set a time series](how_to/timeseries.md)
-
+  * [Create a reference field](how_to/reference_field.md)
+ 
 * Sharing Data
   * [Data access & permissions](how_to/sharing_access.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
