@@ -1,4 +1,5 @@
 ## How to set a hierarchy for a tree map
+How-to video link - https://youtu.be/gQZiO9LDOQY
 
 Hierarchies are used to create a relationship amongst categories.  Hierarchies are used to drill through data.
 
