@@ -1,4 +1,5 @@
 ## Set a data type
+How-to video link - https://youtu.be/P4LC7HkmHIc
 
 Define the kind of data in each column by setting the data type.  
 
