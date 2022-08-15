@@ -1,4 +1,5 @@
 ## How to save, edit and delete filters
+How-to video link - https://youtu.be/EBZi2hHNLtw
 
 Save filters to easily reference a view of data that is valuable to you. 
 
