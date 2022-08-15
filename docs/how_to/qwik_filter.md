@@ -1,4 +1,5 @@
 ## How to use a Qwik filter on a dashboard
+How-to video link - https://youtu.be/6eDvDwlstac
 
 As the name implies, Qwik filters provide a fast and simple way to filter data on a dashboard. In addition, Qwik filters themselves provide valuable insight into the filtered data.
 
