@@ -1,4 +1,5 @@
 ## How to set a time series
+How-to video link - https://youtu.be/zkzXqT5NrzI
 
 Apply a time series when date-based data is presented in columns as opposed to rows.
 
