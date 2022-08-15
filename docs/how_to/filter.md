@@ -1,4 +1,5 @@
 ## How to rollup and filter 
+How-to video link - https://youtu.be/EBZi2hHNLtw
 
 Further explore data by rolling up (e.g. grouping data together) or filtering (e.g. including or excluding data).
 
