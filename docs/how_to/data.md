@@ -18,9 +18,10 @@ The data types include:
 * **Characters** - A string (e.g. Hourly)
 * **Date** - 06/01/2022
 * **Boolean** - A binary value (e.g. true or false)
+* **Multiline** - Long blocks of text requiring wrapping within the field.
+* **Timestamp** - Captures the date and time in 24 hour format (e.g. 2/28/22 03:00)
 
-
-<img src="../assets/datatype.png"  style="width:400px" class="border"></img> 
+<img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
 
 ### Date Formatting
 To modify the default date formatting, change the `Date Format` value in `Show Dictionary` for the date field.  The string may contain replacements for adding the day of week to the formatted date:
