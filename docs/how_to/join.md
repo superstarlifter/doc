@@ -1,4 +1,5 @@
 ## How to create a join
+How-to video link - Part 1 - https://youtu.be/i9q6_quxxq8 Part 2 - https://youtu.be/wTQMEDzP8HA
 
 A join is used to connect multiple collections together using a common key.
 
