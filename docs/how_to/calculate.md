@@ -1,4 +1,5 @@
 ## How to create a calculation
+How-to video link - https://youtu.be/pC5Fmbb7r1A
 
 Use a calculation to derive new values in a collection.
 
