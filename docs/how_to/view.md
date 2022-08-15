@@ -1,4 +1,5 @@
 ## How to create a view
+How-to video link - https://youtu.be/HQwSGMrc9r4
 
 A view is a subset of the columns from a collection.  
 
