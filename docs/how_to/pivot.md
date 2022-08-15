@@ -1,4 +1,5 @@
 ## How create a pivot
+How-to video link - https://youtu.be/wkYBb-xqabo
 
 Use a pivot to aggregate and group values by categories.
 
