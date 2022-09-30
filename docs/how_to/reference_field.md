@@ -14,7 +14,7 @@ To create a reference field:
 2. In the add field Dialog populate the folloing fields:
 
 
-<img src="../assets/ref_field_example_nums.jpg"  style="width:500px" class="border"></img>
+
 
   - **Field Name** - Name your field
   - **Data Type** - Choose the appropriate data type for the refenced data that is returned
@@ -24,7 +24,9 @@ To create a reference field:
   - **3. Source Collection Field to Match** the field on the current collection that should match the Reference Collection Field
   - **4. Reference Field to Return** when a match occurs, which field in the matching row do you want to return
 
-<img src="../assets/ref_field_dialog.png"  style="width:200px" class="border"></img>
+<img src="../assets/ref_field_dialog_nums.jpg"  style="width:200px" class="border"></img>
+
+<img src="../assets/ref_field_example_nums.jpg"  style="width:500px" class="border"></img>
 
 3. Inspect the dictionary to view the changes to the **Source Collection Field to Match** along with the newly created field
 
