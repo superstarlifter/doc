@@ -19,10 +19,10 @@ To create a reference field:
   - **Field Name** - Name your field
   - **Data Type** - Choose the appropriate data type for the refenced data that is returned
   - Check the **Make Reference** box
-  - **1. Reference Collection** is the collection where your mapping values exist
-  - **2. Reference Collection Field** is the field you are referencing in the collection Reference Collection
-  - **3. Source Collection Field to Match** the field on the current collection that should match the Reference Collection Field
-  - **4. Reference Field to Return** when a match occurs, which field in the matching row do you want to return
+  - **Reference Collection** is the collection where your mapping values exist
+  - **Reference Collection Field** is the field you are referencing in the collection Reference Collection
+  - **Source Collection Field to Match** the field on the current collection that should match the Reference Collection Field
+  - **Reference Field to Return** when a match occurs, which field in the matching row do you want to return
 
 <img src="../assets/ref_field_dialog_nums.jpg"  style="width:200px" class="border"></img>
 
