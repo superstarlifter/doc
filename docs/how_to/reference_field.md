@@ -24,6 +24,6 @@ To create a reference field:
 
 3. Inspect the dictionary to view the changes to the **Source Collection Field to Match** along with the newly created field
 
-<img src="../assets/ref_field_show_dic.png"  style="width:200px" class="border"></img>
+<img src="../assets/ref_field_dictionary.png"  style="width:800px" class="border"></img>
 
 
