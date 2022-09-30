@@ -11,21 +11,16 @@ To create a reference field:
 <img src="../assets/ref_field_add_field.jpg"  style="width:100px" class="border"></img>
 
 
-2. Right-click the grid and select **Show Dictionary**
-
+2. In the add field Dialog populate the folloing fields:
+  - "Field Name"
+  - "Data Type" - Choose the appropriate data type for the refenced data that is returned
+  - Check the "Make Reference" box
+  - "Reference Collection" is the collection where your mapping values exist
+  - "Reference Collection Field" is the field you are referencing in the collection Reference Collection
+  - "Source Collection Field to Match" the field on the current collection that should match the Reference Collection Field
+  - "Reference Field to Return" when a match occurs, which field in the matching row do you want to return
 <img src="../assets/ref_field_show_dic.jpg"  style="width:200px" class="border"></img>
 
 3. In the row of the field that contains your search value, add the collection you wish to search prefixed with the domain [domain.collection] to the **Reference Collection** field.
-
-<img src="../assets/ref_field_add_collection.png"  style="width:1000px" class="border"></img>
-
-
-4. In the same row you added **Reference Collection** add the field from the collection you wish to search to the **Reference Field** field.
-
-<img src="../assets/ref_field_add_search_field.png"  style="width:1000px" class="border"></img>
-
-5. In the row of the newly created field from Step 1 add the field that contains the reference value wish to return to the **Reference Field** field.
-
-<img src="../assets/ref_field_add_return_field.png"  style="width:1000px" class="border"></img>
 
 
