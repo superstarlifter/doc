@@ -1,6 +1,6 @@
 ## How create a reference field
 
-Reference fields allow you to map a value from one collection to another.
+Reference fields allow you to map a value from one collection to another. Simlar to a VLOOKUP in Excel it will take a value from your row and attempt to match that value to a column in another collection. The first match it finds, it will return a chosen value from the matching row.
 
 <img src="../assets/ref_field_example.jpg"  style="width:500px" class="border"></img>
 
