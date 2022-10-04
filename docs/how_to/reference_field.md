@@ -16,7 +16,7 @@ To create a reference field:
 
 
 
-  - **Field Name** - the name your field
+  - **Field Name** - the name of your field
   - **Data Type** - the appropriate data type for the refenced data that is returned
   - **Make Reference** - enables the new field to be a reference field
   - **Reference Collection** - the collection where your mapping values exist
