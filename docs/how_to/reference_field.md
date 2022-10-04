@@ -11,7 +11,7 @@ To create a reference field:
 <img src="../assets/ref_field_add_field.jpg"  style="width:100px" class="border"></img>
 
 
-2. In the add field Dialog populate the folloing fields:
+2. In the add field Dialog populate the following fields:
 
 
 
