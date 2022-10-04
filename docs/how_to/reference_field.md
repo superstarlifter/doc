@@ -26,7 +26,7 @@ To create a reference field:
 
 <img src="../assets/ref_field_dialog_nums.jpg"  style="width:200px" class="border"></img>
 
-<img src="../assets/ref_field_example_nums.jpeg"  style="width:500px" class="border"></img>
+<img src="../assets/ref_field_example_nums.jpg"  style="width:500px" class="border"></img>
 
 3. Inspect the dictionary to view the changes to the **Source Collection Field to Match** along with the newly created field
 
