@@ -16,12 +16,21 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      
       name: 'StarLifter',
       repo: '',
       logo: '/assets/starlifter-logo.svg',
       loadSidebar: true,
       search: 'auto',
-      
+       auto2top: true,
+        maxLevel: 3,
+        subMaxLevel: 3,
+
+        // 5. docsify-themeable
+        themeable: {
+          // readyTransition : false,
+          // responsiveTables: false
+        },
       search : [
       '/',            // => /README.md
       '/guide',       // => /guide.md
