@@ -8,5 +8,5 @@ img.border {
     border-radius: 4px;
 }
 .p {
-    font-weight: bold;
+    font-weight: bold !important;
 }
