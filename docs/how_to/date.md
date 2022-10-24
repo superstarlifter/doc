@@ -4,13 +4,13 @@ In a collection with multiple date fields, you can set a primary date to use for
 
 To set a primary date:
 
-1.	Right click ➔ **Dictionary**
+1.	Right click ➔ **Show dictionary**
 
 <img src="../assets/date.png"  style="width:200px" class="border"></img>
 
 2.  Select the **Date Field** for the primary date and click **OK**
 
-<img src="../assets/date1.png"  style="width:600px" class="border"></img>
+<img src="../assets/date1.png"  style="width:200px" class="border"></img>
 
 3.  Now roll ups, charts and KPIs will respond to the primary date.
 
