@@ -7,6 +7,6 @@ img.border {
     padding: 2px;
     border-radius: 4px;
 }
-.p {
-    font-weight: bold !important;
-}
+  p:nth-child(1) {
+       font-weight: bold;
+     }
