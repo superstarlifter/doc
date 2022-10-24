@@ -13,45 +13,31 @@
   <link rel="icon" type="image/x-icon" href="/assets/favicon_wings.ico?">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app"></div>  
   <script>
     window.$docsify = {
-      
       name: 'StarLifter',
       repo: '',
       logo: '/assets/starlifter-logo.svg',
       loadSidebar: true,
-      search: 'auto',
-        maxLevel: 3,
-        subMaxLevel: 3,
+      subMaxLevel: 3,
+      name: '',
+      repo: '',
 
- 
-      search : [
-      '/',            // => /README.md
-      '/how_to',       // => /guide.md
-      '/getting-started', // => /get-started.md
-    ],
-      
+      search: 'auto', // default
+
+      // complete configuration parameters
       search: {
-      maxAge: 86400000, // Expiration time, the default one day
-      paths: [], // or 'auto'
-      placeholder: 'Type to search',
-
-      // Localization
-      placeholder: {
-        '/': 'Type to search'
-      },
-
-      noData: 'No Results!',
-
-
-      // Headline depth, 1 - 6
-      depth: 2,
-
-      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+     }
     }
-    }
- </script>
+  </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
