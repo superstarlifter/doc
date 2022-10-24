@@ -1,5 +1,6 @@
 * Getting started
   * [Create an organization and add data](getting_started/quick-start.md)
+  * [Create a blank collection](getting_started/new_collection.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
   * [Add, delete and download dashboards](getting_started/dashboards.md)
@@ -9,6 +10,7 @@
   * [Set data types](how_to/data.md)
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
+  * [Copy, paste and undo data changes](getting_started/copy.md)
   * [Set a time series](how_to/timeseries.md)
   * [Create a reference field (VLOOKUP)](how_to/reference_field.md)
  
@@ -18,6 +20,7 @@
  
 * Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
+  * [Set a primary date](how_to/date.md)
   * [Roll up and filter](how_to/filter.md)
   * [Cross filter a dashboard](how_to/cross_filter.md)
   * [Save, edit and delete a filter](how_to/filter.md)
