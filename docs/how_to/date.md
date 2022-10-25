@@ -10,7 +10,7 @@ To set a primary date:
 
 2.  Select the **Date Field** for the primary date and click **OK**
 
-<img src="../assets/date1.png"  style="width:200px" class="border"></img>
+<img src="../assets/date1.png"  style="width:400px" class="border"></img>
 
 3.  Now roll ups, charts and KPIs will respond to the primary date.
 
