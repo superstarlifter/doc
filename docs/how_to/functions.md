@@ -1,4 +1,6 @@
 ## Functions
+Functions are predefined formulas that are used in calculated fields.
+<img src="../assets/function_def_1.png"  style="width:200px" class="border"></img> <img src="../assets/function_def_2.png"  style="width:200px" class="border"></img>
 ### Mid
 ### Min
 ### Max
