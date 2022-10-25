@@ -10,7 +10,7 @@
   * [Set data types](how_to/data.md)
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
-  * [Copy, paste and undo data changes](getting_started/copy.md)
+  * [Copy, paste and undo data changes](how_to/copy.md)
   * [Set a time series](how_to/timeseries.md)
   * [Create a reference field (VLOOKUP)](how_to/reference_field.md)
  
