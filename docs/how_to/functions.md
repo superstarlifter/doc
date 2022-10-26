@@ -32,6 +32,8 @@ The example below uses an IF Statement to check for a value in the *Departure da
 DaysFromNow calculates the number of days from a given date until the current date.
 
 <img src="../assets/function_daysfromnow_1.png"  style="width:800px" class="border"></img> 
+
+<img src="../assets/function_daysfromnow_2.png"  style="width:800px" class="border"></img> 
 ### Concatenate
 Concatenate joins values together and returns the result as a string.
 
