@@ -54,10 +54,28 @@ DayName function takes a date and returns value of the day of the week in a stri
 
 <img src="../assets/function_dayname_1.png"  style="width:800px" class="border"></img> 
 
-### Week Number
+### WeekNumber
+WeekNumber function takes a date and returns a week number (1-54) that corresponds to the week of year.
+
+<img src="../assets/function_weeknumber_1.png"  style="width:800px" class="border"></img>
+
+<img src="../assets/function_weeknumber_2.png"  style="width:800px" class="border"></img>
+
 ### Left
+Left function extracts a given number of characters from the left side of a string.
+
+<img src="../assets/function_left_1.png"  style="width:800px" class="border"></img>
+
+<img src="../assets/function_left_2.png"  style="width:800px" class="border"></img>
+
 ### Right
+Right function extracts a given number of characters from the right side of a string.
+
+<img src="../assets/function_right_1.png"  style="width:800px" class="border"></img>
+
+<img src="../assets/function_right_2.png"  style="width:800px" class="border"></img>
 ### Split
+
 ### Sum Children
 ### Average Children
 ### Count Children
