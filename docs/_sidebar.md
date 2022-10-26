@@ -13,7 +13,11 @@
   * [Copy, paste and undo data changes](how_to/copy.md)
   * [Set a time series](how_to/timeseries.md)
   * [Create a reference field (VLOOKUP)](how_to/reference_field.md)
-  * [Create a blank collection](how_to/delete.md)
+  * [Delete a collection or its rows](how_to/delete.md)
+
+* Maintaining Data
+  * [Delete a collection or its rows](how_to/delete.md)
+  * [Uploading data with a date and tag](how_to/tag.md)
 
 * Sharing Data
   * [Data access & permissions](how_to/sharing_access.md)
