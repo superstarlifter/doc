@@ -37,22 +37,26 @@ Concatenate joins values together and returns the result as a string.
 
 <img src="../assets/function_concatenate_1.png"  style="width:800px" class="border"></img> 
 
+<img src="../assets/function_concatenate_2.png"  style="width:800px" class="border"></img> 
+
 ### Concatenate with Spaces
 Concatenate joins values together and returns the result as a string separated by spaces.
 
 <img src="../assets/function_concatenatewithspaces_1.png"  style="width:800px" class="border"></img> 
 
-
+<img src="../assets/function_concatenatewithspaces_2.png"  style="width:800px" class="border"></img> 
 ### RemoveNumbers
 RemoveNumbers will remove the first grouping of numbers and return the string.
 
 <img src="../assets/function_removenumbers_1.png"  style="width:800px" class="border"></img> 
 
-
+<img src="../assets/function_removenumbers_2.png"  style="width:800px" class="border"></img> 
 ### DayOfWeek
 DayOfWeek function takes a date and returns a number between 0-6 representing the day of week. 0 for Sunday and 6 for Saturday.
 
 <img src="../assets/function_dayofweek_1.png"  style="width:800px" class="border"></img> 
+
+<img src="../assets/function_dayofweek_2.png"  style="width:800px" class="border"></img> 
 
 
 ### DayName
