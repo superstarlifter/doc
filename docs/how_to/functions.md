@@ -9,19 +9,25 @@ To access the available functions for a calcuated field, click the left icon of 
 ### Mid
 MID returns a specific number of characters from a text string, starting at the position you specify, based on the number of characters you specify.
 
-<img src="../assets/function_mid_1.png"  style="width:800px" class="border"></img> <img src="../assets/function_mid_2.png"  style="width:800px" class="border"></img> 
+<img src="../assets/function_mid_3.png"  style="width:800px" class="border">
+
+</img> <img src="../assets/function_mid_4.png"  style="width:800px" class="border"></img> 
 
 ### Min
 MIN returns the smallest numeric value in the data provided.
 
 ### Max
 MAX returns the largest numeric value in the data provided.
+
 ### DateDif
 DateDif calculates the number of days, months, or years between two dates.
 
 The example below uses an IF Statement to check for a value in the *Departure date* field and the calculates the number of days between *Departure date* and *Start date* 
 
 <img src="../assets/function_datedif_2.png"  style="width:800px" class="border"></img> 
+
+<img src="../assets/function_datedif_3.png"  style="width:800px" class="border"></img> 
+
 ### DaysFromNow
 DaysFromNow calculates the number of days from a given date until the current date.
 
