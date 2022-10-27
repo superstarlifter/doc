@@ -31,6 +31,9 @@
   * [Save, edit and delete a filter](how_to/filter.md)
   * [Qwik filters](how_to/qwik_filter.md)
 
+* Visualizing data
+  * [Sort values on a chart](how_to/sort.md)
+
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
   * [Pivot data](how_to/pivot.md)
