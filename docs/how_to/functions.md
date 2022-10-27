@@ -1,5 +1,5 @@
 ## Functions
-Functions are predefined formulas that are used in [calculated fields.](https://docs.starlifter.io/#/how_to/calculated_field)
+Functions are predefined formulas that are used in [calculated fields.](https://docs.starlifter.io/#/how_to/calculate)
 
 To access the available functions for a calcuated field, click the left icon of the chip and select function.
 
