@@ -14,6 +14,7 @@
   * [Set a time series](how_to/timeseries.md)
   * [Create a reference field (VLOOKUP)](how_to/reference_field.md)
   * [Delete a collection or its rows](how_to/delete.md)
+  * [Set a default layout of a collection](how_to/default.md)
 
 * Maintaining Data
   * [Delete a collection or its rows](how_to/delete.md)
