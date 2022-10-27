@@ -138,7 +138,8 @@ Results:
 </p>
 
 
-### Sum Children
+### SumChildren
+In order to utilize the SumChildren function you will need a parent/child reference relationship between collections.
 ### Average Children
 ### Count Children
 <img src="../assets/copy.png"  style="width:200px" class="border"></img>
