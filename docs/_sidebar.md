@@ -33,6 +33,7 @@
 
 * Visualizing data
   * [Sort values on a chart](how_to/sort.md)
+  * [Define number of values on chart](how_to/cvalue.md)
 
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
