@@ -139,7 +139,48 @@ Results:
 
 
 ### SumChildren
+SumChildren function will sum the value of any child records.
+
 In order to utilize the SumChildren function you will need a parent/child reference relationship between collections.
-### Average Children
-### Count Children
-<img src="../assets/copy.png"  style="width:200px" class="border"></img>
+
+For more information on reference fields - [Reference Fields](https://docs.starlifter.io/#/how_to/reference_field?id=how-create-a-reference-field)
+
+<img src="../assets/function_sumchildren_1.png"  style="width:800px" class="border"></img>
+
+<figcaption>Child Collection</figcaption>
+<img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
+
+<figcaption>Parent Collection</figcaption>
+<img src="../assets/function_sumchildren_3.png"  style="width:400px" class="border"></img>
+
+
+
+### AvgChildren
+SumChildren function will calculate an average value of any child records.
+
+In order to utilize the AvgChildren function you will need a parent/child reference relationship between collections.
+
+For more information on reference fields - [Reference Fields](https://docs.starlifter.io/#/how_to/reference_field?id=how-create-a-reference-field)
+
+<img src="../assets/function_avgchildren_2.png"  style="width:800px" class="border"></img>
+
+<figcaption>Child Collection</figcaption>
+<img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
+<figcaption>Parent Collection</figcaption>
+<img src="../assets/function_avgchildren_1.png"  style="width:400px" class="border"></img>
+
+
+### CountChildren
+SumChildren function will count the number of any child records.
+
+In order to utilize the CountChildren function you will need a parent/child reference relationship between collections.
+
+For more information on reference fields - [Reference Fields](https://docs.starlifter.io/#/how_to/reference_field?id=how-create-a-reference-field)
+
+
+<img src="../assets/function_countchildren_1.png"  style="width:800px" class="border"></img>
+<figcaption>Child Collection</figcaption>
+<img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
+<figcaption>Parent Collection</figcaption>
+<img src="../assets/function_countchildren_2.png"  style="width:800px" class="border"></img>
+
