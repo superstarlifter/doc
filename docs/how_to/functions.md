@@ -7,7 +7,10 @@ To access the available functions for a calcuated field, click the left icon of 
 <img src="../assets/function_def_1.png"  style="width:800px" class="border"></img>    <img src="../assets/function_def_2.png"  style="width:800px" class="border"></img>
 </p>
 
+
+
 ## List of Functions
+
 ### Mid
 MID returns a specific number of characters from a text string, starting at the position you specify, based on the number of characters you specify.
 
@@ -148,11 +151,14 @@ For more information on reference fields - [Reference Fields](https://docs.starl
 <img src="../assets/function_sumchildren_1.png"  style="width:800px" class="border"></img>
 
 <figcaption>Child Collection</figcaption>
+<p align="center">
 <img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
+</p>
 
 <figcaption>Parent Collection</figcaption>
+<p align="center">
 <img src="../assets/function_sumchildren_3.png"  style="width:400px" class="border"></img>
-
+</p>
 
 
 ### AvgChildren
@@ -165,10 +171,14 @@ For more information on reference fields - [Reference Fields](https://docs.starl
 <img src="../assets/function_avgchildren_2.png"  style="width:800px" class="border"></img>
 
 <figcaption>Child Collection</figcaption>
+<p align="center">
 <img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
-<figcaption>Parent Collection</figcaption>
-<img src="../assets/function_avgchildren_1.png"  style="width:400px" class="border"></img>
+</p>
 
+<figcaption>Parent Collection</figcaption>
+<p align="center">
+<img src="../assets/function_avgchildren_1.png"  style="width:400px" class="border"></img>
+</p>
 
 ### CountChildren
 SumChildren function will count the number of any child records.
@@ -179,8 +189,14 @@ For more information on reference fields - [Reference Fields](https://docs.starl
 
 
 <img src="../assets/function_countchildren_1.png"  style="width:800px" class="border"></img>
-<figcaption>Child Collection</figcaption>
-<img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
-<figcaption>Parent Collection</figcaption>
-<img src="../assets/function_countchildren_2.png"  style="width:800px" class="border"></img>
 
+
+<figcaption>Child Collection</figcaption>
+<p align="center">
+<img src="../assets/function_sumchildren_2.png"  style="width:400px" class="border"></img>
+</p>
+
+<figcaption>Parent Collection</figcaption>
+<p align="center">
+<img src="../assets/function_countchildren_2.png"  style="width:400px" class="border"></img>
+</p>
