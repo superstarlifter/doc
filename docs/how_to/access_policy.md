@@ -1,5 +1,15 @@
 ## Access Policies
-Access policies allow admins to grant users access to specific resources in the StarLifter system. The access can be filtered down to the row and field level
+Access policies allow admins to grant users access to specific resources. The access can be filtered down to the row and field level.
+
+
+### Creating an Access Policy via sharing
+* When a user shares a resource (collection, dashboard, etc) an access policy will automatically be created in the Access Policies table.
+* Resources that requrire supporting resources will automatically create a policy for both resources.
+    * For example when a user shares a dashboard with a user 2 policies will be created 
+      * 1 for the dasboard
+      * 1+ for the read access to the read access to the data that supports the dashboard
+
+* For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](/docs/how_to/sharing_access.md)
 
 ### Creating an Access Policy Row
 1. From the administration page select the Access Policies Menu to open a list of current access policies
@@ -26,11 +36,3 @@ Access policies allow admins to grant users access to specific resources in the 
 <img src="../assets/access_policies_1.png"  style="width:200px" class="border"></img>
 
 
-### Creating an Access Policy via sharing
-* When a user shares a resource (collection, dashboard, etc) an access policy will automatically be created in the Access Policies table.
-* Resources that requrire supporting resources will automatically create a policy for both resources.
-    * For example when a user shares a dashboard with a user 2 policies will be created 
-      * 1 for the dasboard
-      * 1+ for the read access to the read access to the data that supports the dashboard
-
-* For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](/docs/how_to/sharing_access.md)
