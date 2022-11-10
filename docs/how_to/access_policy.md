@@ -33,4 +33,4 @@ Access policies allow admins to grant users access to specific resources in the 
       * 1 for the dasboard
       * 1+ for the read access to the read access to the data that supports the dashboard
 
-* For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](docs/how_to/sharing_access.md)
+* For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](/sharing_access.md)
