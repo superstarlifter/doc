@@ -19,7 +19,12 @@ There are different ways a collection is added.  It's not critical for you to re
     * Creating a view https://docs.starlifter.io/#/how_to/view
     * Creating a join https://docs.starlifter.io/#/how_to/join 
 
-3.  Understanding your role in maintaining the data is one of the most important factors of your onboarding.  Review the **Data Sources** collection.  This collection provides a list of each source collection, where it comes from and how it is maintained.  Based on your role in data maintenance, review the help desk references above.  
+3.  Understanding your role in maintaining the data is one of the most important factors of your onboarding.  Look for a collection called **Data Sources**.  This collection provides a list of each source collection, where it comes from and how it is maintained.  Based on your role in data maintenance, review the help desk references above.  
+
+<img src="../assets/nu2.png"  style="width:200px" class="border"></img>
+
+<img src="../assets/nu3.png"  style="width:800px" class="border"></img>
+
 
 4.  Now that you understand the type of analysis your organization is doing, where the data is coming from and your role in maintaining it, take a moment to explore StarLifter.  Here are some ideas to get you started:
 
