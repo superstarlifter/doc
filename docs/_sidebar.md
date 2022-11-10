@@ -48,6 +48,6 @@
   * [Keyboard shortcuts](keyboard.md)
   * [Operator definitions](operators.md)
   * [Guide to the dictionary](how_to/dictionary.md)
-  * [New Organization Admin](how_to/newuser.md)
+  * [New Organization Admin](getting_started/newuser.md)
   * [Architecture and Security](how_to/security.md)
 
