@@ -5,7 +5,10 @@ Access policies allow admins to grant users access to specific resources. The ac
 
 ### Creating an Access Policy Row
 1. From the administration page select the Access Policies Menu to open a list of current access policies
-<img src="../assets/access_policies_1.png"  style="width:200px" class="border"></img>
+
+
+<img src="../assets/access_policy_1.png"  style="width:400px" class="border"></img>
+
 
 2. Right click and select Insert Row to insert a blank row
 3. Fill out the appropriate fields 
@@ -25,7 +28,8 @@ Access policies allow admins to grant users access to specific resources. The ac
    * Parent - Used to link two policies together
       * Note: This is mostly used for Sharing dashboards. When a dashboard is shared an underlying access policy is created to share that data that supports the dashboard
 
-<img src="../assets/access_policies_1.png"  style="width:200px" class="border"></img>
+
+<img src="../assets/access_policy_2.png"  style="width:800px" class="border"></img>
 
 
 ### Creating an Access Policy via sharing
