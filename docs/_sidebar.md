@@ -49,7 +49,7 @@
   * [Keyboard shortcuts](keyboard.md)
   * [Operator definitions](operators.md)
   * [Guide to the dictionary](how_to/dictionary.md)
-  * [New User](getting_started/newnewuser.md)
+  * [New User](getting_started/newviewuser.md)
   * [New Organization Admin](getting_started/newuser.md)
   * [Architecture and Security](how_to/security.md)
 
