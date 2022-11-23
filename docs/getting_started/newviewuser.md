@@ -39,5 +39,5 @@ This article is for users of StarLifter who are not responsible for uploading ne
  
  [**Join our community**](https://community.starlifter.io/)
  
- [**Contact your StarLifter account manager**](mailto:help@starlifter.io)
+ [**Contact your StarLifter account manager**](mailto:info@starlifter.io)
    
