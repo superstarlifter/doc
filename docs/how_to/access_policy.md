@@ -26,7 +26,7 @@ Access policies allow admins to grant users access to specific resources. The ac
    * Filter - Filter access of data by rows
    * Fields - Filter access of data by fields
    * Parent - Used to link two policies together
-      * Note:  Primarily used for sharing dashboards. When a dashboard is shared an underlying access policy is created to share that data that supports the dashboard
+      * Note:  Primarily used for sharing dashboards. When a dashboard is shared, an underlying access policy is created to share that data that supports the dashboard
 
 
 <img src="../assets/access_policy_2.png"  style="width:800px" class="border"></img>
