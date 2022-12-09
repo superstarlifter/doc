@@ -34,7 +34,7 @@
   * [Qwik filters](how_to/qwik_filter.md)
 
 * Visualizing data
-  * [Sort values on a chart](how_to/sort.md)
+  * [Sort values on a chart](how_to/chart_sort.md)
   * [Define number of values on chart](how_to/cvalue.md)
 
 * Analyzing data
