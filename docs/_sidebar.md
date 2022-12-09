@@ -35,7 +35,7 @@
 
 * Visualizing data
   * [Sort values on a chart](how_to/chart_sort.md)
-  * [Define number of values on chart](how_to/cvalue.md)
+  * [Define number of values on chart](how_to/chart_data_points.md)
 
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
