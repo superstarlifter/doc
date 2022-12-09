@@ -6,5 +6,5 @@
 
 2.  Enter the number of desired data points into the "Max data points per series" field
 
-<img src="../assets/chart_data_points_1.png"  style="width:700px" class="border"></img>
+<img src="../assets/chart_data_points_1.png"  style="width:400px" class="border"></img>
 
