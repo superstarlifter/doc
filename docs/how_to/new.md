@@ -32,7 +32,7 @@ To create a collection:
 
 <img src="../assets/coll 8.png"  style="width:200px" class="border"></img>
 
-7.  Enter data accordingly
+7.  Enter data accordingly 
 
 <img src="../assets/coll 9.png"  style="width:200px" class="border"></img>
 
