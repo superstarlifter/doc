@@ -5,7 +5,7 @@ Select from multiple chart types to best visualize data.
 <img src="../assets/chart_all.png"  style="width:900px" class="border"></img>
 
 ### To create a chart:
-  Right click ➔ **Create chart**
+  Right click anywhere within the grid ➔ **Create chart**
 
 <img src="../assets/charts_create_chart_1.png"  style="width:200px" class="border"></img>&nbsp;&nbsp;&nbsp;&nbsp;<img src="../assets/chart.png"  style="width:400px" class="border"></img>
 
