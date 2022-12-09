@@ -7,7 +7,7 @@ Access policies allow admins to grant users access to specific resources. The ac
 1. From the administration page select the Access Policies Menu to open a list of current access policies
 
 
-<img src="../assets/access_policy_1.png"  style="width:400px" class="border"></img>
+<img src="../assets/access_policy_1.png"  style="width:200px" class="border"></img>
 
 
 2. Right click and select Insert Row to insert a blank row
