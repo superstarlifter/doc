@@ -1,4 +1,4 @@
-## How to group by (rollup) and filter 
+## How to group by (roll up) and filter 
 How-to video link - https://youtu.be/EBZi2hHNLtw
 
 Further explore data by grouping data together (e.g. rolling up) or filtering (e.g. including or excluding data).
