@@ -1,12 +1,12 @@
-## How to rollup and filter 
+## How to group by (rollup) and filter 
 How-to video link - https://youtu.be/EBZi2hHNLtw
 
-Further explore data by rolling up (e.g. grouping data together) or filtering (e.g. including or excluding data).
+Further explore data by grouping data together (e.g. rolling up) or filtering (e.g. including or excluding data).
 
-To roll up:
-1.  Right click **Add to rollup**
+To group by:
+1.  Right click **Add to rollup/group by**
 
-<img src="../assets/add_rollup.png"  style="width:800px" class="border"></img>
+<img src="../assets/add_rollup_2.png"  style="width:400px" class="border"></img>
 
 Data is grouped by the rolled up field
 
