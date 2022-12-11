@@ -6,7 +6,7 @@ Setting the header row defines the fields in a collection.  When uploading data 
 
 Once the header row has been set, the values have been defined in the dictionary.
 
-<img src="../assets/whyheader1.png"  style="width:1200px" class="border"></img>
+<img src="../assets/whyheader2.png"  style="width:1200px" class="border"></img>
 
 Now that the fields have been defined, they may be used in calculations (Profit = Revenue - Expenses), to filter views and create joins.
 
