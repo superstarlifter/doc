@@ -1,3 +1,6 @@
+## Calculated Fields
+Calculated fields can manipliate data based on other values in the same row. These actions range from basic mathematical operations like simple addition or subtraction, to more complex logical tests, to advanced Javascript calculations. 
+
 ## How to create a calculation
 How-to video link - https://youtu.be/pC5Fmbb7r1A
 
