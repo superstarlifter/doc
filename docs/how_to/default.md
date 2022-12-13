@@ -1,3 +1,7 @@
+## Set the default layout 
+The default layout allows you to arrange the columns of data one time for all of your users. Although users can create their own layout of the data, the default layout should be set as the starting point for all users. 
+
+
 ## How to set a default layout on a collection
 
 Set a default layout on a collection by:
@@ -12,8 +16,8 @@ Set a default layout on a collection by:
 
 3.  Choose **Set as default**  
 
-<img src="../assets/default2.png"  style="width:200px" class="border"></img>
+<img src="../assets/default3.png"  style="width:200px" class="border"></img>
 
 4.  All users will default to this layout
 
-<img src="../assets/default3.png"  style="width:600px" class="border"></img>
+<img src="../assets/default4.png"  style="width:600px" class="border"></img>
