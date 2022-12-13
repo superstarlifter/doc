@@ -1,7 +1,5 @@
 ## Access Policies
-Access policies allow admins to grant users access to specific resources. The access can be filtered down to the row and field level.
-
-
+Access policies allow admins to grant users view and update access to specific data. This access is more than just sharing a collection, it can be filtered down to the row and field level. For example, and access policy can be create to limit updating of specific rows to the owner of that row.
 
 ### Creating an Access Policy Row
 1. From the administration page select the Access Policies Menu to open a list of current access policies
