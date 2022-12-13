@@ -1,3 +1,6 @@
+## Change the number of data points on a chart
+Updating the number of data points can expand or contract the chart allowing users to have an appropriate view of the data. 
+
 ## How to change the number of data points on a chart 
 
 To define the number of values (e.g. columns, points) on a chart:
