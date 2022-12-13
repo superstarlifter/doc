@@ -1,3 +1,6 @@
+## Dashboard subscriptions
+Subscribing to a dashboard ensures a user will have the data emailed directly to their inbox whenever they choose. Sales reports can be emailed out to the entire sales team prior to their weekly sales meeting. 
+
 ## How to create a subscription to a dashboard
 How-to video link - https://youtu.be/34M9BJS9wjk
 
