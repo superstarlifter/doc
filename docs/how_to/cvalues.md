@@ -1,4 +1,4 @@
-## How to add values to the chart 
+## How to change the number of data points on a chart 
 
 To define the number of values (e.g. columns, points) on a chart:
 
