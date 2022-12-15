@@ -6,7 +6,6 @@
   * [Add, delete and download dashboards](getting_started/dashboards.md)
   
 * Preparing data
-  * [Set the header row](how_to/setheader.md)
   * [Why set the header row](how_to/whysetheader.md)
   * [Set data types](how_to/data.md)
   * [Set a hierarchy](how_to/hierarchies.md)
