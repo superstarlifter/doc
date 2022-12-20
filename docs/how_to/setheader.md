@@ -1,5 +1,5 @@
 ## Set the header row
-Setting the header row allows users to refer to their data in language they understand. Once the header row is set, users can quickly explore the data by manipulating charts, filters, and calculaitons without having to refer back to arbitrary cell references. 
+Setting the header row allows you to reference your data without using arbitrary cell references. You can use the header row columns to explore your data in charts, filters, and calculations.
 
 ## How to set a header row
 
