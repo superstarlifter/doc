@@ -1,5 +1,5 @@
 ## Changing the number of data points on a chart
-If a chart that you create does not display number of data points you want, you can quickly increase or decrease the data points in the chart definition.
+If a chart that you create does not display the number of data points you want, you can quickly increase or decrease the data points in the chart definition.
 
 ## How to change the number of data points on a chart
 
