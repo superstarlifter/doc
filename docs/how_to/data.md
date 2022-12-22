@@ -1,5 +1,5 @@
 ## Setting data types
-The type of data can determine how it interacts within the StarLifter system. For instance, a column set as a date type can utilize the date filter and date rollup functionality. Data defined as an integer or whole number can be aggregated and totaled up at the bottom of the grid. General data is not aggregated and is treated a simple text.
+The type of data can determine how you interact with the data in the StarLifter system. For example, date types allow you to filter and rollup by date. Setting the right data type will ensure you are getting the correct functionatly from your data.
 
 ## How to set a data type
 How-to video link - https://youtu.be/P4LC7HkmHIc
