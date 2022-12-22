@@ -1,5 +1,5 @@
 ## Calculated Fields
-Use calculated fields when you want to change data based on other values in the same row. These actions range from basic mathematical operations, to if-then statments, to advanced Javascript calculations. 
+Use calculated fields when you want to change data based on other values in the same row. These actions range from basic mathematical operations to if-then statements, to advanced Javascript calculations.   
 
 ## How to create a calculation
 How-to video link - https://youtu.be/pC5Fmbb7r1A
@@ -25,7 +25,7 @@ To create a calculation:
 <img src="../assets/calc_3.png"  style="width:200px" class="border"></img>
 
 4.  Select **OK**
-5.  The calculation in now part of the collection.
+5.  The calculation is now part of the collection.
 
 <img src="../assets/calc_5.png"  style="width:800px" class="border"></img>
 
