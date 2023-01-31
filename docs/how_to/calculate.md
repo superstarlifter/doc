@@ -29,3 +29,6 @@ To create a calculation:
 
 <img src="../assets/calc_5.png"  style="width:800px" class="border"></img>
 
+## How to set aggregate
+Soon...
+
