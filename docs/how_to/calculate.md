@@ -12,23 +12,38 @@ To create a calculation:
 
 <img src="../assets/calc.png"  style="width:200px" class="border"></img>
 
-2.  Choose a **Field Name** from the collection, input a **Number** or **Text**, or use an **IF** or **Function**
+2.  Enter a **Name** and select a **Type** for field
 
 <img src="../assets/calc_1.png"  style="width:600px" class="border"></img>
 
-<img src="../assets/calc_4.png"  style="width:600px" class="border"></img>
+3.  Choose the format of the data type
 
 <img src="../assets/calc_2.png"  style="width:600px" class="border"></img>
 
-3.  Choose the **Type** of data value from the dropdown
+4. Select the select the timing of aggregation when rolled up
 
-<img src="../assets/calc_3.png"  style="width:200px" class="border"></img>
+    For more information on aggregation timing visit [How to the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
 
-4.  Select **OK**
-5.  The calculation is now part of the collection.
 
-<img src="../assets/calc_5.png"  style="width:800px" class="border"></img>
+<img src="../assets/calc_3.png"  style="width:600px" class="border"></img>
 
-## How to set aggregate
+5.  Select the elements to build your calcuation. Input a **Field** **Number** or **Text**, or use an **IF** or **Function**
+
+    For a list of available functions visit [Functions](https://docs.starlifter.io/#/how_to/functions)
+
+
+<img src="../assets/calc_4.png"  style="width:600px" class="border"></img>
+
+4.  Select **Save**
+
+<img src="../assets/calc_5.png"  style="width:600px" class="border"></img>
+
+6.  The calculation is now part of the collection.
+
+<img src="../assets/calc_6.png"  style="width:600px" class="border"></img>
+
+
+
+## How to set the aggregate
 Soon...
 
