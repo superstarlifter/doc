@@ -1,5 +1,5 @@
 ## Execution order of a calulated field
-When you have a calculated field that is based on the values of another calculated field you can set the execution order to determine which field will run first.
+Choose which calculated field will run first by setting the execution order of each calculated field.
 
 ### Setting the execution order
 1. From the administration page select the Access Policies Menu to open a list of current access policies
