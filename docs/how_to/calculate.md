@@ -107,8 +107,8 @@ The following examples demonstrate each use case.
 
 ### Once rolled up 
 
-- Total - Calculated Before - Summed the result of each calucated field
-- Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
+- ✅ Total - Calculated Before - Summed the result of each calucated field
+- ❌ Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
 
 <img src="../assets/calc_11.jpg"  style="width:600px" class="border"></img>
 
@@ -121,7 +121,7 @@ The following examples demonstrate each use case.
 <img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
 
 ### Once rolled up 
-- Profit - Calculated Before - Summed the result of each calucated field
-- Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
+- ❌ Profit - Calculated Before - Summed the result of each calucated field
+- ✅ Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
 
 <img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
