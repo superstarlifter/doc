@@ -96,3 +96,19 @@ To create a calculation:
 ## How to set the aggregate
 Setting the aggregate allows you to determine if you want to calculate your values prior to rolling up the data or after the roll up has occurred.
 
+The following examples demonstrate each use case.
+
+Example 1 - Calcualting Pay Rate based on (Hours X Rate)
+
+<img src="../assets/calc_10.png"  style="width:600px" class="border"></img>
+
+
+<img src="../assets/calc_11.png"  style="width:600px" class="border"></img>
+
+
+Example 2 - Calcualting Profit
+
+<img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
+
+
+<img src="../assets/calc_13.png"  style="width:600px" class="border"></img>
