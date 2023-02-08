@@ -98,17 +98,30 @@ Setting the aggregate allows you to determine if you want to calculate your valu
 
 The following examples demonstrate each use case.
 
-Example 1 - Calcualting Pay Rate based on (Hours X Rate)
+### Example 1 - Calcualting Pay Rate before rolling up
+### How do we correctly calculate Bob's total pay over a rolled up period?
+- 2 Calculated fields have been created multiplying Hours by Rate.
+- Prior to rollup the data is calculated correctly
 
 <img src="../assets/calc_10.png"  style="width:600px" class="border"></img>
 
+### Once rolled up 
 
-<img src="../assets/calc_11.png"  style="width:600px" class="border"></img>
+- Total - Calculated Before - Summed the result of each calucated field
+- Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
+
+<img src="../assets/calc_11.jpg"  style="width:600px" class="border"></img>
 
 
-Example 2 - Calcualting Profit
+### Example 2 - Calcualting Profit after rolling up
+### How do we correctly calculate Sales Profit over a rolled up period?
+- 2 Calculated fields have been created multiplying (Sale Price - Sale Cost)/Sale Price.
+- Prior to rollup the data is calculated correctly
 
 <img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
 
+### Once rolled up 
+- Profit - Calculated Before - Summed the result of each calucated field
+- Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
 
 <img src="../assets/calc_13.png"  style="width:600px" class="border"></img>
