@@ -124,4 +124,4 @@ The following examples demonstrate each use case.
 - Profit - Calculated Before - Summed the result of each calucated field
 - Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
 
-<img src="../assets/calc_13.png"  style="width:600px" class="border"></img>
+<img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
