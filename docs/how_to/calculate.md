@@ -21,7 +21,7 @@ To create a calculation:
 
 <img src="../assets/calc_2.png"  style="width:600px" class="border"></img>
 
-4. Select the timing of aggregation when rolled up
+4. Select the timing of aggregation when rolled-up
 
     For more information on aggregation timing visit [How to the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
 
@@ -70,9 +70,9 @@ To create a calculation:
 
 <img src="../assets/calc_2.png"  style="width:600px" class="border"></img>
 
-4. Select the select the timing of aggregation when rolled up
+4. Select the select the timing of aggregation when rolled-up
 
-    For more information on aggregation timing visit [When to calculate during a roll up](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
+    For more information on aggregation timing visit [When to calculate during a roll-up](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
 
 
 <img src="../assets/calc_3.png"  style="width:600px" class="border"></img>
@@ -116,21 +116,21 @@ The following examples demonstrate each use case.
 <br>
 <br>
 
-- Rolled up by week we can see the *Calculate before* field calculate correctly whereas the *Calculate After* field is attempting to calculate the hours by the summed rate field
+- Rolled-up by week we can see the *Calculate before* field calculate correctly whereas the *Calculate After* field is attempting to calculate the hours by the summed rate field
 
 
 
 <img src="../assets/calc_18.png"  style="width:600px" class="border"></img>
 
 - ✅ Total - Calculated Before - Summed the result of each calculated field
-- ❌ Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
+- ❌ Total - Calculated After - Calculated the value of rolled-up Rate by the of rolled-up Hours
 
 <br>
 <br>
 <br>
 
 
-### Example - Calculating Profit after rolling up
+### Example - Calculating after a roll-up
 
  *How do we correctly calculate Sales Profit over a rolled-up period?*
  ___
@@ -140,7 +140,7 @@ The following examples demonstrate each use case.
 
 <img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
 
-- Rolled up by week we can see the *Calculate before* profit margin of the totals vs the  *Calculate after* total of each week's profit margin.
+- Rolled-up by week we can see the *Calculate before* profit margin of the totals vs the  *Calculate after* total of each week's profit margin.
 
 
 <img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
