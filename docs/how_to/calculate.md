@@ -115,11 +115,11 @@ The following examples demonstrate each use case.
 <br>
 <br>
 
-- Rolled up by week we can see the *Calculate before* field calculate correctly whereas the *Calculate After* field is attempting to calculate the hours by the merged rate field
+- Rolled up by week we can see the *Calculate before* field calculate correctly whereas the *Calculate After* field is attempting to calculate the hours by the summed rate field
 
 
 
-<img src="../assets/calc_11.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/calc_18.png"  style="width:600px" class="border"></img>
 
 - ✅ Total - Calculated Before - Summed the result of each calucated field
 - ❌ Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
