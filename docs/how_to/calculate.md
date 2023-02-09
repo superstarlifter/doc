@@ -106,7 +106,7 @@ The following examples demonstrate each use case.
 
 - Prior to rollup the both calculated fields correctly
 
-<img src="../assets/calc_10.png"  style="width:600px" class="border"></img>
+
 
 ### Once rolled up 
 
