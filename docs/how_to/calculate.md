@@ -115,7 +115,7 @@ The following examples demonstrate each use case.
 <br>
 <br>
 
-- When we roll up by week we can see the Calculate before field calculate correctly whereas the Calculate After field is attempting to calculate the hours by the merged rate field
+- Rolled up by week we can see the *Calculate before* field calculate correctly whereas the *Calculate After* field is attempting to calculate the hours by the merged rate field
 
 
 
@@ -139,7 +139,7 @@ The following examples demonstrate each use case.
 
 <img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
 
-Once rolled up by week we can see the profit margin of the totals vs the total of each weeks profit margin.
+- Rolled up by week we can see the the *Calculate before* profit margin of the totals vs the the *Calculate after* total of each weeks profit margin.
 
 
 <img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
