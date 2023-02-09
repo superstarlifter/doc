@@ -93,14 +93,17 @@ To create a calculation:
 
 
 
-## How to set the aggregate
-Setting the aggregate allows you to determine if you want to calculate your values prior to rolling up the data or after the roll up has occurred.
+## How to order aggregations in calculated fields
+Values differ based on whether data is aggregated before or after the calculation.
 
 The following examples demonstrate each use case.
 
-### Example 1 - Calcualting Pay Rate before rolling up
-### How do we correctly calculate Bob's total pay over a rolled up period?
+### Example - Calculate before roll up
+ *How do we correctly calculate Bob's total pay over a rolled up period?*
 - 2 Calculated fields have been created multiplying Hours by Rate.
+<img src="../assets/calc_14.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/calc_15.jpg"  style="width:600px" class="border"></img>
+
 - Prior to rollup the data is calculated correctly
 
 <img src="../assets/calc_10.png"  style="width:600px" class="border"></img>
