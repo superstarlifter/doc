@@ -100,31 +100,49 @@ The following examples demonstrate each use case.
 
 ### Example - Calculate before roll up
  *How do we correctly calculate Bob's total pay over a rolled up period?*
+ ___
 - 2 Calculated fields have been created multiplying Hours by Rate, one before, one after
   
 <img src="../assets/calc_14.png"  style="width:400px" class="border"></img><img src="../assets/calc_15.png"  style="width:400px" class="border"></img>
 
-- Prior to rollup the both calculated fields correctly
+<br>
+<br>
 
-<img src="../assets/calc_10.png"  style="width:600px" class="border"></img>
+- Prior to rollup the both calculated fields correctly and we can see how much Bob made per day
 
-### Once rolled up 
+<img src="../assets/calc_16.png"  style="width:600px" class="border"></img>
+
+<br>
+<br>
+
+- When we roll up by week we can see the Calculate before field calculate correctly whereas the Calculate After field is attempting to calculate the hours by the merged rate field
+
+
+
+<img src="../assets/calc_11.jpg"  style="width:600px" class="border"></img>
 
 - ✅ Total - Calculated Before - Summed the result of each calucated field
 - ❌ Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
 
-<img src="../assets/calc_11.jpg"  style="width:600px" class="border"></img>
+<br>
+<br>
+<br>
 
 
 ### Example 2 - Calcualting Profit after rolling up
-### How do we correctly calculate Sales Profit over a rolled up period?
-- 2 Calculated fields have been created multiplying (Sale Price - Sale Cost)/Sale Price.
-- Prior to rollup the data is calculated correctly
+
+ *How do we correctly calculate Sales Profit over a rolled up period?*
+ ___
+ 
+- 2 Calculated fields have been created calculating (Sale Price - Sale Cost)/Sale Price, one before, one after.
+- Prior to rollup the data is calculated correctly.
 
 <img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
 
-### Once rolled up 
-- ❌ Profit - Calculated Before - Summed the result of each calucated field
-- ✅ Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
+Once rolled up by week we can see the profit margin of the totals vs the total of each weeks profit margin.
+
 
 <img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
+
+- ❌ Profit - Calculated Before - Summed the result of each calucated field
+- ✅ Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
