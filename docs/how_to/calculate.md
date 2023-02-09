@@ -130,7 +130,7 @@ The following examples demonstrate each use case.
 <br>
 
 
-### Example 2 - Calculating Profit after rolling up
+### Example - Calculating Profit after rolling up
 
  *How do we correctly calculate Sales Profit over a rolled up period?*
  ___
