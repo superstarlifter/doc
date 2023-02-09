@@ -100,11 +100,11 @@ The following examples demonstrate each use case.
 
 ### Example - Calculate before roll up
  *How do we correctly calculate Bob's total pay over a rolled up period?*
-- 2 Calculated fields have been created multiplying Hours by Rate.
-<img src="../assets/calc_14.jpg"  style="width:600px" class="border"></img>
-<img src="../assets/calc_15.jpg"  style="width:600px" class="border"></img>
+- 2 Calculated fields have been created multiplying Hours by Rate, one before, one after
+  
+<img src="../assets/calc_14.png"  style="width:400px" class="border"></img><img src="../assets/calc_15.png"  style="width:400px" class="border"></img>
 
-- Prior to rollup the data is calculated correctly
+- Prior to rollup the both calculated fields correctly
 
 <img src="../assets/calc_10.png"  style="width:600px" class="border"></img>
 
