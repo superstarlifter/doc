@@ -21,7 +21,7 @@ To create a calculation:
 
 <img src="../assets/calc_2.png"  style="width:600px" class="border"></img>
 
-4. Select the select the timing of aggregation when rolled up
+4. Select the timing of aggregation when rolled up
 
     For more information on aggregation timing visit [How to the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
 
@@ -46,7 +46,7 @@ To create a calculation:
 
 
 ## How to set the aggregate
-Setting the aggregate allows you to determine if you want to calculate your values prior to rolling up the data or after the roll up has occurred.
+Setting the aggregate allows you to determine if you want to calculate your values before rolling up the data or after the roll-up has occurred.
 
 ## Calculated Fields
 Use calculated fields when you want to change data based on other values in the same row. These actions range from basic mathematical operations to if-then statements, to advanced Javascript calculations.   
@@ -94,13 +94,13 @@ To create a calculation:
 
 
 
-## When to calculate during a roll up
+## When to calculate during a roll-up
 Values differ based on whether data is aggregated before or after the calculation.
 
 The following examples demonstrate each use case.
 
-### Example - Calculate before roll up
- *How do we correctly calculate Bob's total pay over a rolled up period?*
+### Example - Calculate before roll-up
+ *How do we correctly calculate Bob's total pay over a rolled-up period?*
  ___
 - 2 Calculated fields have been created multiplying Hours by Rate, one before, one after
   
@@ -109,7 +109,7 @@ The following examples demonstrate each use case.
 <br>
 <br>
 
-- Prior to rollup the both calculated fields correctly and we can see how much Bob made per day
+- Before the roll-up both  fields calculate correctly and we can see how much Bob made per day
 
 <img src="../assets/calc_16.png"  style="width:600px" class="border"></img>
 
@@ -132,18 +132,18 @@ The following examples demonstrate each use case.
 
 ### Example - Calculating Profit after rolling up
 
- *How do we correctly calculate Sales Profit over a rolled up period?*
+ *How do we correctly calculate Sales Profit over a rolled-up period?*
  ___
  
 - 2 Calculated fields have been created calculating (Sale Price - Sale Cost)/Sale Price, one before, one after.
-- Prior to rollup the data is calculated correctly.
+- Before the roll-up, the data is calculated correctly.
 
 <img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
 
-- Rolled up by week we can see the the *Calculate before* profit margin of the totals vs the the *Calculate after* total of each weeks profit margin.
+- Rolled up by week we can see the *Calculate before* profit margin of the totals vs the  *Calculate after* total of each week's profit margin.
 
 
 <img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
 
 - ❌ Profit - Calculated Before - Summed the result of each calculated field
-- ✅ Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
+- ✅ Profit - Calculated After -  Calculated the value of rolled-up Sales Price and Sales Cost
