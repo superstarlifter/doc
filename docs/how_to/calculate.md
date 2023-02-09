@@ -1,3 +1,4 @@
+
 ## Calculated Fields
 Use calculated fields when you want to change data based on other values in the same row. These actions range from basic mathematical operations to if-then statements, to advanced Javascript calculations.   
 
@@ -71,7 +72,7 @@ To create a calculation:
 
 4. Select the select the timing of aggregation when rolled up
 
-    For more information on aggregation timing visit [How to the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
+    For more information on aggregation timing visit [When to calculate during a roll up](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
 
 
 <img src="../assets/calc_3.png"  style="width:600px" class="border"></img>
@@ -93,7 +94,7 @@ To create a calculation:
 
 
 
-## How to order aggregations in calculated fields
+## When to calculate during a roll up
 Values differ based on whether data is aggregated before or after the calculation.
 
 The following examples demonstrate each use case.
@@ -121,7 +122,7 @@ The following examples demonstrate each use case.
 
 <img src="../assets/calc_18.png"  style="width:600px" class="border"></img>
 
-- ✅ Total - Calculated Before - Summed the result of each calucated field
+- ✅ Total - Calculated Before - Summed the result of each calculated field
 - ❌ Total - Calculated After - Calculated the value of rolled up Rate by the of rolled up Hours
 
 <br>
@@ -129,7 +130,7 @@ The following examples demonstrate each use case.
 <br>
 
 
-### Example 2 - Calcualting Profit after rolling up
+### Example 2 - Calculating Profit after rolling up
 
  *How do we correctly calculate Sales Profit over a rolled up period?*
  ___
@@ -144,5 +145,5 @@ The following examples demonstrate each use case.
 
 <img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
 
-- ❌ Profit - Calculated Before - Summed the result of each calucated field
+- ❌ Profit - Calculated Before - Summed the result of each calculated field
 - ✅ Profit - Calculated After -  Calculated the value of rolled up Sales Price and Sales Cost
