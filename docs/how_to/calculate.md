@@ -123,4 +123,19 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 
 <img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
 
+### Calculate after roll-up
+ *The goal is to calculate Sales Profit % period-over-period.*
   
+1. Create a calculated field and choose ‘Calculate after rollup then sum’
+
+<img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
+
+2. Sales Profit % is calculated for each day.  For example, on 1/15/2022 Sales of $50 and costs of $45 earned a .10 Profit
+
+<img src="../assets/calc_25.png"  style="width:600px" class="border"></img>
+
+3. Now, roll-up by week.  The Sales Profit % was .10 in for the week of 01/10/2022 and .18 the week of 12/27/2021.  This works as expected since ‘Calculate after rollup then sum’ was selected.
+
+<img src="../assets/calc_26.png"  style="width:600px" class="border"></img>
+
+**Note: If you were to choose ‘Calculate before rollup then sum’, StarLifter would calculate the daily profit and then sum those totals.  Meaning, the Sales Profit % would be .30 the week of 12/27/2021.**
