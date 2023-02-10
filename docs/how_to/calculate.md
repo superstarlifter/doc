@@ -94,56 +94,33 @@ To create a calculation:
 
 
 
-## When to calculate during a roll-up
-Values differ based on whether data is aggregated before or after the calculation.
+## When to calculate before or after roll-up
 
-The following examples demonstrate each use case.
+Values differ based on whether data is aggregated (rolled up) before or after a calculation.
 
-### Example - Calculate before roll-up
- *How do we correctly calculate Bob's total pay over a rolled-up period?*
+### Calculate before roll-up
+ *The goal is to calculate Bob’s total pay per year.*
  ___
-- 2 Calculated fields have been created multiplying Hours by Rate, one before, one after
+1. First, create a calculated field. Multiply Rate by Hours.  
+
+<img src="../assets/calc_20.png"  style="width:600px" class="border"></img>
+
+2.	Choose ‘Calculate before rollup then sum’.
+
+<img src="../assets/calc_21.png"  style="width:600px" class="border"></img>
+
+- This means the calculation will first multiply Rate ($15.50) * Hours (8 hours) and then calculate a subtotal per year.
+
+3. Total Pay is calculated for each day.  For example, Bob earned $124.00 on December 31, 2021, by working 8 hours for $15.50 per hour.
+
+<img src="../assets/calc_22.png"  style="width:600px" class="border"></img>
+
+4. Now, roll-up by year. Bob earned $124 in 2021 and $666 in 2022. This works as expected since ‘Calculate before rollup then sum’ was selected.
+
+<img src="../assets/calc_23.png"  style="width:600px" class="border"></img>
+
+**Note: If you were to choose ‘Calculate after rollup then sum’, StarLifter would sum the Rates by year, sum the hours by year, and multiply them together.  Meaning, 2022 Total Pay would be $4,882.50 based on an hourly rate of $116.25 and 42 Hours.**
+
+<img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
+
   
-<img src="../assets/calc_14.png"  style="width:400px" class="border"></img><img src="../assets/calc_15.png"  style="width:400px" class="border"></img>
-
-<br>
-<br>
-
-- Before the roll-up both  fields calculate correctly and we can see how much Bob made per day
-
-<img src="../assets/calc_16.png"  style="width:600px" class="border"></img>
-
-<br>
-<br>
-
-- Rolled-up by week we can see the *Calculate before* field calculate correctly whereas the *Calculate After* field is attempting to calculate the hours by the summed rate field
-
-
-
-<img src="../assets/calc_18.png"  style="width:600px" class="border"></img>
-
-- ✅ Total - Calculated Before - Summed the result of each calculated field
-- ❌ Total - Calculated After - Calculated the value of rolled-up Rate by the of rolled-up Hours
-
-<br>
-<br>
-<br>
-
-
-### Example - Calculating after a roll-up
-
- *How do we correctly calculate Sales Profit over a rolled-up period?*
- ___
- 
-- 2 Calculated fields have been created calculating (Sale Price - Sale Cost)/Sale Price, one before, one after.
-- Before the roll-up, the data is calculated correctly.
-
-<img src="../assets/calc_12.png"  style="width:600px" class="border"></img>
-
-- Rolled-up by week we can see the *Calculate before* profit margin of the totals vs the  *Calculate after* total of each week's profit margin.
-
-
-<img src="../assets/calc_13.jpg"  style="width:600px" class="border"></img>
-
-- ❌ Profit - Calculated Before - Summed the result of each calculated field
-- ✅ Profit - Calculated After -  Calculated the value of rolled-up Sales Price and Sales Cost
