@@ -100,10 +100,10 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 
 ### Calculate before roll-up
  *The goal is to calculate Bob’s total pay per year.*
- ___
-1. First, create a calculated field. Multiply Rate by Hours.  
-
+  
 <img src="../assets/calc_20.png"  style="width:600px" class="border"></img>
+
+1. First, create a calculated field. Multiply Rate by Hours.
 
 2.	Choose ‘Calculate before rollup then sum’.
 
@@ -124,18 +124,24 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 <img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
 
 ### Calculate after roll-up
- *The goal is to calculate Sales Profit % period-over-period.*
+ *The goal is to calculate the average boxes in a bin per month.*
   
-1. Create a calculated field and choose ‘Calculate after rollup then sum’
 
 <img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
 
-2. Sales Profit % is calculated for each day.  For example, on 1/15/2022 Sales of $50 and costs of $45 earned a .10 Profit
+1. Create a calculated field and choose ‘Calculate after rollup then sum’
+
 
 <img src="../assets/calc_25.png"  style="width:600px" class="border"></img>
 
-3. Now, roll-up by week.  The Sales Profit % was .10 in for the week of 01/10/2022 and .18 the week of 12/27/2021.  This works as expected since ‘Calculate after rollup then sum’ was selected.
+2. Boxes per bin is calculated for each day.  For example, on 3/1/2022 boxes were 2485 and bins were 140 and boxes per bin equaled 17.75
+
+
 
 <img src="../assets/calc_26.png"  style="width:600px" class="border"></img>
 
-**Note: If you were to choose ‘Calculate before rollup then sum’, StarLifter would calculate the daily profit and then sum those totals.  Meaning, the Sales Profit % would be .30 the week of 12/27/2021.**
+3. Now, roll-up by month.  The boxes per bin for March was 17.88 and 18.23 in April. This works as expected since ‘Calculate after rollup then sum’ was selected.
+
+<img src="../assets/calc_27.png"  style="width:600px" class="border"></img>
+
+**Note: If you were to choose ‘Calculate before rollup then sum’, StarLifter would calculate the daily boxes per bin and then sum those totals.  Meaning, the boxes per bin would be 92.72 in March and 111.44 in April**
