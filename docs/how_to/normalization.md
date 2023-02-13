@@ -2,14 +2,14 @@
 Data entered or retrieved from external systems may be in different formats. Normalization converts these different values into a single standardized value.
 For example, a state name may be 'CA' 'Ca.' or 'California'.
 
-<img src="../assets/normalization_9.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_9.jpg"  style="width:400px" class="border"></img>
 
 
 
 Normalization converts aliases to names ensuring that each state is represented by only one name
 
 
-<img src="../assets/normalization_9.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_10.jpg"  style="width:400px" class="border"></img>
 
 Normalizations are represented in a normalization collection using Alias and Name fields
 When a value is entered that matches an Alias, it is converted to the Name value
