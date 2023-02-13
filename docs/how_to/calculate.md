@@ -109,22 +109,22 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 
 <img src="../assets/calc_21.png"  style="width:600px" class="border"></img>
 
-- This means the calculation will first multiply Rate ($15.50) * Hours (8 hours) and then calculate a subtotal per year.
+- This means the calculation multiplies Rate ($15.50) * Hours (8 hours) and then calculates a subtotal per year.
 
-3. Total Pay is calculated for each day.  For example, Bob earned $124.00 on December 31, 2021, by working 8 hours for $15.50 per hour.
+3. Total Pay is calculated for each day.  For example, Bob earned $124 on December 31, 2021, by working 8 hours for $15.50 per hour.
 
 <img src="../assets/calc_22.png"  style="width:600px" class="border"></img>
 
-4. Now, roll-up by year. Bob earned $124 in 2021 and $666 in 2022. This works as expected since ‘Calculate before rollup then sum’ was selected.
+4. Now, roll-up by year. Bob earned $124 in 2021 and $666.50 in 2022. This works as expected since ‘Calculate before rollup then sum’ was selected.
 
 <img src="../assets/calc_23.png"  style="width:600px" class="border"></img>
 
-**Note: If you were to choose ‘Calculate after rollup then sum’, StarLifter would sum the Rates by year, sum the hours by year, and multiply them together.  Meaning, 2022 Total Pay would be $4,882.50 based on an hourly rate of $116.25 and 42 Hours.**
+**Note: If you were to choose ‘Calculate after rollup then sum’, pay would be calculated incorrectly.  The Rates and Hours would be summed by year and multiplied together.  For example, 2022 Total Pay would be $4,882.50 based on an hourly rate of $116.25 and 42 Hours.**
 
 <img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
 
 ### Calculate after roll-up
- *The goal is to calculate the average boxes in a bin per month.*
+ *The goal is to calculate the average boxes per bin per month.*
   
 
 <img src="../assets/calc_24.png"  style="width:600px" class="border"></img>
@@ -134,14 +134,14 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 
 <img src="../assets/calc_25.png"  style="width:600px" class="border"></img>
 
-2. Boxes per bin is calculated for each day.  For example, on 3/1/2022 boxes were 2485 and bins were 140 and boxes per bin equaled 17.75
+2. Boxes per bin is calculated for each day.  On 3/1/2022, boxes were 2,485 and bins were 140; thus, boxes per bin was 17.75.
 
 
 
 <img src="../assets/calc_26.png"  style="width:600px" class="border"></img>
 
-3. Now, roll-up by month.  The boxes per bin for March was 17.88 and 18.23 in April. This works as expected since ‘Calculate after rollup then sum’ was selected.
+3. Now, roll-up by month.  Boxes per bin were 17.88 for March and 18.23 in April. This works as expected since ‘Calculate after rollup then sum’ was selected.
 
 <img src="../assets/calc_27.png"  style="width:600px" class="border"></img>
 
-**Note: If you were to choose ‘Calculate before rollup then sum’, StarLifter would calculate the daily boxes per bin and then sum those totals.  Meaning, the boxes per bin would be 92.72 in March and 111.44 in April**
+**Note: If you were to choose ‘Calculate before rollup then sum’, boxes per bin would have calculated incorrectly.  Daily boxes per bin would have been calcualted and then totaled; thus, the boxes per bin would have been 92.72 in March and 111.44 in April.**
