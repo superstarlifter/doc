@@ -121,7 +121,7 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 
 **Note: If you were to choose ‘Calculate after rollup then sum’, pay would be calculated incorrectly.  The Rates and Hours would be summed by year and multiplied together.  For example, 2022 Total Pay would be $4,882.50 based on an hourly rate of $116.25 and 42 Hours.**
 
-<img src="../assets/calc_28.png"  style="width:600px" class="border"></img>
+<img src="../assets/calc_29.png"  style="width:600px" class="border"></img>
 
 ### Calculate after roll-up
  *The goal is to calculate the average boxes per bin per month.*
