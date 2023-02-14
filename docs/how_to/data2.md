@@ -1,29 +1,37 @@
-## Setting data types
+## Data types
 The type of data can determine how you interact with the data in the StarLifter system. For example, date types allow you to filter and rollup by date. Setting the right data type will ensure you are getting the correct functionatly from your data.
 
 ## How to set a data type
-How-to video link - https://youtu.be/P4LC7HkmHIc
+How-to video link - 
 
 Define the kind of data in each column by setting the data type.  
 
 To set a data type:
-1.  Right click 
-2.  Set data type
-3.  Select the desired type  *Note:  Additional data types are available within the Dictionary*
+1.  Right click on the field you want to set.
+
+<img src="../assets/datatype.png"  style="width:403px" class="border"></img>
+
+2.  Select **Fields**
+
+<img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
+
+3.  Select the desired type from the **Data type** dropdown
+
+<img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
+
 
 The data types include:
-
-* **Whole number** - An integer (e.g. 1,536)
-* **Decimal** - Two decimal places (e.g. 1.99) 
-* **Percent** - A percentage (e.g. 92%)
-* **General** - A numeric value without a comma separator (e.g. 1536)
-* **Currency** - A monetary value ($) with two decimal places (e.g. $1.99)
-* **Currency$** - A monetary value ($) rounded to the closest integer (e.g. $2)
 * **Characters** - A string (e.g. Hourly)
+* **Currency** - A monetary value ($) (e.g. $1.99)
 * **Date** - 06/01/2022
-* **Boolean** - A binary value (e.g. true or false)
-* **Multiline** - Long blocks of text requiring wrapping within the field.
-* **Timestamp** - Captures the date and time in 24 hour format (e.g. 2/28/22 03:00)
+* **General** - A numeric value without a comma separator (e.g. 1536)
+* **Number** - An integer or a decimal (e.g. 1,536 or .129)
+* **Percent** - A percentage (e.g. 92%)
+* **Suggestion** - 
+* **Time** - 
+* **True/False** -
+
+
 
 <img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
 
