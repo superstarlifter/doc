@@ -11,17 +11,26 @@ Normalization converts aliases to names ensuring that each state is represented 
 
 <img src="../assets/normalization_10.jpg"  style="width:400px" class="border"></img>
 
-Normalizations are represented in a normalization collection using Alias and Name fields
-When a value is entered that matches an Alias, it is converted to the Name value
+Normalizations are represented in a normalization collection using **Alias** and **Name** fields.
+When a value is entered that matches an **Alias**, it is converted to the **Name** value.
 
-For the state example, 'CA' is the Name, the Aliases are 'California', and 'Ca.'
+<img src="../assets/normalization_12.png"  style="width:400px" class="border"></img>
 
-### How to normalize data
-1. Normalization
+'CA' is the Name, the Aliases are 'California', 'SF, CA' and 'Ca.'
 
-<img src="../assets/normalization_1.png"  style="width:600px" class="border"></img>
+### How to create a new normalization
+1. Right-click on the field you want to normalize and select **Normalize field**, **New**.
+
 <img src="../assets/normalization_2.png"  style="width:600px" class="border"></img>
+
+2. Name the new normalization collection
+
 <img src="../assets/normalization_3.png"  style="width:600px" class="border"></img>
+
+<img src="../assets/normalization_15.png"  style="width:200px" class="border"></img>
+<img src="../assets/normalization_16.png"  style="width:200px" class="border"></img>
+
+
 
 <img src="../assets/normalization_4.png"  style="width:200px" class="border"></img>
 <img src="../assets/normalization_5.png"  style="width:200px" class="border"></img>
