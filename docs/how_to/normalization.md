@@ -50,6 +50,14 @@ Update the **Name** value to your desired normalized value
 
 <img src="../assets/normalization_19.jpg"  style="width:600px" class="border"></img>
 
+### Apply an exisiting normailzation to a field 
+
+You can apply a pre-exisiting normalization to another field. 
+
+Right click on the field your want to normailze and select **Normalize field** and select the pre-exisiting normalization.
+
+<img src="../assets/normalization_19.jpg"  style="width:600px" class="border"></img>
+
 
 ### Normalization
 * Normalization
