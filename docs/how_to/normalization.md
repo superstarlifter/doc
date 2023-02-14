@@ -16,7 +16,7 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 <img src="../assets/normalization_12.png"  style="width:400px" class="border"></img>
 
-'CA' is the Name, the Aliases are 'California', 'SF, CA' and 'Ca.'
+'CA' is the Name, and the Aliases are 'California', 'SF, CA', and 'Ca.'
 
 ### How to create a new normalization
 1. Right-click on the field you want to normalize and select **Normalize field**, **New**.
@@ -27,16 +27,16 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 <img src="../assets/normalization_3.png"  style="width:600px" class="border"></img>
 
-3. A new Normalization collection is created with a record for each uniqe value found in the normailzed field.
+3. A new Normalization collection is created with a record for each unique value found in the normalized field.
 
 <img src="../assets/normalization_4.png"  style="width:200px" class="border"></img>
 
 
-4. For each **Alias** value, change the matching **Name** value to your desired normailzed value.
+4. For each **Alias** value, change the matching **Name** value to your desired normalized value.
 
 <img src="../assets/normalization_5.png"  style="width:200px" class="border"></img>
 
-5. In your original collection any **Alias** values from your normailzed field will automatically be converted to the **Name** value.
+5. In your original collection any **Alias** values from your normalized field will automatically be converted to the **Name** value.
 
 <img src="../assets/normalization_6.png"  style="width:600px" class="border"></img>
 
@@ -50,20 +50,11 @@ Update the **Name** value to your desired normalized value
 
 <img src="../assets/normalization_19.jpg"  style="width:600px" class="border"></img>
 
-### Apply an exisiting normailzation to a field 
+### Apply an existing normalization to a field 
 
-You can apply a pre-exisiting normalization to another field. 
+You can apply a pre-existing normalization to another field. 
 
-Right click on the field your want to normailze and select **Normalize field** and select the pre-exisiting normalization.
+Right-click on the field your want to normalize and select **Normalize field** and select the pre-existing normalization.
 
-<img src="../assets/normalization_19.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_20.jpg"  style="width:600px" class="border"></img>
 
-
-### Normalization
-* Normalization
-* Normalization
-    * Normalization
-      * Normalization
-      * Normalization
-
-* For more information on Normalization visit: [Normalization](/docs/how_to/Normalization.md)
