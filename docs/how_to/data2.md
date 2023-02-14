@@ -26,7 +26,6 @@ The data types include:
 * **Time** - Displays date and time as time values (e.g. 02:25 PM)
 * **True/False** - A binary true/false value
 
-<img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
 
 ### Formatting a data type
 Certain field types allow you to change the formatting of the displayed value. Format options will appear in the Field Definition after you have selected an appropriate data type.
