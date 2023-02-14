@@ -44,11 +44,11 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 Any new data entered into your normalized field will be automatically added to the normalization collection.
 
-<img src="../assets/normalization_18.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_18.jpg"  style="width:400px" class="border"></img>
 
 Update the **Name** value to your desired normalized value
 
-<img src="../assets/normalization_19.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_19.jpg"  style="width:400px" class="border"></img>
 
 ### Apply an existing normalization to a field 
 
@@ -56,5 +56,5 @@ You can apply a pre-existing normalization to another field.
 
 Right-click on the field your want to normalize and select **Normalize field** and select the pre-existing normalization.
 
-<img src="../assets/normalization_20.jpg"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_20.png"  style="width:400px" class="border"></img>
 
