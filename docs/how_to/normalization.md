@@ -44,7 +44,12 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 Any new data entered into your normalized field will be automatically added to the normalization collection.
 
-<img src="../assets/normalization_18.png"  style="width:600px" class="border"></img>
+<img src="../assets/normalization_18.jpg"  style="width:600px" class="border"></img>
+
+Update the **Name** value to your desired normalized value
+
+<img src="../assets/normalization_19.jpg"  style="width:600px" class="border"></img>
+
 
 ### Normalization
 * Normalization
