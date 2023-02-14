@@ -6,7 +6,7 @@ For example, a state name may be 'CA' 'Ca.' or 'California'.
 
 
 
-Normalization converts aliases to names ensuring that each state is represented by only one name
+Normalization converts aliases to names ensuring that each state is represented by only one name.
 
 
 <img src="../assets/normalization_10.jpg"  style="width:400px" class="border"></img>
@@ -23,7 +23,7 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 <img src="../assets/normalization_2.png"  style="width:600px" class="border"></img>
 
-2. Name the new normalization collection
+2. Name the new normalization collection.
 
 <img src="../assets/normalization_3.png"  style="width:600px" class="border"></img>
 
@@ -46,7 +46,7 @@ Any new data entered into your normalized field will be automatically added to t
 
 <img src="../assets/normalization_18.jpg"  style="width:400px" class="border"></img>
 
-Update the **Name** value to your desired normalized value
+Update the **Name** value to your desired normalized value.
 
 <img src="../assets/normalization_19.jpg"  style="width:400px" class="border"></img>
 
@@ -56,5 +56,5 @@ You can apply a pre-existing normalization to another field.
 
 Right-click on the field your want to normalize and select **Normalize field** and select the pre-existing normalization.
 
-<img src="../assets/normalization_20.png"  style="width:400px" class="border"></img>
+<img src="../assets/normalization_20.png"  style="width:800px" class="border"></img>
 
