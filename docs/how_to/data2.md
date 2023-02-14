@@ -22,21 +22,28 @@ The data types include:
 * **General** - A numeric value without a comma separator (e.g. 1536)
 * **Number** - Integer or a decimal (e.g. 1,536 or .129)
 * **Percent** - Percentage (e.g. 92%)
-* **Suggestion** - 
+* **Suggestion** - Displays a list of exisiting values or you can enter a new value
 * **Time** - Displays date and time as time values (e.g. 02:25 PM)
 * **True/False** - A binary true/false value
 
 <img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
 
 ### Formatting a data type
-Certain field types allow you to change the formatting of the displayed value. To modify the default date formatting, change the `Date Format` value in `Show Dictionary` for the date field.  The string may contain replacements for adding the day of week to the formatted date:
+Certain field types allow you to change the formatting of the displayed value. Format options will appear in the Field Definition after you have selected an appropriate data type.
 
-* DDD - day of week (ie, Sun, Mon, ...)
-* dddd - the localized date
+#### Formatting choices
+Fields with format options will have pre-defined **Format Choices** to select from. 
 
-For example, a date of `2022-04-03` will be formatted as:
+#### Custom formatting
+If you don't see the specific formatting for your field, you have to option to customize the format using the **Format** field. This field will be auto poupluated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
 
-```
-DDD, dddd -> Sun, 04/03/2022
-dddd (DDD) -> 04/03/2022 (Sun)
-```
+##### Custom formatting options
+Round a number to nearest tenth - ####.#
+Display fractions - # ???/???
+
+| Description | Format      | Original Value | Formatted Value|
+| ----------- | ----------- | ----------- | ----------- |
+| Round a number to nearest tenth      | Title       |
+| Paragraph   | Text        |
+
+  
