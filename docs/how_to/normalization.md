@@ -27,19 +27,26 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 <img src="../assets/normalization_3.png"  style="width:600px" class="border"></img>
 
-<img src="../assets/normalization_15.png"  style="width:200px" class="border"></img>
-<img src="../assets/normalization_16.png"  style="width:200px" class="border"></img>
-
-
+3. A new Normalization collection is created with a record for each uniqe value found in the normailzed field.
 
 <img src="../assets/normalization_4.png"  style="width:200px" class="border"></img>
+
+
+4. For each **Alias** value, change the matching **Name** value to your desired normailzed value.
+
 <img src="../assets/normalization_5.png"  style="width:200px" class="border"></img>
 
+5. In your original collection any **Alias** values from your normailzed field will automatically be converted to the **Name** value.
+
 <img src="../assets/normalization_6.png"  style="width:600px" class="border"></img>
+
 <img src="../assets/normalization_7.png"  style="width:600px" class="border"></img>
 <img src="../assets/normalization_8.png"  style="width:600px" class="border"></img>
 <img src="../assets/normalization_9.jpg"  style="width:600px" class="border"></img>
 
+### Adding data to a normalization collection
+
+Any new data entered into your normalized field will be automatically added to the normalization collection.
 
 
 ### Normalization
