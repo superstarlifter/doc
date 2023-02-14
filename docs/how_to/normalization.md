@@ -58,3 +58,9 @@ Right-click on the field your want to normalize and select **Normalize field** a
 
 <img src="../assets/normalization_20.png"  style="width:800px" class="border"></img>
 
+The normalization will change the values of your field to the normalized values
+
+<img src="../assets/normalization_21.png"  style="width:400px" class="border"></img>
+
+
+<img src="../assets/normalization_22.png"  style="width:800px" class="border"></img>
