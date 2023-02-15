@@ -37,12 +37,10 @@ Fields with format options will have pre-defined **Format Choices** to select fr
 If you don't see the specific formatting for your field, you have to option to customize the format using the **Format** field. This field will be auto poupluated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
 
 ##### Custom formatting options
-Round a number to nearest tenth - ####.#
-Display fractions - # ???/???
-
-| Description | Format      | Original Value | Formatted Value|
-| ----------- | ----------- | ----------- | ----------- |
-| Round a number to nearest tenth      | Title       |
-| Paragraph   | Text        |
-
-  
+| Description                     | Formatting                | Original Value | Formatted Value                  |
+|---------------------------------|---------------------------|----------------|----------------------------------|
+| Round a number to nearest tenth | ####.#                    | 1000.62        | 1000.6                           |
+| Replace decimal with fractions  | # ???/???                 | 107.5          | 107 1/2                          |
+| Append text                     | $0.00" Gain";$0.00" Loss" | 100            | $100.00 Gain                     |
+| Font color                      | [Red]#,##0.00;            |                | (Red font)                       |
+| Cell Background Color           | [White Red]#,##0.00;      |                | (Red background with White text) |
