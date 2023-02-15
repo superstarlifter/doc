@@ -38,6 +38,12 @@ Fields with format options will have pre-defined format choices to select from. 
 #### Custom formatting
 If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field. This field will be auto populated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
 
+Changes to the **Format** field will change the **Format Choices** value and the format will be appended with (Custom).
+
+_In the example below the Revenue field's font color was changed to dodgerblue and a trailing 0 was added to the end._
+
+<img src="../assets/data_06.png"  style="width:800px" class="border"></img>
+
 ##### Custom formatting options
 | Description                     | Formatting                | Original Value | Formatted Value                  |
 |---------------------------------|---------------------------|----------------|----------------------------------|
