@@ -1,6 +1,6 @@
 ## Password Reset
 
-### User initiated password reset
+### User-initiated password reset
 
 You can reset your password via the login screen. 
 
@@ -14,7 +14,7 @@ Enter your email address to have password reset instructions emailed to you.
 
 
 ### Administrator initiated password reset
-As an administrator you can reset a user's password via the user table.
+As an administrator, you can reset a user's password via the user table.
 
 Click the user profile menu in the upper right corner and select **Administration**
 
@@ -29,4 +29,4 @@ Double-click the user's password field and enter the new password and press ente
 
 <img src="../assets/password_reset_05.jpg"  style="width:800px" class="border"></img> 
 
-*Note – For security purposed the password will not be visible.
+*Note – For security purposes the password will not be visible.
