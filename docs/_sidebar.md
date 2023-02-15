@@ -43,6 +43,15 @@
   * [Pivot data](how_to/pivot.md)
   * [Create a view](how_to/view.md)
   * [Create a join](how_to/join.md)
+
+
+* Administration
+  * Password reset
+  * Data Access & Permissions
+  
+     * [Sharing data](how_to/sharing_access.md)
+     * [Access policies](how_to/access_policy.md)
+     * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
   
 * Helpful Links
   * [Terms](getting_started/structure.md)
