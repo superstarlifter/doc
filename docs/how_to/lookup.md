@@ -1,5 +1,5 @@
 ## Lookup Field
-A lookup field allows you to return a value from a row in a collection that matches a value on your current record. Similar to a VLOOKUP in Excel it will take a value from your row and attempt to match that value to a column in another collection. The first match it finds, it will return a chosen value from the matching row.
+A lookup field allows you to return a value from a row in a collection that matches a value on your current record. Similar to a VLOOKUP in Excel, it will take a value from your row and attempt to match that value to a column in another collection. The first match it finds, it will return a chosen value from the matching row.
 
 The following example adds a **Sales Rep** field on the invoice collection where the invoice's **Company Name** matches the **Company Name** on the Customer List collection and returns the **Sales Rep** value.
 
