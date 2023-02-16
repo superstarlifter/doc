@@ -1,41 +1,57 @@
-## Setting data types
-The type of data can determine how you interact with the data in the StarLifter system. For example, date types allow you to filter and rollup by date. Setting the right data type will ensure you are getting the correct functionatly from your data.
+## Data types
+The type of data can determine how you interact with the data in the StarLifter system. For example, date types allow you to filter and roll up by date. Setting the right data type will ensure you are getting the correct functionality from your data.
 
 ## How to set a data type
-How-to video link - https://youtu.be/P4LC7HkmHIc
+How-to video link - 
 
-Define the kind of data in each column by setting the data type.  
+Define the data type in each column by accessing the field definition.
 
 To set a data type:
-1.  Right click 
-2.  Set data type
-3.  Select the desired type  *Note:  Additional data types are available within the Dictionary*
+1. Right-click on the field you want to set, select **Fields**
+
+<img src="../assets/data_01.jpg"  style="width:800px" class="border"></img>
+
+2.  Select the desired type from the **Data type** dropdown
+
+<img src="../assets/data_02.jpg"  style="width:800px" class="border"></img> 
 
 The data types include:
-
-* **Whole number** - An integer (e.g. 1,536)
-* **Decimal** - Two decimal places (e.g. 1.99) 
-* **Percent** - A percentage (e.g. 92%)
-* **General** - A numeric value without a comma separator (e.g. 1536)
-* **Currency** - A monetary value ($) with two decimal places (e.g. $1.99)
-* **Currency$** - A monetary value ($) rounded to the closest integer (e.g. $2)
 * **Characters** - A string (e.g. Hourly)
+* **Currency** - A monetary value ($) (e.g. $1.99)
 * **Date** - 06/01/2022
-* **Boolean** - A binary value (e.g. true or false)
-* **Multiline** - Long blocks of text requiring wrapping within the field.
-* **Timestamp** - Captures the date and time in 24 hour format (e.g. 2/28/22 03:00)
+* **General** - A numeric value without a comma separator (e.g. 1536)
+* **Number** - Integer or decimal (e.g. 1,536 or .129)
+* **Percent** - Percentage (e.g. 92%)
+* **Suggestion** - Displays a list of existing values or you can enter a new value
+* **Time** - Displays date and time as time values (e.g. 02:25 PM)
+* **True/False** - A binary true/false value
 
-<img src="../assets/datatype.png"  style="width:403px" class="border"></img> 
 
-### Date Formatting
-To modify the default date formatting, change the `Date Format` value in `Show Dictionary` for the date field.  The string may contain replacements for adding the day of week to the formatted date:
+### Formatting a data type
+Certain field types allow you to change the formatting of the displayed value. Format options will appear in the Field Definition after you have selected an appropriate data type.
 
-* DDD - day of week (ie, Sun, Mon, ...)
-* dddd - the localized date
+#### Formatting choices
+Fields with format options will have pre-defined format choices to select from. Click the **Format Choices** drop down field to display the available choices for the chosen data type.
 
-For example, a date of `2022-04-03` will be formatted as:
+<img src="../assets/data_05.png"  style="width:800px" class="border"></img> 
 
-```
-DDD, dddd -> Sun, 04/03/2022
-dddd (DDD) -> 04/03/2022 (Sun)
-```
+#### Custom formatting
+If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field. This field will be auto populated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
+
+Changes to the **Format** field will change the **Format Choices** value and the format will be appended with (Custom).
+
+_In the example below the Revenue field's font color was changed to dodgerblue and a trailing 0 was added to the end._
+
+<img src="../assets/data_06.png"  style="width:800px" class="border"></img>
+
+##### Custom formatting options
+| Description                     | Formatting                | Original Value | Formatted Value                  |
+|---------------------------------|---------------------------|----------------|----------------------------------|
+| Round a number to nearest tenth | ####.#                    | 1000.62        | 1000.6                           |
+| Replace decimal with fractions  | # ???/???                 | 107.5          | 107 1/2                          |
+| Append text                     | $0.00" Gain";$0.00" Loss" | 100            | $100.00 Gain                     |
+| Font color                      | [Red]#,##0.00;            |                | <img src="../assets/data_04.png"  style="width:100px" class="border"></img> |
+| Cell Background Color           | [White Red]#,##0.00;      |                | <img src="../assets/data_03.png"  style="width:200px" class="border"></img>  |
+
+## Data types in the dictionary
+Data types, formatting, and field definition values are stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
