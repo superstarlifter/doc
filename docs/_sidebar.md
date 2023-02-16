@@ -47,7 +47,7 @@
 
 
 * Administration
-  * Password reset
+  * [Password reset](how_to/password_reset.md)
   * Data Access & Permissions
   
      * [Sharing data](how_to/sharing_access.md)
