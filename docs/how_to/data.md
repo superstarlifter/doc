@@ -31,16 +31,16 @@ The data types include:
 Certain field types allow you to change the formatting of the displayed value. Format options will appear in the Field Definition after you have selected an appropriate data type.
 
 #### Formatting choices
-Fields with format options will have pre-defined format choices to select from. Click the **Format Choices** drop down field to display the available choices for the chosen data type.
+Click the **Format Choices** drop-down field to display the available pre-defined choices for the data type. 
 
 <img src="../assets/data_05.png"  style="width:800px" class="border"></img> 
 
 #### Custom formatting
-If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field. This field will be auto populated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
+If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field. This field will be auto-populated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
 
 Changes to the **Format** field will change the **Format Choices** value and the format will be appended with (Custom).
 
-_In the example below the Revenue field's font color was changed to dodgerblue and a trailing 0 was added to the end._
+_In the example below, the Revenue field's font color was changed to dodgerblue and a trailing 0 was added to the end._
 
 <img src="../assets/data_06.png"  style="width:800px" class="border"></img>
 
@@ -54,4 +54,4 @@ _In the example below the Revenue field's font color was changed to dodgerblue a
 | Cell Background Color           | [White Red]#,##0.00;      |                | <img src="../assets/data_03.png"  style="width:200px" class="border"></img>  |
 
 ## Data types in the dictionary
-Data types, formatting, and field definition values are stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
+Administrators have access to the defined data types, formatting, and field definition values stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
