@@ -45,6 +45,20 @@ _In the example below, the Revenue field's font color was changed to dodgerblue 
 <img src="../assets/data_06.png"  style="width:800px" class="border"></img>
 
 ##### Custom formatting options
+There are 3 sections of a custom number format, postive number, negative numbers, zero values.
+Each of these sections must be separated by a semicolon (;).
+```
+[Positive Number];[Negative Number];[Zero Value]
+```
+The following example will:
+
+- Positive number - Add a thousands comma separate and round to two decimal places.
+- Negative number - Change the font color to red. Add a thousands comma separate and round to two decimal places.
+- Zero Values - Change front color to Blue.
+```
+#,##0.00;[Red](#,##0.00);[Blue]
+```
+
 | Description                     | Formatting                | Original Value | Formatted Value                  |
 |---------------------------------|---------------------------|----------------|----------------------------------|
 | Round a number to nearest tenth | ####.#                    | 1000.62        | 1000.6                           |
