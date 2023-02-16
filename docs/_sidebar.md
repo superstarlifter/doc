@@ -13,7 +13,7 @@
   * [Normalization](how_to/normalization.md)
   * [Copy, paste and undo data changes](how_to/copy.md)
   * [Set a time series](how_to/timeseries.md)
-  * [Create a reference field (VLOOKUP)](how_to/reference_field.md)
+  * [Create a lookup field (VLOOKUP)](how_to/lookup.md)
   * [Delete a collection or its rows](how_to/delete.md)
   * [Set a default layout of a collection](how_to/default.md)
 
