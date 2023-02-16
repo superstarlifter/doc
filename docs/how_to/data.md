@@ -1,4 +1,4 @@
-## Data types
+## Data types and formats
 The type of data can determine how you interact with the data in the StarLifter system. For example, date types allow you to filter and roll up by date. Setting the right data type will ensure you are getting the correct functionality from your data.
 
 ## How to set a data type
@@ -11,7 +11,7 @@ To set a data type:
 
 <img src="../assets/data_01.jpg"  style="width:800px" class="border"></img>
 
-2.  Select the desired type from the **Data type** dropdown
+2.  Select the desired type from the **Data Type** dropdown
 
 <img src="../assets/data_02.jpg"  style="width:800px" class="border"></img> 
 
@@ -24,7 +24,7 @@ The data types include:
 * **Percent** - Percentage (e.g. 92%)
 * **Suggestion** - Displays a list of existing values or you can enter a new value
 * **Time** - Displays date and time as time values (e.g. 02:25 PM)
-* **True/False** - A binary true/false value
+* **True/False** - A binary value
 
 
 ### Formatting a data type
