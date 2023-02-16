@@ -7,7 +7,7 @@
   
 * Preparing data
   * [Set the header row](how_to/setheader.md)
-  * [Set data types](how_to/data.md)
+  * [Data types and formats](how_to/data.md)
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
   * [Normalization](how_to/normalization.md)
