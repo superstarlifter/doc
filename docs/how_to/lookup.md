@@ -7,9 +7,15 @@ The follow example adds a **Sales Rep** field on the invoice collection where th
 ### Create a lookup field
 1. Right click the grid and select **Fields**.
 
+<img src="../assets/lookup_01.jpg"  style="width:800px" class="border"></img>
+
 2. Click the + symbol to create a new field.
 
+<img src="../assets/lookup_02.png"  style="width:800px" class="border"></img>
+
 3. Check the **Make Lookup** box to expose the lookup field.
+
+<img src="../assets/lookup_05.jpg"  style="width:800px" class="border"></img>
 
 4. Populate the following field
 - Source field to match - The value you want to lookup.
@@ -17,4 +23,9 @@ The follow example adds a **Sales Rep** field on the invoice collection where th
 - Lookup field to match - The matching value in the lookup collection.
 - Lookup field to return - The value you want to return to your field.
 
-<img src="../assets/lookup_01.jpg"  style="width:800px" class="border"></img>
+<img src="../assets/lookup_03.png"  style="width:800px" class="border"></img>
+
+5. The new lookup field is added to your collection.
+
+<img src="../assets/lookup_04.png"  style="width:800px" class="border"></img>
+
