@@ -20,11 +20,6 @@
 * Maintaining Data
   * [Delete a collection or its rows](how_to/delete.md)
   * [Uploading data with a date and tag](how_to/tag.md)
-
-* Data Access & Permissions
-  * [Sharing data](how_to/sharing_access.md)
-  * [Access policies](how_to/access_policy.md)
-  * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
  
 * Filtering & grouping
   * [Roll up and filter by date](how_to/rollup.md)
