@@ -2,7 +2,6 @@
 The type of data can determine how you interact with the data in the StarLifter system. For example, date types allow you to filter and roll up by date. StarLifter will attempt to match the correct data type when you import data from Microsoft Excel, CSV, or other systems. If the data type is unknown you may need to change it to ensure you are getting the correct functionality from your data.
 
 ## How to set a data type
-How-to video link - 
 
 Define the data type in each column by accessing the field definition.
 
