@@ -13,7 +13,7 @@ Select File --> New from the taskbar menu to create a new Powershell doucument
 
 <img src="../assets/powershell_send_email_11.png"  style="width:600px" class="border"></img>
 
-Paste the example Powershell script from [Section1](#Example PowerShell command)
+Copy/Paste the example Powershell script from section below [Example](#example-powershell-command) and change the values in the brackets.
 
 <img src="../assets/powershell_send_email_2.png"  style="width:600px" class="border"></img>
 
@@ -44,11 +44,11 @@ The following example uses a Gmail email address to send the email.
 *Items in brackets [] need to be replaced.*
 
 ```
-Send-MailMessage -From "sender@gmail.com" `
-                 -To "recepient@email.com" `
-                 -Subject "Export of accounts email from SQL" `
-                 -Body "CSV Attached" `
-                 -Attachment "" `
+Send-MailMessage -From "[SEND EMAIL]" `
+                 -To "[RECEPIENT EMAIL]" `
+                 -Subject "[SUBJECT]" `
+                 -Body "[BODY]" `
+                 -Attachment "[PATH OF ATTACHEMENT]" `
                  -SmtpServer [SMTP SERVER] `
                  -Port 587 `
                  -UseSsl `
