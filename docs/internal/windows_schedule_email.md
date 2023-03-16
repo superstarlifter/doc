@@ -5,8 +5,6 @@ You can use PowerShell to send an email with an attachment to a designated StarL
 
 Open the Powershell environment by searching for Powershell in the Windows search and selecting Windows Powershell ISE.
 
-
-
 <img src="../assets/powershell_send_email_1.png"  style="width:600px" class="border"></img>
 
 Select File --> New from the taskbar menu to create a new Powershell document.
@@ -21,12 +19,18 @@ Copy/Paste the example Powershell script from the section below [Example](#examp
 
 Select File --> Save As from the taskbar menu and name your new Powershell document.
 
-
 <img src="../assets/powershell_send_email_2.png"  style="width:600px" class="border"></img>
 
 
 
 ### Create a Windows scheduled task to run the Powershell command
+Open the Task Scheduler by searching for and selecting Task Scheduler in the Windows search.
+
+<img src="../assets/powershell_send_email_16.png"  style="width:600px" class="border"></img>
+
+Select Create Basic Task from the Actions menu in the righ-hand pane.
+
+<img src="../assets/powershell_send_email_17.png"  style="width:600px" class="border"></img>
 
 Add a name and description for the scheduled task.
 
