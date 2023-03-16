@@ -1,7 +1,7 @@
 ## Send a scheduled email from Windows via Powershell
-You can use PowerShell to send and email with an attachment to a designated StarLifter email address.
+You can use PowerShell to send an email with an attachment to a designated StarLifter email address.
 
-### Create the Poweshell script
+### Create the PowerShell script
 
 Open the Powershell environment by searching for Powershell in the Windows search and selecting Windows Powershell ISE.
 
@@ -13,7 +13,7 @@ Select File --> New from the taskbar menu to create a new Powershell document.
 
 <img src="../assets/powershell_send_email_12.png"  style="width:600px" class="border"></img>
 
-Copy/Paste the example Powershell script from section below [Example](#example-powershell-command) and change the values in the brackets.
+Copy/Paste the example Powershell script from the section below [Example](#example-powershell-command) and change the values in the brackets.
 
 <img src="../assets/powershell_send_email_11.png"  style="width:600px" class="border"></img>
 
@@ -40,7 +40,7 @@ Click Next.
 
 <img src="../assets/powershell_send_email_4.png"  style="width:600px" class="border"></img>
 
-Set the date, time, and reccurance of the task.
+Set the date, time, and recurrence of the task.
 
 Click Next.
 
@@ -66,13 +66,14 @@ Click Finish.
 
 <img src="../assets/powershell_send_email_8.png"  style="width:600px" class="border"></img>
 
-In the properties dialog, under the General tab, check the “Run when user is logged on or not” and “Run with highest privileges” checkboxes are selected.
+In the properties dialog, under the General tab, check the “Run when user is logged on or not” and “Run with highest privileges” checkboxes.
 
-#Read more: https://www.sharepointdiary.com/2013/03/create-scheduled-task-for-powershell-script.html#ixzz7w9TiO6a1
 
-<img src="../assets/powershell_send_email_9.png"  style="width:600px" class="border"></img>
+<img src="../assets/powershell_send_email_14.png"  style="width:600px" class="border"></img>
 
-<img src="../assets/powershell_send_email_10.png"  style="width:600px" class="border"></img>
+You may have to enter your password to run the Task with elevated privileges.
+
+<img src="../assets/powershell_send_email_15.png"  style="width:200px" class="border"></img>
 
 ### Example PowerShell command 
 The following example uses a Gmail email address to send the email.
