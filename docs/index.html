@@ -1,44 +1,46 @@
-  <!DOCTYPE html>
-  <html lang="en">
-  <head>
-  <meta charset="UTF-8">
-  <title>StarLifter Documentation</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>StarLifter Documentation</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="description" content="Description">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-  <style>
-    --heading-h4-font-weight: bold ;
-  </style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+<style>
+  :root {
+    --heading-h4-font-weight: bold;
+  }
+</style>
 
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="icon" type="image/x-icon" href="/assets/favicon_wings.ico?">
-  </head>
-  <body>
-  <div id="app"></div>  
-  <script>
-    window.$docsify = {
-      name: 'StarLifter',
-      repo: '',
-      logo: '/assets/starlifter-logo.svg',
-      loadSidebar: true,
-      subMaxLevel: 3,
+<link rel="stylesheet" href="/css/style.css">
+<link rel="icon" type="image/x-icon" href="/assets/favicon_wings.ico?">
+</head>
+<body>
+<div id="app"></div>
+<script>
+  window.$docsify = {
+    name: 'StarLifter',
+    repo: '',
+    logo: '/assets/starlifter-logo.svg',
+    loadSidebar: true,
+    subMaxLevel: 3,
 
-      search: 'auto', // default
+    // complete configuration parameters
+    search: {
+      maxAge: 864, //86400000 Expiration time, the default one day
+      paths: 'auto',
+      placeholder: 'Type to search',
+      noData: 'No Results!',
+      // Headline depth, 1 - 6
+      depth: 6,
+      hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+    }
+  };
 
-      // complete configuration parameters
-      search: {
-        maxAge: 864, //86400000 Expiration time, the default one day
-        paths: 'auto',
-        placeholder: 'Type to search',
-        noData: 'No Results!',
-        // Headline depth, 1 - 6
-        depth: 6,
-        hideOtherSidebarContent: true, // whether or not to hide other sidebar content
-     }
-     function getSidebarPath(path) {
-       console.log("DRS " + path);
+  function getSidebarPath(path) {
+    console.log("DRS " + path);
     if (path.startsWith('/internal')) {
       return '_sidebarInternal.md';
     } else {
@@ -53,12 +55,10 @@
     window.$docsify.loadSidebar = sidebarPath;
   });
 
+</script>
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<script src="https://unpkg.com/docsify-themeable"></script>
 
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="https://unpkg.com/docsify-themeable"></script>
-
-  </body>
-  </html>
+</body>
+</html>
