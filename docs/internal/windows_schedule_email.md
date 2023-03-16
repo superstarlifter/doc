@@ -1,5 +1,5 @@
 ## Send a scheduled email from Windows via Powershell
-You can use PowerShell to send an email with an attachment to a designated StarLifter email address.
+You may find a system that is able to complete a scheduled export of data and save that data in a folder on a Windows computer. You can use PowerShell to send an email with an attachment to a designated StarLifter email address. StarLifter can then use the email integration to import the attachment from the email inbox.
 
 ### Create the PowerShell script
 
