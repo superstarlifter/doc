@@ -48,6 +48,7 @@
   window.addEventListener('fetch', function (event) {
     const url = new URL(event.request.url);
     const path = url.pathname;
+    console.log("DRS " + path);
     const sidebarPath = getSidebarPath(path);
     window.$docsify.loadSidebar = sidebarPath;
   });
