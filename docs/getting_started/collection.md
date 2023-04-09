@@ -8,7 +8,7 @@ Order the fields in a way that will make sense to your colleagues.
 
 #### Right click and select Layout.
 
-   <img src="../assets/zhoosh1.png"  style="width:400px" class="border"></img>
+   <img src="../assets/zhoosh1.png"  style="width:200px" class="border"></img>
    
 #### Pin fields to the right, to the left, drag to reorder, or hide. 
 
