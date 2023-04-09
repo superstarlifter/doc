@@ -83,9 +83,9 @@ Back to top
    
    <img src="../assets/starting18.png"  style="width:300px" class="border"></img>
    
-Define your filter by selecting the Collection and Field.  
+#### Define your filter by selecting the Collection and Field.  
    
-   <img src="../assets/starting20.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting20.png"  style="width:400px" class="border"></img>
    
 The Quick Filter is added to the dashboard for ad hoc analysis.
    
