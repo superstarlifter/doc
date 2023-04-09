@@ -209,7 +209,7 @@ Back to top
 
 Hold SHIFT and select another collection to open two collections at the same time.
 
- <img src="../assets/starting34.png"  style="width:1200px" class="border"></img>
+ <img src="../assets/starting38.png"  style="width:1200px" class="border"></img>
 
 Back to top
 
@@ -217,7 +217,7 @@ Back to top
 
 Press CONTROL to open the accelator key menu and select your desired key.
 
- <img src="../assets/starting33.png"  style="width:1200px" class="border"></img>
+ <img src="../assets/starting39.png"  style="width:1200px" class="border"></img>
 
 
 ## Additional help and support:
