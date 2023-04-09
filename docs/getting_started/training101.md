@@ -2,73 +2,102 @@
 
 As a new user to the platform, here are the top ten most important features to learn.  
 
-**1.  Roll up by date.**
+**1.  Roll up by date**
 
-**2.  Group by category.**
+**2.  Group by category**
 
-**3.  Roll up and group by.**
+**3.  Roll up and group by**
 
-**4.  Filter by date.**
+**4.  Filter by date**
 
-**5.  Filter.**
+**5.  Filter**
 
-**6.  Create and edit a chart.**
+**6.  Create and edit a chart**
 
-**7.  Edit and edit a chart.** 
+**7.  Edit and edit a chart** 
 
-**8.  Create a KPI.**
+**8.  Create a KPI**
 
-**9.  Create a calculated field.**
+**9.  Create a calculated field**
 
-**10. Share.**
+**10. Share**
 
-**Bonus - 1.  Navigate.**
+**Bonus - 1.  Navigate**
 
-**Bonus - 2.  Open two collections.**
+**Bonus - 2.  Open two collections**
 
-**Bonus - 3.  Use shortcuts.**
-
-
+**Bonus - 3.  Use shortcuts**
 
 
 
 
 
-**1.  Roll up by date.**  To do this,  
+
+
+
+**1.  Roll up by date**  
+
+Select from the icons to roll up by day, week, month, quarter or year.
+
+No roll up
 
    <img src="../assets/starting1.png"  style="width:600px" class="border"></img>
    
+By quarter
+   
    <img src="../assets/starting2.png"  style="width:600px" class="border"></img>
 
-**2.  Group by category.**  To do this,  
+**2.  Group by category**  
+
+Right click and select **Add to Group by**
 
    <img src="../assets/starting3.png"  style="width:600px" class="border"></img>
    
+Grouped by Division   
+   
    <img src="../assets/starting4.png"  style="width:600px" class="border"></img>
 
-**3.  Roll up and group by.**  To do this,  
+**3.  Roll up and group by**
+
+To combine category groups and date roll ups, right click **Add to Group by** on the date field
    
    <img src="../assets/starting5.png"  style="width:600px" class="border"></img>
-   
+
+Grouped by Division by quarter
+
    <img src="../assets/starting6.png"  style="width:600px" class="border"></img>
-   
+
+Drag the pills to reorder quarter and Division
+
    <img src="../assets/starting8.png"  style="width:600px" class="border"></img>
 
-**4.  Filter by date.**  To do this,  
+**4.  Filter by date**    
+
+Move the date slider right to left or select the calendar icon to choose predefined or custom time periods.
 
    <img src="../assets/starting9.png"  style="width:600px" class="border"></img>
 
 **5.  Filter - Three ways.**  To do this,  
 
+1.  Use the search field
+
    <img src="../assets/starting17.png"  style="width:600px" class="border"></img>
+   
+2.  Add a Quick Filter
    
    <img src="../assets/starting18.png"  style="width:100px" class="border"></img>
    
-   <img src="../assets/starting19.png"  style="width:300px" class="border"></img>
+Define your filter by selecting the collection and field.  
    
    <img src="../assets/starting20.png"  style="width:300px" class="border"></img>
    
+The Quick Filter is added to the dashboard for ad hoc analysis.
+   
    <img src="../assets/starting21.png"  style="width:600px" class="border"></img>
+   
+3.  Pull out the filter panel using a keyboard shortcute
+
+CONTROL + V  
    
    <img src="../assets/starting22.png"  style="width:600px" class="border"></img>
    
