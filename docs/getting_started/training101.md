@@ -103,7 +103,7 @@ Filters build based off of the Collection and Fields selected.
    
 Select filter icon to create a saved filter.  
 
-   <img src="../assets/starting24.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting24.png"  style="width:200px" class="border"></img>
 
 Name filter.
 
@@ -135,7 +135,7 @@ Back to top
 
 Right click **Create KPI**.
 
-   <img src="../assets/starting14.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting14.png"  style="width:250px" class="border"></img>
    
 Customize KPI using settings. You may change titles as well as add fitlers, comparisons, colors, arrows, etc.
 
@@ -163,11 +163,11 @@ Back to top
 
 Share a dashboard or collection by selecting the share icon.
 
-   <img src="../assets/starting31.png"  style="width:400px" class="border"></img>
+   <img src="../assets/starting31.png"  style="width:500px" class="border"></img>
 
 Then, add or select your desired user.
 
-   <img src="../assets/starting32.png"  style="width:600px" class="border"></img> 
+   <img src="../assets/starting32.png"  style="width:900px" class="border"></img> 
    
  Back to top
  
@@ -175,15 +175,15 @@ Then, add or select your desired user.
 
 Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 
-   <img src="../assets/starting33.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting33.png"  style="width:900px" class="border"></img>
 
 Choose desired frequency. 
 
-   <img src="../assets/starting34.png"  style="width:600px" class="border"></img> 
+   <img src="../assets/starting34.png"  style="width:900px" class="border"></img> 
    
  Back to top
 
-## **Bonus 1: Navigate **    
+## Bonus 1: Navigate     
 
 Toggle back and forth between views using these icons.
 
@@ -205,7 +205,7 @@ Back to top
 
 Back to top
 
-## **Bonus 2: Open two collections.**  
+## Bonus 2: Open two collections. 
 
 Hold SHIFT and select another collection to open two collections at the same time.
 
@@ -213,14 +213,14 @@ Hold SHIFT and select another collection to open two collections at the same tim
 
 Back to top
 
-## **Bonus - 3.  Use shortcuts**
+## Bonus 3:  Use shortcuts
 
 Press CONTROL to open the accelator key menu and select your desired key.
 
  <img src="../assets/starting33.png"  style="width:1200px" class="border"></img>
 
 
-## **Additional help and support:**
+## Additional help and support:
  
  [**Reference the Help Desk**](https://docs.starlifter.io/)
  
