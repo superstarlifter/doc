@@ -1,20 +1,35 @@
 ## Top 10 Actions to Know 
 
 **1.  Roll up by date.**
+
 **2.  Group by category.**
+
 **3.  Roll up and group by.**
+
 **4.  Filter by date.**
+
 **5.  Filter.**
+
 **6.  Create and edit a chart.**
+
 **7.  Edit and edit a chart.** 
+
 **8.  Create a KPI.**
+
 **9.  Create a calculated field.**
+
 **10. Share.**
 
-
 **Bonus - 1.  Navigate.**
-**Bonus - 2.  Group by category.**
-**3.  Roll up and group by.**
+
+**Bonus - 2.  Open two collections.**
+
+**Bonus - 3.  Use shortcuts.**
+
+
+
+
+
 
 
 **1.  Roll up by date.**  To do this,  
