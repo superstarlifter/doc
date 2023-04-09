@@ -69,7 +69,7 @@ Back to top
 
 Move the date slider right to left or select the calendar icon to choose predefined and custom time periods.
 
-   <img src="../assets/starting9.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting9.png"  style="width:1200px" class="border"></img>
 
 Back to top
 
@@ -77,11 +77,11 @@ Back to top
 
 #### 1.  Use the search field
 
-   <img src="../assets/starting17.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting17.png"  style="width:1200px" class="border"></img>
    
 #### 2.  Add a Quick Filter
    
-   <img src="../assets/starting18.png"  style="width:100px" class="border"></img>
+   <img src="../assets/starting18.png"  style="width:300px" class="border"></img>
    
 Define your filter by selecting the Collection and Field.  
    
@@ -89,25 +89,25 @@ Define your filter by selecting the Collection and Field.
    
 The Quick Filter is added to the dashboard for ad hoc analysis.
    
-   <img src="../assets/starting21.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting21.png"  style="width:1200px" class="border"></img>
    
 #### 3.  Pull the filter panel out using a keyboard shortcut
 
 CONTROL + V  
    
-   <img src="../assets/starting22.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting22.png"  style="width:300px" class="border"></img>
    
 Filters build based off of the Collection and Fields selected. 
 
-   <img src="../assets/starting23.png"  style="width:600px" class="border"></img
+   <img src="../assets/starting23.png"  style="width:600px" class="border"></img>
    
 Select filter icon to create a saved filter.  
 
-   <img src="../assets/starting24.png"  style="width:100px" class="border"></img>
+   <img src="../assets/starting24.png"  style="width:300px" class="border"></img>
 
 Name filter.
 
-   <img src="../assets/starting25.png"  style="width:100px" class="border"></img>
+   <img src="../assets/starting25.png"  style="width:300px" class="border"></img>
    
 Back to top
 
@@ -115,7 +115,7 @@ Back to top
 
 Right click **Create Chart**.
 
-   <img src="../assets/starting10.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting10.png"  style="width:300px" class="border"></img>
 
 Add additional fields.
 
@@ -127,7 +127,7 @@ Futher customize chart.
 
 Move fields to secondary Y axis, line, etc.
 
-   <img src="../assets/starting13.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting13.png"  style="width:1200px" class="border"></img>
 
 Back to top
 
@@ -151,11 +151,11 @@ Right click **Create Calculated Field**
 
 Then, select the fields, operators, data types, etc. you wish to include.
 
-   <img src="../assets/starting36.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting36.png"  style="width:600px" class="border"></img>
    
 Now, the new field is persisted in the Collection.
 
-   <img src="../assets/starting37.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting37.png"  style="width:600px" class="border"></img>
 
 Back to top
 
@@ -163,11 +163,11 @@ Back to top
 
 Share a dashboard or collection by selecting the share icon.
 
-   <img src="../assets/starting31.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting31.png"  style="width:400px" class="border"></img>
 
 Then, add or select your desired user.
 
-   <img src="../assets/starting32.png"  style="width:300px" class="border"></img> 
+   <img src="../assets/starting32.png"  style="width:600px" class="border"></img> 
    
  Back to top
  
@@ -175,11 +175,11 @@ Then, add or select your desired user.
 
 Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 
-   <img src="../assets/starting33.png"  style="width:300px" class="border"></img>
+   <img src="../assets/starting33.png"  style="width:600px" class="border"></img>
 
 Choose desired frequency. 
 
-   <img src="../assets/starting34.png"  style="width:300px" class="border"></img> 
+   <img src="../assets/starting34.png"  style="width:600px" class="border"></img> 
    
  Back to top
 
@@ -193,15 +193,15 @@ Back to top
 
 #### Data only
 
-   <img src="../assets/starting26.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting26.png"  style="width:1200px" class="border"></img>
 
 #### Data and dashboard
 
-   <img src="../assets/starting27.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting27.png"  style="width:1200px" class="border"></img>
 
 #### Dashboard only 
 
-   <img src="../assets/starting28.png"  style="width:600px" class="border"></img>
+   <img src="../assets/starting28.png"  style="width:1200px" class="border"></img>
 
 Back to top
 
