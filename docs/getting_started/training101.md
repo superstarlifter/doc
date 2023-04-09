@@ -217,7 +217,15 @@ Back to top
 
 Press CONTROL to open the accelator key menu and select your desired key.
 
- <img src="../assets/starting39.png"  style="width:1200px" class="border"></img>
+* A:  Admin
+* B:  Dashboard & Grid
+* C:  Chat
+* D:  Dashboard
+* F:  Find
+* G:  Grid 
+* I:  Insert Row
+* V:  Filter Panel
+* ?:  Documentation
 
 
 ## Additional help and support:
