@@ -39,7 +39,7 @@ Back to top
 
 ## **2.  Group by category**  
 
-Right click and select **Add to Group by**.
+#### Right click and select **Add to Group by**.
 
    <img src="../assets/starting3.png"  style="width:600px" class="border"></img>
    
@@ -85,27 +85,27 @@ Back to top
    
 #### Define your filter by selecting the Collection and Field.  
    
-   <img src="../assets/starting20.png"  style="width:400px" class="border"></img>
+   <img src="../assets/starting20.png"  style="width:300px" class="border"></img>
    
-The Quick Filter is added to the dashboard for ad hoc analysis.
+#### The Quick Filter is added to the dashboard for ad hoc analysis.
    
    <img src="../assets/starting21.png"  style="width:1200px" class="border"></img>
    
 #### 3.  Pull the filter panel out using a keyboard shortcut
 
-CONTROL + V  
+#### CONTROL + V  
    
    <img src="../assets/starting22.png"  style="width:300px" class="border"></img>
    
-Filters build based off of the Collection and Fields selected. 
+#### Filters build based off of the Collection and Fields selected. 
 
    <img src="../assets/starting23.png"  style="width:600px" class="border"></img>
    
-Select filter icon to create a saved filter.  
+#### Select filter icon to create a saved filter.  
 
    <img src="../assets/starting24.png"  style="width:200px" class="border"></img>
 
-Name filter.
+#### Name filter.
 
    <img src="../assets/starting25.png"  style="width:300px" class="border"></img>
    
@@ -113,19 +113,19 @@ Back to top
 
 ## **6.  Create and edit a chart**  
 
-Right click **Create Chart**.
+#### Right click Create Chart.
 
    <img src="../assets/starting10.png"  style="width:300px" class="border"></img>
 
-Add additional fields.
+#### Add additional fields.
 
    <img src="../assets/starting11.png"  style="width:600px" class="border"></img>
    
-Futher customize chart.
+#### Futher customize chart.
 
    <img src="../assets/starting12.png"  style="width:600px" class="border"></img>
 
-Move fields to secondary Y axis, line, etc.
+#### Move fields to secondary Y axis, line, etc.
 
    <img src="../assets/starting13.png"  style="width:1200px" class="border"></img>
 
@@ -133,7 +133,7 @@ Back to top
 
 ## **7.  Create a KPI** 
 
-Right click **Create KPI**.
+#### Right click Create KPI.
 
    <img src="../assets/starting14.png"  style="width:250px" class="border"></img>
    
@@ -145,15 +145,15 @@ Back to top
 
 ## **8.  Create a calculated field** 
 
-Right click **Create Calculated Field** 
+#### Right click Create Calculated Field. 
 
    <img src="../assets/starting35.png"  style="width:300px" class="border"></img>
 
-Then, select the fields, operators, data types, etc. you wish to include.
+#### Then, select the fields, operators, data types, etc. you wish to include.
 
    <img src="../assets/starting36.png"  style="width:600px" class="border"></img>
    
-Now, the new field is persisted in the Collection.
+#### Now, the new field is persisted in the Collection.
 
    <img src="../assets/starting37.png"  style="width:600px" class="border"></img>
 
@@ -161,11 +161,11 @@ Back to top
 
 ## **9. Share** 
 
-Share a dashboard or collection by selecting the share icon.
+#### Share a dashboard or collection by selecting the share icon.
 
    <img src="../assets/starting31.png"  style="width:500px" class="border"></img>
 
-Then, add or select your desired user.
+#### Then, add or select your desired user.
 
    <img src="../assets/starting32.png"  style="width:900px" class="border"></img> 
    
@@ -173,11 +173,11 @@ Then, add or select your desired user.
  
  ## **10. Subscribe** 
 
-Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
+#### Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 
    <img src="../assets/starting33.png"  style="width:900px" class="border"></img>
 
-Choose desired frequency. 
+#### Choose desired frequency. 
 
    <img src="../assets/starting34.png"  style="width:900px" class="border"></img> 
    
@@ -185,7 +185,7 @@ Choose desired frequency.
 
 ## Bonus 1: Navigate     
 
-Toggle back and forth between views using these icons.
+#### Toggle back and forth between views using these icons.
 
    <img src="../assets/starting29.png"  style="width:200px" class="border"></img>
    
@@ -207,7 +207,7 @@ Back to top
 
 ## Bonus 2: Open two collections. 
 
-Hold SHIFT and select another collection to open two collections at the same time.
+#### Hold SHIFT and select another collection to open two collections at the same time.
 
  <img src="../assets/starting38.png"  style="width:1200px" class="border"></img>
 
@@ -215,17 +215,9 @@ Back to top
 
 ## Bonus 3:  Use shortcuts
 
-Press CONTROL to open the accelator key menu and select your desired key.
+#### Press CONTROL to open the accelator key menu and select your desired key.
 
-* A:  Admin
-* B:  Dashboard & Grid
-* C:  Chat
-* D:  Dashboard
-* F:  Find
-* G:  Grid 
-* I:  Insert Row
-* V:  Filter Panel
-* ?:  Documentation
+ <img src="../assets/starting38.png"  style="width:1200px" class="border"></img>
 
 
 ## Additional help and support:
