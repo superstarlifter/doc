@@ -1,3 +1,5 @@
+* Quick Start
+  * [Top 10 to know as a new user](getting_started/training101.md)
 * Getting started
   * [Create an organization and add data](getting_started/quick-start.md)
   * [Create a blank collection](how_to/new.md)
