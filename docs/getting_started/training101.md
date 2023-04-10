@@ -1,30 +1,29 @@
 ## New User - Top 10
 
-### Fast track your use of StarLifter by learning these features:  
+### Fast track your use of StarLifter by learning these features: <a id="top"></a>
 
    1.  [Roll up by date](#by-date)
-   2.  Group by category
-   3.  Roll up by date and group by category
-   4.  Filter by date
-   5.  Filter
-   6.  Create and edit a chart
-   7.  Create a KPI
-   8.  Create a calculated field
-   9. Share
+   2.  [Group by category](#category)
+   3.  [Roll up by date and group by category](#by-category)
+   4.  [Filter by date](#by-date)
+   5.  [Filter](#filter)
+   6.  [Create and edit a chart](#edit-chart)
+   7.  [Create a KPI](#kpi)
+   8.  [Create a calculated field](#field)
+   9. [Share](#share)
    10. [Subscribe](#subscribe)
 
 ### Make your life easier by learning these pro-tips:
 
-   1.  Navigate 
-   2.  Open two collections
-   3.  Use shortcuts
+   1.  [Navigate](#navigate)
+   2.  [Open two collections](#two-collections)
+   3.  [Use shortcuts](#shortcuts)
 
 
 
 
 
-## **1.  Roll up by date**
-<a id="by-date"></a>
+## **1.  Roll up by date** <a id="by-date"></a>
 
 Select from the icons to roll up by day, week, month, quarter or year.
 
@@ -36,9 +35,9 @@ Select from the icons to roll up by day, week, month, quarter or year.
    
    <img src="../assets/starting2.png"  style="width:600px" class="border"></img>
    
-Back to top
+[Back to top](#top)
 
-## **2.  Group by category**  
+## **2.  Group by category** <a id="category"></a>
 
 #### Right click and select **Add to Group by**.
 
@@ -48,9 +47,9 @@ Back to top
    
    <img src="../assets/starting4.png"  style="width:600px" class="border"></img>
    
-Back to top   
+[Back to top](#top)   
 
-## **3.  Roll up and group by**
+## **3.  Roll up and group by** <a id="by-category"></a>
 
 To combine category groups and date roll ups, right click and select **Add to Group by** on the date field.
    
@@ -66,7 +65,7 @@ To combine category groups and date roll ups, right click and select **Add to Gr
 
 Back to top
 
-## **4.  Filter by date**    
+## **4.  Filter by date** <a id="by-date"></a>
 
 Move the date slider right to left or select the calendar icon to choose predefined and custom time periods.
 
@@ -74,7 +73,7 @@ Move the date slider right to left or select the calendar icon to choose predefi
 
 Back to top
 
-## **5.  Filter - Three ways**    
+## **5.  Filter - Three ways** <a id="filter"></a>
 
 #### 1.  Use the search field
 
@@ -112,7 +111,7 @@ Back to top
    
 Back to top
 
-## **6.  Create and edit a chart**  
+## **6.  Create and edit a chart** <a id="edit-chart"></a>
 
 #### Right click Create Chart.
 
@@ -132,7 +131,7 @@ Back to top
 
 Back to top
 
-## **7.  Create a KPI** 
+## **7.  Create a KPI** <a id="kpi"></a>
 
 #### Right click Create KPI.
 
@@ -144,7 +143,7 @@ Customize KPI using settings. You may change titles as well as add fitlers, comp
    
 Back to top   
 
-## **8.  Create a calculated field** 
+## **8.  Create a calculated field** <a id="field"></a>
 
 #### Right click Create Calculated Field. 
 
@@ -160,7 +159,7 @@ Back to top
 
 Back to top
 
-## **9. Share** 
+## **9. Share** <a id="share"></a>
 
 #### Share a dashboard or collection by selecting the share icon.
 
@@ -172,8 +171,7 @@ Back to top
    
  Back to top
  
- ## **10. Subscribe** 
- <a id="subscribe"></a>
+ ## **10. Subscribe** <a id="subscribe"></a>
 
 #### Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 
@@ -185,7 +183,7 @@ Back to top
    
  Back to top
 
-## Bonus 1: Navigate     
+## Bonus 1: Navigate <a id="navigate"></a>
 
 #### Toggle back and forth between views using these icons.
 
@@ -207,7 +205,7 @@ Back to top
 
 Back to top
 
-## Bonus 2: Open two collections. 
+## Bonus 2: Open two collections. <a id="two-collections"></a>
 
 #### Hold SHIFT and select another collection to open two collections at the same time.
 
@@ -215,7 +213,7 @@ Back to top
 
 Back to top
 
-## Bonus 3:  Use shortcuts
+## Bonus 3:  Use shortcuts <a id="shortcuts"></a>
 
 #### Press CONTROL to open the accelator key menu and select your desired key.
 
