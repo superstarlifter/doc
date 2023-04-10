@@ -2,7 +2,7 @@
 
 ### Fast track your use of StarLifter by learning these features:  
 
-   1.  Roll up by date
+   1.  [Roll up by date](#by-date)
    2.  Group by category
    3.  Roll up by date and group by category
    4.  Filter by date
@@ -11,7 +11,7 @@
    7.  Create a KPI
    8.  Create a calculated field
    9. Share
-   10. Subscribe
+   10. [Subscribe](#subscribe)
 
 ### Make your life easier by learning these pro-tips:
 
@@ -23,7 +23,8 @@
 
 
 
-## **1.  Roll up by date**  
+## **1.  Roll up by date**
+<a id="by-date"></a>
 
 Select from the icons to roll up by day, week, month, quarter or year.
 
@@ -172,6 +173,7 @@ Back to top
  Back to top
  
  ## **10. Subscribe** 
+ <a id="subscribe"></a>
 
 #### Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 
