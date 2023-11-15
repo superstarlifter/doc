@@ -8,7 +8,7 @@ StarLifter offers users the ability for users to clean and reformat their data s
 <img src="../assets/access_clean_and_reformat_matt.png"  style="width:200px" class="border"></img>
 
 
-### Clean and Reformat Layout
+### Clean and Reformat layout
 The layout of Clean and Reformat includes the secions below.
 
 * Collections List: List of the collections available for cleanup
