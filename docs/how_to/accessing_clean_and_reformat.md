@@ -17,4 +17,4 @@ The layout of Clean and Reformat includes the secions below.
 * Pipeline: Series of saved commands used to clean and reformat a collection
 * Output: Interface where users save and overwrite collections
 
-<img src="../assets/pipeline_layout_matt.png"  style="width:800px" class="border"></img>
+<img src="../assets/..."  style="width:800px" class="border"></img>
