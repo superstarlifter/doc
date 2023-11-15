@@ -1,40 +1,20 @@
-## Access Policies
-Access policies allow admins to grant users view and update access to specific data. This access is more than just sharing a collection, it can be filtered down to the row and field level. For example, and access policy can be created to limit updating of specific rows to the owner of that row.
+## Accessing Clean and Reformat
+StarLifter offers users the ability for users to clean and reformat their data so it is ready to analyze. This is done in the Clean and Reformat section of StarLifter, where users can apply a series of commands to an existing collection to generate cleaned and reformatted ouput collections.
 
 ### Accessing Clean and Reformat
-1. From the administration page select the Access Policies Menu to open a list of current access policies
+1. To access Clean and Reformat, use control + shift + m to open the maintenance menu
+2. Select Clean and Reformat under the Data Manipulation dropdown
+
+<img src="../assets/access_clean_and_reformat_matt.pngl"  style="width:400px" class="border"></img>
 
 
-<img src="../assets/access_policy_1.png"  style="width:200px" class="border"></img>
+### Clean and Reformat Layout
+The layout of Clean and Reformat includes the secions below.
 
+* Collections List: List of the collections available for cleanup
+* Collection Preview: Preview of the collection activeley being cleaned by pipeline commands
+* Command List: Selection of common pipeline commands
+* Pipeline: Series of saved commands used to clean and reformat a collection
+* Output: Interface where users save and overwrite collections
 
-2. Right click and select Insert Row to insert a blank row
-3. Fill out the appropriate fields 
-   * Resouce - The resource you are granting access to, in path format (/collection/example_domain.example_collection) 
-   * Access - The type of access granted to the resource
-      * Read -  view the data but not edit
-      * Update -  edit the data 
-      * Delete -  delete the data
-      * Config - change the configuration of the collection. For example: Updating the field types
-      * Edit - a grouping of the following access [‘config’, ‘read’, ‘create’, ‘update’, ‘delete’]
-   * All Users - Does this rule apply to all users
-   * User - The user this policy grants access
-   * User Name - Username of from the User field. (Auto populated)
-   * Condition - 
-   * Filter - Filter access of data by rows
-   * Fields - Filter access of data by fields
-   * Parent - Used to link two policies together
-      * Note:  Primarily used for sharing dashboards. When a dashboard is shared, an underlying access policy is created to share that data that supports the dashboard
-
-
-<img src="../assets/access_policy_2.png"  style="width:800px" class="border"></img>
-
-
-### Creating an Access Policy via sharing
-* When a user shares a resource (collection, dashboard, etc) an access policy will automatically be created in the Access Policies table.
-* Resources that requrire supporting resources will automatically create a policy for both resources.
-    * For example when a user shares a dashboard with a user 2 policies will be created 
-      * 1 for the dasboard
-      * 1+ for the read access to the read access to the data that supports the dashboard
-
-* For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](/docs/how_to/sharing_access.md)
+<img src="../assets/pipeline_layout_matt.png"  style="width:800px" class="border"></img>
