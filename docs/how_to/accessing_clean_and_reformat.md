@@ -5,7 +5,7 @@ StarLifter offers users the ability for users to clean and reformat their data s
 1. To access Clean and Reformat, use control + shift + m to open the maintenance menu
 2. Select Clean and Reformat under the Data Manipulation dropdown
 
-<img src="../assets/access_clean_and_reformat_matt.pngl"  style="width:400px" class="border"></img>
+<img src="../assets/access_clean_and_reformat_matt.png"  style="width:400px" class="border"></img>
 
 
 ### Clean and Reformat Layout
