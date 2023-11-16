@@ -3,7 +3,7 @@
 ### Command toolbar
 More complex commands can be accessed using the toolbar at the top of the screen
 
-<img src="../assets/manipulator_command_toolbar"  style="width:800px" class="border"></img>
+<img src="../assets/manipulator_command_toolbar_matt"  style="width:800px" class="border"></img>
 
 *Dictionary: Edit the collection dictionary (change data type, format, etc)
 *Choose Fields: Edit the layout of a collection, including removing fields
