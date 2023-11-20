@@ -41,5 +41,6 @@ Once a pipeline is saved, it is available to be ran on other collections.
 
 2. Click Save as from the **Save to collection** dropdown to create a new collection, or select the collection you wish to overwrite.
 
-<img src="../assets/manipulator_collection_save.png"  style="width:200px" class="border"></img>
+<img src="../assets/manipulator_collection_save1.png"  style="width:200px" class="border"></img>
+<img src="../assets/manipulator_collection_save2.png"  style="width:200px" class="border"></img>
 
