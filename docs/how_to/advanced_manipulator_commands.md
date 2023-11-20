@@ -7,13 +7,22 @@ More complex commands can be accessed using the toolbar at the top of the screen
 
 **Dictionary:** Edit the collection dictionary (change data type, format, etc)
 
+<img src="../assets/manipulator_dictionary.png"  style="width:800px" class="border"></img>
+
 **Choose Fields** Edit the layout of a collection, including removing fields
+
+<img src="../assets/manipulator_choosefields.png"  style="width:800px" class="border"></img>
+
 
 **Merge Fields:** Concatenate the values of two fields in the same row
 
 **Calculated Field:** Create a calcualted field within the collection
 
+<img src="../assets/manipulator_calculated.png"  style="width:800px" class="border"></img>
+
 **Append Collection:** Combine data by appending data from another collection
+
+<img src="../assets/manipulator_appendcollection.png"  style="width:800px" class="border"></img>
 
 **Project Rows:** Project rows from another collection into the collection
 
