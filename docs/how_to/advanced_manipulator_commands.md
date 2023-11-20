@@ -34,17 +34,17 @@ Grouping collections in StarLifter can be accomplished using two different metho
 
 Drag and drop a collection from the collection list on top of the collection tab in the collection preview. 
 
-Continue adding more collections to the group by dragging and dropping. 
+<img src="../assets/manipulator_draganddropgroup.png"  style="width:800px" class="border"></img>
 
-Pipeline commands will be applied to all collections in the group.
-   
-Saving will output a single collection including the cleaned data from each source collection in the group.
+Continue adding more collections to the group by dragging and dropping. Pipeline commands will be applied to all collections in the group. Saving will output a single collection including the cleaned data from each source collection in the group.
 
 2. Appending a collection:
 
 Select the collection from which you wish to append data
 
 You have the options of applying a tag to the appended data. The tag will appear in an additional column. If you do not wish to apply a tag, StarLifter will automatically apply the collection name as a tag.
+
+<img src="../assets/manipulator_appendcollection.png"  style="width:800px" class="border"></img>
 
 Select how to append fields to the collection, by choosing one of the following actions:
 * Ignore field: Do not append this field to the collection
