@@ -30,6 +30,7 @@ More complex commands can be accessed using the toolbar at the top of the screen
 
 ### Grouping and appending a collection
 Grouping collections in StarLifter can be accomplished using two different methods.
+
 **1. Drag and drop:**
 
 Drag and drop a collection from the collection list on top of the collection tab in the collection preview. 
