@@ -8,9 +8,9 @@
   * [Add, delete and download dashboards](getting_started/dashboards.md)
   
 * Cleaning and reformatting data
-  * [Accessing Clean and Reformat](accessing_clean_and_reformat.md)
-  * [Creating a pipeline](creating_pipeline.md)
-  * [Advanced pipeline commands](advanced_manipulator_commands.md)
+  * [Accessing Clean and Reformat](how_to/accessing_clean_and_reformat.md)
+  * [Creating a pipeline](how_to/creating_pipeline.md)
+  * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
 
 * Preparing data
   * [Set the header row](how_to/setheader.md)
