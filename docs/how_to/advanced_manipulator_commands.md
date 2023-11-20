@@ -9,7 +9,7 @@ More complex commands can be accessed using the toolbar at the top of the screen
 
 <img src="../assets/manipulator_dictionary.png"  style="width:800px" class="border"></img>
 
-**Choose Fields** Edit the layout of a collection, including removing fields
+**Choose Fields**: Edit the layout of a collection, including removing fields
 
 <img src="../assets/manipulator_choosefields.png"  style="width:800px" class="border"></img>
 
