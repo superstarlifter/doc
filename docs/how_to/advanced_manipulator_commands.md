@@ -18,7 +18,7 @@ More complex commands can be accessed using the toolbar at the top of the screen
 
 **Calculated Field:** Create a calcualted field within the collection
 
-<img src="../assets/manipulator_calcualted.png"  style="width:800px" class="border"></img>
+<img src="../assets/manipulator_calculated.png"  style="width:800px" class="border"></img>
 
 **Append Collection:** Combine data by appending data from another collection
 
