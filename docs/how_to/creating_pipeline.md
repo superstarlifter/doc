@@ -19,7 +19,7 @@ The commands below can be accessed by right-clicking within the collection previ
 * **Delete field:** Remove a field from the collection
 * **Copy field:** Duplicate the field within the collection
 * **Rotate fields to rows:** Unpivot or flatten data by putting selected rows into a single column
-* New field: Add a new field to the collection
+* **New field:** Add a new field to the collection
 
 ### Building and saving a pipeline
 As you execute new plans to the collection, you'll notice StarLifter keeps track of your list of commands in the pipeline.
