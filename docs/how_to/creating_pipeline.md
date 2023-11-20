@@ -23,12 +23,15 @@ The commands below can be accessed by right-clicking within the collection previ
 
 ### Building and saving a pipeline
 As you execute new plans to the collection, you'll notice StarLifter keeps track of your list of commands in the pipeline.
+
 <img src="../assets/pipeline_commands_list_matt.png"  style="width:200px" class="border"></img>
 
 If you wish to edit a command, click the pencil icon to the right of the command. If you wish to delete a command, click the ⨂ next to the command.
+
 <img src="../assets/pipeline_commands_list_matt_2.png"  style="width:200px" class="border"></img>
 
 Although you do not have to save your pipeline to save your output collection, you can do so by selecting Save as in the **Pipeline** dropdown.
+
 <img src="../assets/pipeline_commands_list_matt_3.png"  style="width:200px" class="border"></img>
 
 Once a pipeline is saved, it is available to be ran on other collections.
@@ -37,5 +40,6 @@ Once a pipeline is saved, it is available to be ran on other collections.
 1. Select the domain you wish to output your collection to from the **Save to domain** dropdown, or to create a new domain for the output collection by clicking Save as.
 
 2. Click Save as from the **Save to collection** dropdown to create a new collection, or select the collection you wish to overwrite.
+
 <img src="../assets/manipulator_collection_save.png"  style="width:200px" class="border"></img>
 
