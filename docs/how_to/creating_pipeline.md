@@ -6,19 +6,19 @@ A pipeline is applied to a StarLifter collection. To begin, select the collectio
 ### Common manipulator commands
 The commands below can be accessed by right-clicking within the collection preview.
 
-* Delete rows like this: Delete rows that contain the selected value
-* Set as header row: Set the selected row to be the header row
-* Create field using value: Create a field in which each row contains the selected value
-* Change field name: Change the name of the field
-* Merge two fields: Concatenate the values of two fields in the same row
-* Split into multiple fields: Split a single field into multiple fields based on a delimiter
-* Filter: Filter the collection
-* Fill empty values from prior rows: Automatically fill blank cells with the values from the prior row
-* Reference another collection: Convert a field to a reference field from another collection, and pull in additional values from the referenced collection
-* Join fields from another collection: Left-join on fields from another collection
-* Delete field: Remove a field from the collection
-* Copy field: Duplicate the field within the collection
-* Rotate fields to rows: Unpivot or flatten data by putting selected rows into a single column
+* **Delete rows like this:** Delete rows that contain the selected value
+* **Set as header row:** Set the selected row to be the header row
+* **Create field using value:** Create a field in which each row contains the selected value
+* **Change field name:** Change the name of the field
+* **Merge two fields:** Concatenate the values of two fields in the same row
+* **Split into multiple fields:** Split a single field into multiple fields based on a delimiter
+* **Filter:** Filter the collection
+* **Fill empty values from prior rows:** Automatically fill blank cells with the values from the prior row
+* **Reference another collection:** Convert a field to a reference field from another collection, and pull in additional values from the referenced collection
+* **Join fields from another collection:** Left-join on fields from another collection
+* **Delete field:** Remove a field from the collection
+* **Copy field:** Duplicate the field within the collection
+* **Rotate fields to rows:** Unpivot or flatten data by putting selected rows into a single column
 * New field: Add a new field to the collection
 
 ### Building and saving a pipeline
