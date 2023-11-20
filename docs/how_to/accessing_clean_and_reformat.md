@@ -9,10 +9,10 @@ StarLifter offers users the ability for users to clean and reformat their data s
 
 
 ### Clean and Reformat layout
-The layout of Clean and Reformat includes the secions below.
+The layout of Clean and Reformat includes the sections below.
 
 * **Collections List:** Collections available for cleanup
-* **Collection Preview:** Preview of the collection activeley being cleaned by pipeline commands
+* **Collection Preview:** Preview of the collection actively being cleaned by pipeline commands
 * **Command List:** Advanced pipeline commands
 * **Pipeline:**  Save lists of commands used to clean and reformat a collection
 * **Output:** Save and overwrite collections
