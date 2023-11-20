@@ -7,6 +7,11 @@
   * [Create KPIs](getting_started/kpis.md)
   * [Add, delete and download dashboards](getting_started/dashboards.md)
   
+* Cleaning and reformatting data
+  * [Accessing Clean and Reformat](accessing_clean_and_reformat.md)
+  * [Creating a pipeline](creating_pipeline.md)
+  * [Advanced pipeline commands](advanced_manipulator_commands.md)
+
 * Preparing data
   * [Set the header row](how_to/setheader.md)
   * [Data types and formats](how_to/data.md)
@@ -19,7 +24,7 @@
   * [Delete a collection or its rows](how_to/delete.md)
   * [Set a default layout of a collection](how_to/default.md)
 
-* Maintaining Data
+* Maintaining data
   * [Delete a collection or its rows](how_to/delete.md)
   * [Uploading data with a date and tag](how_to/tag.md)
  
