@@ -20,4 +20,4 @@ Set a default layout on a collection by:
 
 4.  All users will default to this layout
 
-<img src="../assets/default_layout4_matt.png"  style="width:600px" class="border"></img>
+<img src="../assets/default_layout4_matt.png"  style="width:800px" class="border"></img>
