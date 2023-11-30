@@ -23,17 +23,17 @@ The dashboard menu gives you the options below:
 
 
 ### Change the theme of a dashboard
-From the dashboard menu, select themes from the dashboard theme dropdown:
+Select Default from the dashbaord menu to change the dashboard theme
 
 <img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
 
 ### Sharing a dashboard
-Select the share icon 
+Select the email icon from the dashboard menu 
 
 <img src="../assets/dashboard_sharing_matt.png"  style="width:600px" class="border"></img>
 
-### Emailing or scheduling the email of a dashbaord
-Select the mail icon to email a dashboard
+### Emailing a dashboard
+Select the <img src="../assets/dashboard_menu_email.png"  style="width:30px" class="border"></img> icon to email a dashboard
 
 <img src="../assets/dashboard_email_matt.png"  style="width:600px" class="border"></img>
 
