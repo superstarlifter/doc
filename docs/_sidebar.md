@@ -3,7 +3,7 @@
 * Getting started
   * [Create an organization and add data](getting_started/quick-start.md)
   * [Create a blank collection](how_to/new.md)
-  * [Preparing a collection](getting_started/collection.md)
+  * [Set a default layout of a collection](how_to/default.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
   * [Add, delete and download dashboards](getting_started/dashboards.md)
