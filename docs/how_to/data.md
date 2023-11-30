@@ -40,6 +40,8 @@ Click the **Format** drop-down field to display the available pre-defined choice
 #### Custom formatting
 If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field in the data dictionary. This field will be auto-populated with the format definition of the **Format** field from the Fields UI. You can use this value as a starting point for your custom format.
 
+To access the data dictionary, right click on the collection header and select **Show dictionary**
+
 <img src="../assets/custom_data_format1_matt.png"  style="width:800px" class="border"></img>
 
 Changes to the **Format** field in the dictionary will overried the **Format** value in the fields UI.
