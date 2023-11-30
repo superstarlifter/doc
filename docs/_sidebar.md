@@ -3,14 +3,10 @@
 * Getting started
   * [Create an organization and add data](getting_started/quick-start.md)
   * [Create a blank collection](how_to/new.md)
+  * [Preparing a collection](getting_started/collection.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
   * [Add, delete and download dashboards](getting_started/dashboards.md)
-  
-* Cleaning and reformatting data
-  * [Accessing Clean and Reformat](how_to/accessing_clean_and_reformat.md)
-  * [Creating a pipeline](how_to/creating_pipeline.md)
-  * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
 
 * Preparing data
   * [Set the header row](how_to/setheader.md)
@@ -23,6 +19,11 @@
   * [Create a lookup field (VLOOKUP)](how_to/lookup.md)
   * [Delete a collection or its rows](how_to/delete.md)
   * [Set a default layout of a collection](how_to/default.md)
+
+* Cleaning and reformatting data
+  * [Accessing Clean and Reformat](how_to/accessing_clean_and_reformat.md)
+  * [Creating a pipeline](how_to/creating_pipeline.md)
+  * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
 
 * Maintaining data
   * [Delete a collection or its rows](how_to/delete.md)
