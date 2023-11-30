@@ -39,7 +39,7 @@
 1.  Right click in the collection ➔ **Fields**
 2.  Edit the field name, data type, and display format of the field
    
-<img src="../assets/fields_ui_matt.png"  style="width:400px" class="border"></img>
+<img src="../assets/fields_ui_matt.png"  style="width:800px" class="border"></img>
 
 For more on data types, see [Data types and formats](how_to/data.md)
 
