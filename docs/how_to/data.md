@@ -22,7 +22,7 @@ The data types include:
 * **Number** - Integer or decimal (e.g. 1,536 or .129)
 * **Percent** - Percentage (e.g. 92%)
 * **Pick list** - Displays a list of predefined values to select
-* **Reference** - A value that is referenced to a field in another collection
+* **Reference** - A value that is referencing a field in another collection
 * **Suggestion** - Displays a list of existing values or you can enter a new value
 * **Time** - Displays date and time as time values (e.g. 02:25 PM)
 * **True/False** - A binary value
