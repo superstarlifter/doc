@@ -52,5 +52,5 @@ Select how to append fields to the collection by choosing one of the following a
 * **Copy to field:** Match this field to a field in the collection
 * **Create new field:** Create a new field to the collection
 
-<img src="../assets/append_result_matt.png"  style="width:800px" class="border"></img>
+<img src="../assets/append_result_matt2.png"  style="width:800px" class="border"></img>
 
