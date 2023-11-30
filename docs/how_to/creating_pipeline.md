@@ -6,7 +6,7 @@ As you clean and reformat your collection a pipeline is automatically created to
 A pipeline is applied to a StarLifter collection. To begin, select the collection you wish to clean and reformat.
 
 ### Common manipulator commands
-The commands below can be accessed by right-clicking within the collection preview.
+The commands below can be accessed by right-clicking within the collection preview:
 
 * **Delete rows like this:** Delete rows that contain the selected value
 * **Set as header row:** Set the selected row to be the header row
