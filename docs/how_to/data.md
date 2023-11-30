@@ -40,15 +40,15 @@ Click the **Format** drop-down field to display the available pre-defined choice
 #### Custom formatting
 If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field in the data dictionary. This field will be auto-populated with the format definition of the **Format** field from the Fields UI. You can use this value as a starting point for your custom format.
 
-<img src="../assets/custom_data_format1_matt"  style="width:800px" class="border"></img>
+<img src="../assets/custom_data_format1_matt.png"  style="width:800px" class="border"></img>
 
 Changes to the **Format** field in the dictionary will overried the **Format** value in the fields UI.
 
-<img src="../assets/custom_data_format2_matt"  style="width:800px" class="border"></img>
+<img src="../assets/custom_data_format2_matt.png"  style="width:800px" class="border"></img>
 
 _In this example, the Hourly Rate field's font color was changed to dodgerblue and a trailing 0 was added to the end._
 
-<img src="../assets/custom_data_format3_matt"  style="width:800px" class="border"></img>
+<img src="../assets/custom_data_format3_matt.png"  style="width:800px" class="border"></img>
 
 ##### Custom formatting options
 There are 3 sections of a custom number format, postive number, negative numbers, zero values.
