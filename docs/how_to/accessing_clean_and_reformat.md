@@ -9,7 +9,7 @@ StarLifter offers you the ability to clean your data so it is ready to analyze. 
 
 
 ### Clean and Reformat layout
-The layout of Clean and Reformat includes the sections below.
+The layout of Clean and Reformat includes the sections below:
 
 * **Collections List:** Collections available for cleanup
 * **Pipeline:** Save lists of commands used to clean and reformat a collection
