@@ -12,16 +12,16 @@
 
 3.  Make edits to title, arrow, color, sparkline, etc.
 
-<img src="../assets/kpi_selections_2.png"  style="width:500px" class="border"></img>
+<img src="../assets/kpi_definition1_matt.png"  style="width:500px" class="border"></img>
 
 4. Add a repeated multi-pane KPI
 
 <img src="../assets/kpi_repeat_1.png"  style="width:500px" class="border"></img>
 
 5.  Add filter to KPI
-<br> *Example:  Filtering the 'Total Bins' KPI on a specific variety*
+<br> *Example:  Filtering the 'Account Code Category' KPI on a specific category*
 
-<img src="../assets/kpi_filter.png"  style="width:600px" class="border"></img>
+<img src="../assets/kpi_definition2_matt.png"  style="width:600px" class="border"></img>
 
 5.  Select **OK**
 
