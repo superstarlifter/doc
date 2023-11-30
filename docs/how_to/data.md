@@ -21,27 +21,34 @@ The data types include:
 * **General** - A numeric value without a comma separator (e.g. 1536)
 * **Number** - Integer or decimal (e.g. 1,536 or .129)
 * **Percent** - Percentage (e.g. 92%)
+* **Pick list** - Displays a list of predefined values to select
+* **Reference** - A value that is referenced to a field in another collection
 * **Suggestion** - Displays a list of existing values or you can enter a new value
 * **Time** - Displays date and time as time values (e.g. 02:25 PM)
 * **True/False** - A binary value
+* **ZIP Code - five digits** - A five digit ZIP Code (e.g. 46038)
 
 
 ### Formatting a data type
 Certain field types allow you to change the formatting of the displayed value. Format options will appear in the Field Definition after you have selected an appropriate data type.
 
-#### Formatting choices
-Click the **Format Choices** drop-down field to display the available pre-defined choices for the data type. 
+#### Format
+Click the **Format** drop-down field to display the available pre-defined choices for the data type. 
 
-<img src="../assets/data_05.png"  style="width:800px" class="border"></img> 
+<img src="../assets/formatting_choices_matt.png"  style="width:800px" class="border"></img> 
 
 #### Custom formatting
-If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field. This field will be auto-populated with the format definition of the **Format Choices** field. You can use this value as a starting point for your custom format.
+If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field in the data dictionary. This field will be auto-populated with the format definition of the **Format** field from the Fields UI. You can use this value as a starting point for your custom format.
 
-Changes to the **Format** field will change the **Format Choices** value and the format will be appended with (Custom).
+<img src="../assets/custom_data_format1_matt"  style="width:800px" class="border"></img>
 
-_In the example below, the Revenue field's font color was changed to dodgerblue and a trailing 0 was added to the end._
+Changes to the **Format** field in the dictionary will overried the **Format** value in the fields UI.
 
-<img src="../assets/data_06.png"  style="width:800px" class="border"></img>
+<img src="../assets/custom_data_format2_matt"  style="width:800px" class="border"></img>
+
+_In this example, the Hourly Rate field's font color was changed to dodgerblue and a trailing 0 was added to the end._
+
+<img src="../assets/custom_data_format3_matt"  style="width:800px" class="border"></img>
 
 ##### Custom formatting options
 There are 3 sections of a custom number format, postive number, negative numbers, zero values.
