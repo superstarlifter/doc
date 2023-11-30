@@ -1,7 +1,7 @@
 ## Advanced manipulator commands
 
 ### Command toolbar
-More complex commands can be accessed using the toolbar at the top of the screen
+More complex commands can be accessed using the toolbar at the top of the screen.
 
 <img src="../assets/manipulator_command_toolbar_matt.png"  style="width:800px" class="border"></img>
 
@@ -16,11 +16,11 @@ More complex commands can be accessed using the toolbar at the top of the screen
 
 **Merge Fields:** Concatenate the values of two fields in the same row
 
-**Calculated Field:** Create a calcualted field within the collection
+**Calculated Field:** Create a calculated field within the collection
 
 <img src="../assets/manipulator_calculated.png"  style="width:800px" class="border"></img>
 
-**Append Collection:** Combine data by appending data from another collection
+**Append Collection:** Append data from another collection
 
 <img src="../assets/manipulator_appendcollection.png"  style="width:800px" class="border"></img>
 
@@ -37,17 +37,17 @@ Drag and drop a collection from the collection list on top of the collection tab
 
 <img src="../assets/manipulator_draganddropgroup.png"  style="width:800px" class="border"></img>
 
-Continue adding more collections to the group by dragging and dropping. Pipeline commands will be applied to all collections in the group. Saving will output a single collection including the cleaned data from each source collection in the group.
+Continue adding more collections to the group by dragging and dropping. Pipeline commands will be applied to all collections in the group. Saving will output a single collection that includes the cleaned data from each collection in the group.
 
 **2. Appending a collection:**
 
-Select the collection from which you wish to append data
+Select the collection from which you wish to append data.
 
-You have the options of applying a tag to the appended data. The tag will appear in an additional column. If you do not wish to apply a tag, StarLifter will automatically apply the collection name as a tag.
+You have the options of applying a tag to the appended data. The tag will appear in an additional column. If you do not wish to apply a tag, StarLifter will apply the collection name as a tag.
 
 <img src="../assets/manipulator_appendcollection.png"  style="width:800px" class="border"></img>
 
-Select how to append fields to the collection, by choosing one of the following actions:
-* Ignore field: Do not append this field to the collection
-* Copy to field: Match this field to a field in the collection
-* Create new field: Create a new field to the collection
+Select how to append fields to the collection by choosing one of the following actions:
+* **Ignore field:** Do not append this field to the collection
+* **Copy to field:** Match this field to a field in the collection
+* **Create new field:** Create a new field to the collection
