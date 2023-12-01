@@ -1,5 +1,5 @@
 ## KPIs
-Key Performance Indicators (KPIs) give you visibility into the key metrics that allow you to make decisions and measure performance
+Key Performance Indicators (KPIs) give you visibility into key metrics that allow you to measure performance and make decisions.
 
 ### Create a KPI
 
