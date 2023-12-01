@@ -5,7 +5,7 @@
   * [Clean data in a collection](getting_started/cleaningdata.md)
   * [Set a default layout of a collection](how_to/default.md)
   * [Create a calculation](how_to/calculate.md)
-  * [Create dashboards](getting_started/dashboards2.md)
+  * [Create dashboards](getting_started/dashboards.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
 
