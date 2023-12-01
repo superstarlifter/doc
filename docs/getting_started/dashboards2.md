@@ -36,13 +36,17 @@ To grant access to a user, select the share icon from the dashboard menu. Sharin
 <img src="../assets/dashboard_sharing_matt.png"  style="width:600px" class="border"></img>
 
 ### Email a dashboard
-To email a dashbaord, select the email icon from the dashboard menu.
+To email a dashboard, select the email icon from the dashboard menu. Select the recipient, subject, and message. Click **Send Email** to send.
 
 <img src="../assets/dashboard_email_matt.png"  style="width:600px" class="border"></img>
 
-Select the calendar icon to schedule the email
+To set up a recurring email, select the calendar icon
 
-<img src="../assets/dashboard_scheduled_email_matt.png"  style="width:600px" class="border"></img>
+<img src="../assets/dashboard_calendar.png"  style="width:600px" class="border"></img>
+
+Set your desired frequency (hourly, daily, monthly), date, and time. Check Active, and click **OK** to save
+
+<img src="../assets/dashboard_scheduled_email2_matt.png"  style="width:600px" class="border"></img>
 
 ### Change the theme of a dashboard
 Select Default from the dashboard menu to change the dashboard theme
