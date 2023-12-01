@@ -22,7 +22,7 @@ The data types include:
 * **Number** - Integer or decimal (e.g. 1,536 or .129)
 * **Percent** - Percentage (e.g. 92%)
 * **Pick list** - Displays a list of predefined values to select
-* **Reference** - A value that is referencing a field in another collection
+* **Reference** - A value that is references a field in another collection
 * **Suggestion** - Displays a list of existing values or you can enter a new value
 * **Time** - Displays date and time as time values (e.g. 02:25 PM)
 * **True/False** - A binary value
@@ -33,18 +33,18 @@ The data types include:
 Certain field types allow you to change the formatting of the displayed value. Format options will appear in the Field Definition after you have selected an appropriate data type.
 
 #### Format
-Click the **Format** drop-down field to display the available pre-defined choices for the data type. 
+Click the **Format** drop-down field to display the available predefined choices for the data type. 
 
 <img src="../assets/formatting_choices_matt.png"  style="width:800px" class="border"></img> 
 
 #### Custom formatting
-If your desired format is not listed in the formatting choices, you have to option to customize the format using the **Format** field in the data dictionary. This field will be auto-populated with the format definition of the **Format** field from the Fields UI. You can use this value as a starting point for your custom format.
+If your desired format is not listed, you have to option to customize it using the **Format** field in the data dictionary. This field will be auto-populated with the format definition of the **Format** field from the Fields UI. You can use this value as a starting point.
 
 To access the data dictionary, right click on the collection header and select **Show dictionary**
 
 <img src="../assets/custom_data_format1_matt.png"  style="width:800px" class="border"></img>
 
-Changes to the **Format** field in the dictionary will overried the **Format** value in the fields UI.
+Changes to the **Format** field in the dictionary will override the **Format** value in the fields UI.
 
 <img src="../assets/custom_data_format2_matt.png"  style="width:800px" class="border"></img>
 
