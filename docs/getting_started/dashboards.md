@@ -2,7 +2,7 @@
 
 Dashboards allow you to visualize data through charts, tables, and KPIs.
 
-### Access a dashboard:
+### Access a dashboard
 
 Access a dashboard using the navigational tools at the top of the screen
 
@@ -12,13 +12,13 @@ Saved dashboards are listed in the dropdown:
 
 <img src="../assets/dashboard_list_matt.png"  style="width:600px" class="border"></img>
 
-### To rename a dashboard:
+### Rename a dashboard
 1.  Double click on the title
 2.  Type in a new name
 
 <img src="../assets/dashboard_namechange_matt.png"  style="width:600px" class="border"></img>
 
-### Dashboard menu:
+### Dashboard menu
 The dashboard menu gives you the options below:
 
 | Icon                                                                                         | Description                          |
@@ -53,7 +53,7 @@ Select Default from the dashboard menu to change the dashboard theme
 
 <img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
 
-**Example themes:**
+**Example themes**
 
 Default
 
