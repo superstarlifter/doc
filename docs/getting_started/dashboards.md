@@ -1,10 +1,10 @@
 ## Dashboards
 
-Dashboards allow you to visualize your data through charts, tables, and KPIs
+Dashboards allow you to visualize data through charts, tables, and KPIs
 
 ### Access a dashboard:
 
-Access a dashboard using the navigational tools at the top of your screen
+Access a dashboard using the navigational tools at the top of the screen
 
 <img src="../assets/navigational_tools_matt.png"  style="width:600px" class="border"></img>
 
@@ -31,7 +31,7 @@ The dashboard menu gives you the options below:
 |<img src="../assets/dashboard_menu_quick_filter.png"  style="width:40px" class="border"></img>| Add a Quick Filter                   |
 
 ### Share a dashboard
-To grant access to another user, select the share icon from the dashboard menu. Sharing a dashboard also shares the collections of data that make up the dashboard.
+To grant access to another user, select the share icon from the dashboard menu. Sharing a dashboard also gives users access to the collections of data that make up the dashboard.
 
 <img src="../assets/dashboard_sharing_matt.png"  style="width:600px" class="border"></img>
 
@@ -44,7 +44,7 @@ To set up a recurring email, select the calendar icon
 
 <img src="../assets/dashboard_calendar.png"  style="width:600px" class="border"></img>
 
-Set your desired frequency (hourly, daily, monthly), date, and time. Check Active, and click **OK** to save
+Set your desired frequency (hourly, daily, monthly), date, and time. Check Active, and click **OK** to save.
 
 <img src="../assets/dashboard_scheduled_email2_matt.png"  style="width:600px" class="border"></img>
 
@@ -52,6 +52,8 @@ Set your desired frequency (hourly, daily, monthly), date, and time. Check Activ
 Select Default from the dashboard menu to change the dashboard theme
 
 <img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
+
+_Example themes_
 
 Default
 
