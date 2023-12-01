@@ -27,8 +27,8 @@ Select from multiple chart types to best visualize data.
   <img src="../assets/charts_edit_chart_definition_1.png"  style="width:200px" class="border"></img>
   
   * Drag measures to the left or right vertical axes
-    **NOTE:** If the right axis is not visible click on the dotted icon to drage the right axis menu into view
-  * Drag categories to the horzontal **Categories** axis
+    **NOTE:** If the right axis is not visible click on the dotted icon to drag the right axis menu into view
+  * Drag categories to the horizontal **Categories** axis
   * Drag a measure to the **Line** box to overlay a line on a column chart
 <br>
   <img src="../assets/charts_edit_chart_definition_2.png"  style="width:800px" class="border"></img>
