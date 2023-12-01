@@ -1,6 +1,9 @@
-## Create KPIs
+## KPIs
+Key Performance Indicators (KPIs) give you visibility into the key metrics that allow you to make decisions and measure performance
 
-1.  Right click ➔ **Create KPI**
+### Create a KPI
+
+1.  Right click on the field ➔ **Create KPI**
 
 <img src="../assets/kpi.png"  style="width:200px" class="border"></img>
 
@@ -14,9 +17,9 @@
 
 <img src="../assets/kpi_definition1_matt.png"  style="width:500px" class="border"></img>
 
-4. Add a repeated multi-pane KPI
+4. Check **Repeat (based on rollup type)** to create a repeated multi-pane KPI
 
-<img src="../assets/kpi_repeat_1.png"  style="width:500px" class="border"></img>
+<img src="../assets/kpi_repeat_matt4.png"  style="width:800px" class="border"></img>
 
 5.  Add filter to KPI
 <br> *Example:  Filtering the 'Account Code Category' KPI on a specific category*
