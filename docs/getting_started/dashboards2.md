@@ -1,5 +1,10 @@
 ## Dashboards
-All dashboards are listed in the dropdown:
+
+Dashboards allow you to visualize your data through charts, tables, and KPIs
+
+### Accessing a dashboard:
+
+Saved dashboards are listed in the dropdown:
 
 <img src="../assets/dashboard_list_matt.png"  style="width:600px" class="border"></img>
 
@@ -21,12 +26,6 @@ The dashboard menu gives you the options below:
 | <img src="../assets/dashboard_menu_pdf.png"  style="width:40px" class="border"></img>        | Create & download a PDF              |
 |<img src="../assets/dashboard_menu_quick_filter.png"  style="width:40px" class="border"></img>| Quick Filter                         |
 
-
-### Change the theme of a dashboard
-Select Default from the dashbaord menu to change the dashboard theme
-
-<img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
-
 ### Sharing a dashboard
 Select the email icon from the dashboard menu 
 
@@ -40,3 +39,8 @@ Select the <img src="../assets/dashboard_menu_email.png"  style="width:30px" cla
 Select the calendar icon to schedule the email
 
 <img src="../assets/dashboard_scheduled_email_matt.png"  style="width:600px" class="border"></img>
+
+### Change the theme of a dashboard
+Select Default from the dashbaord menu to change the dashboard theme
+
+<img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
