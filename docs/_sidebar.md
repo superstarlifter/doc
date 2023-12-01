@@ -1,8 +1,8 @@
 * Quick Start
   * [Top 10 to know as a new user](getting_started/training101.md)
 * Getting started
-  * [Upload data to create a collection](how_to/uploadingdata.md)
-  * [Clean data in a collection](how_to/cleaningdata.md)
+  * [Upload data to create a collection](getting_started/uploadingdata.md)
+  * [Clean data in a collection](getting_started/cleaningdata.md)
   * [Set a default layout of a collection](how_to/default.md)
   * [Create a calculation](how_to/calculate.md)
   * [Create charts](getting_started/charts.md)
