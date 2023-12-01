@@ -1,4 +1,6 @@
 ## Cleaning data
+Although StarLifter gives you several options for cleaning your data, basic cleaning can be accomplished directly in a collection
+
 ### Set a header row
 1.  Right click on a row
 2.  Select **Set header row**
