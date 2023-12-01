@@ -1,6 +1,6 @@
 ## Dashboards
 
-Dashboards allow you to visualize data through charts, tables, and KPIs
+Dashboards allow you to visualize data through charts, tables, and KPIs.
 
 ### Access a dashboard:
 
