@@ -2,7 +2,7 @@
 
 Dashboards allow you to visualize your data through charts, tables, and KPIs
 
-### Accessing a dashboard:
+### Access a dashboard:
 
 Saved dashboards are listed in the dropdown:
 
@@ -26,12 +26,12 @@ The dashboard menu gives you the options below:
 | <img src="../assets/dashboard_menu_pdf.png"  style="width:40px" class="border"></img>        | Create & download a PDF              |
 |<img src="../assets/dashboard_menu_quick_filter.png"  style="width:40px" class="border"></img>| Quick Filter                         |
 
-### Sharing a dashboard
+### Share a dashboard
 Select the email icon from the dashboard menu 
 
 <img src="../assets/dashboard_sharing_matt.png"  style="width:600px" class="border"></img>
 
-### Emailing a dashboard
+### Email a dashboard
 Select the <img src="../assets/dashboard_menu_email.png"  style="width:30px" class="border"></img> icon to email a dashboard
 
 <img src="../assets/dashboard_email_matt.png"  style="width:600px" class="border"></img>
