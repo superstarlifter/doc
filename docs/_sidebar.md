@@ -1,9 +1,10 @@
 * Quick Start
   * [Top 10 to know as a new user](getting_started/training101.md)
 * Getting started
-  * [Create an organization and add data](getting_started/quick-start.md)
-  * [Create a blank collection](how_to/new.md)
+  * [Upload data to create a collection](how_to/uploadingdata.md)
+  * [Clean data in a collection](how_to/cleaningdata.md)
   * [Set a default layout of a collection](how_to/default.md)
+  * [Create a calculation](how_to/calculate.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
   * [Create dashboards](getting_started/dashboards2.md)
@@ -21,8 +22,8 @@
   * [Set a default layout of a collection](how_to/default.md)
 
 * Cleaning and reformatting data
-  * [Accessing Clean and Reformat](how_to/accessing_clean_and_reformat.md)
-  * [Creating a pipeline](how_to/creating_pipeline.md)
+  * [Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
+  * [Create a pipeline](how_to/creating_pipeline.md)
   * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
 
 * Maintaining data
@@ -50,6 +51,8 @@
 
 
 * Administration
+  * [Create an organization and add data](getting_started/quick-start.md)
+  * [Create a blank collection](how_to/new.md)
   * [Password reset](how_to/password_reset.md)
   * Data Access & Permissions
   
