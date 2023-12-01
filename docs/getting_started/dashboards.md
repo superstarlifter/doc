@@ -27,11 +27,11 @@ The dashboard menu gives you the options below:
 | <img src="../assets/dashboard_menu_drop.png"  style="width:40px" class="border"></img>       | Delete this dashboard                |
 | <img src="../assets/dashboard_menu_share.png"  style="width:40px" class="border"></img>      | Share this dashboard                 |
 | <img src="../assets/dashboard_menu_email.png"  style="width:40px" class="border"></img>      | Email dashboard or schedule delivery | 
-| <img src="../assets/dashboard_menu_pdf.png"  style="width:40px" class="border"></img>        | Create & download a PDF              |
-|<img src="../assets/dashboard_menu_quick_filter.png"  style="width:40px" class="border"></img>| Quick Filter                         |
+| <img src="../assets/dashboard_menu_pdf.png"  style="width:40px" class="border"></img>        | Create and download a PDF            |
+|<img src="../assets/dashboard_menu_quick_filter.png"  style="width:40px" class="border"></img>| Add a Quick Filter                   |
 
 ### Share a dashboard
-To grant access to a user, select the share icon from the dashboard menu. Sharing a dashboard also shares the collections of data that make up the dashboard.
+To grant access to another user, select the share icon from the dashboard menu. Sharing a dashboard also shares the collections of data that make up the dashboard.
 
 <img src="../assets/dashboard_sharing_matt.png"  style="width:600px" class="border"></img>
 
