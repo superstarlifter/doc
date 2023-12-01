@@ -6,7 +6,7 @@
   * [Set a default layout of a collection](how_to/default.md)
   * [Create charts](getting_started/charts.md)
   * [Create KPIs](getting_started/kpis.md)
-  * [Add, delete and download dashboards](getting_started/dashboards2.md)
+  * [Create dashboards](getting_started/dashboards2.md)
 
 * Preparing data
   * [Set the header row](how_to/setheader.md)
