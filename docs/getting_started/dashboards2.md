@@ -41,6 +41,6 @@ Select the calendar icon to schedule the email
 <img src="../assets/dashboard_scheduled_email_matt.png"  style="width:600px" class="border"></img>
 
 ### Change the theme of a dashboard
-Select Default from the dashbaord menu to change the dashboard theme
+Select Default from the dashboard menu to change the dashboard theme
 
 <img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
