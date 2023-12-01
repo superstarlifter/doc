@@ -8,7 +8,7 @@
 <img src="../assets/upload_select.png"  style="width:600px" class="border"></img>
 
 3.  The workbook is saved as a data domain
-4.  Choose to add or ignore each collection the domain
+4.  Choose to add or ignore each collection to the domain
 
 <img src="../assets/add_ignore.png"  style="width:600px" class="border"></img>
 
