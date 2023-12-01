@@ -53,7 +53,7 @@ Select Default from the dashboard menu to change the dashboard theme
 
 <img src="../assets/dashboard_theme_matt.png"  style="width:400px" class="border"></img>
 
-_Example themes_
+**Example themes:**
 
 Default
 
