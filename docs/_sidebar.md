@@ -55,7 +55,6 @@
   * [Create a blank collection](how_to/new.md)
   * [Password reset](how_to/password_reset.md)
   * Data Access & Permissions
-  
      * [Sharing data](how_to/sharing_access.md)
      * [Access policies](how_to/access_policy.md)
      * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
