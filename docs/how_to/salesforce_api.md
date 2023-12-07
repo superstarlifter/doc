@@ -1,5 +1,5 @@
 ## Integrate with Salesforce
-Creating StarLifter collections from your Salesforce data only take a few minutes.
+Creating StarLifter collections from your Salesforce data only takes a few minutes.
 
 Before you begin, contact your Salesforce Administrator for the following information:
 * Instance URL
