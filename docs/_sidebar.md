@@ -12,6 +12,7 @@
 * Preparing data
   * [Set the header row](how_to/setheader.md)
   * [Data types and formats](how_to/data.md)
+  * [Create a reference](how_to/references.md)
   * [Set a hierarchy](how_to/hierarchies.md)
   * [Fill in the blanks](how_to/fillin.md)
   * [Normalization](how_to/normalization.md)
@@ -57,6 +58,9 @@
   * [Sharing data](how_to/sharing_access.md)
   * [Access policies](how_to/access_policy.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
+  * [Integrate with Salesforce](how_to/salesforce_api.md)
+
+
   
 * Helpful Links
   * [Terms](getting_started/structure.md)
