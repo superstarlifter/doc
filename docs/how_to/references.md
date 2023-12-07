@@ -4,7 +4,7 @@ A reference field stores a reference to a field in another collection. For examp
 When you define a reference field, a relationship is created between the two collections. Adding a reference field to a collection makes the other fields in the referenced collection available as well.
 
 ### Set up reference field
-1. Right click on the field you wish to reference to another collection ➔ **Fields**.
+1. Right click on the field you wish to reference to another collection ➔ **Fields**
 
 2. Change **Data Type** to Reference.
 
