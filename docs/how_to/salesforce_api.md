@@ -1,6 +1,6 @@
 ## Integrate with Salesforce
 
-How-to video link - https://youtu.be/RA0sLW_FuU8?feature=shared
+**Video Tutorial** - https://youtu.be/RA0sLW_FuU8?feature=shared
 
 Creating StarLifter collections from your Salesforce data only takes a few minutes.
 
