@@ -34,6 +34,6 @@ Views are collections that are segments of their base collections. Collections c
 
 <img src="../assets/view_matt6.png"  style="width:700px" class="border"></img>
 
-2. In the example above, the view will only contian rows where the Owner field contains the email of the logged-in user.
+2. In the example above, the view will only contain rows where the Owner field contains the email of the logged-in user.
 
 <img src="../assets/view_matt8.png"  style="width:800px" class="border"></img>
