@@ -1,4 +1,4 @@
-## How to roll up data
+## Roll up data
 [Video Tutorial](https://youtu.be/Ii5EgyG3uNQ?feature=shared)
 
 Explore data by rolling up (e.g. grouping data together by date) or filtering (e.g. including or excluding dates).
