@@ -6,7 +6,7 @@ Views are collections that are segments of their base collections. Collections c
 ### To create a view:  
 1.	Right click in the grid of a base collection ➔ **Create View**.
 
-<img src="../assets/view_matt1.png"  style="width:700px" class="border"></img>
+<img src="../assets/view_matt1.png"  style="width:500px" class="border"></img>
 
 2.  Name the view and select the fields to keep from the base collection. You also have the option to designate fields as **Read Only**.
 
