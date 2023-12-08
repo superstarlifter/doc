@@ -18,7 +18,6 @@
   * [Normalization](how_to/normalization.md)
   * [Copy, paste and undo data changes](how_to/copy.md)
   * [Set a time series](how_to/timeseries.md)
-  * [Create a lookup field (VLOOKUP)](how_to/lookup.md)
   * [Delete a collection or its rows](how_to/delete.md)
   * [Set a default layout of a collection](how_to/default.md)
 
@@ -50,7 +49,6 @@
   * [Create a view](how_to/view.md)
   * [Create a join](how_to/join.md)
 
-
 * Administration
   * [Create an organization and add data](getting_started/quick-start.md)
   * [Create a blank collection](how_to/new.md)
@@ -59,8 +57,6 @@
   * [Access policies](how_to/access_policy.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
   * [Integrate with Salesforce](how_to/salesforce_api.md)
-
-
   
 * Helpful Links
   * [Terms](getting_started/structure.md)
