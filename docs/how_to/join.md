@@ -1,45 +1,41 @@
 ## How to create a join
-How-to video links:
-Part 1 - https://youtu.be/i9q6_quxxq8 
-Part 2 - https://youtu.be/wTQMEDzP8HA
+[**Video Tutorial**](https://youtu.be/7uHRGDvdT6c?feature=shared)
 
 A join is used to connect multiple collections together using a common key. StarLifter uses a Left Join when creating a Join. This type of join will return all records from the left table, and the matching records from the right table. 
 
 <img src="../assets/join_diagram.jpg"  style="width:800px" class="border"></img>
 
 To create a join:  
-1.	Right click ➔ **Join Definitions**
 
-<img src="../assets/join.png"  style="width:200px" class="border"></img>
+1.  From the menu at the upper left of the screen, select **Join Definitions**.
 
-2.  Select **New Join Definition** from the drop down
+<img src="../assets/join_matt1.png"  style="width:400px" class="border"></img>
 
-<img src="../assets/join_1.png"  style="width:1000px" class="border"></img>
+3.  Select the collection names. The left side of the join should be the collection on the left.
 
-3.  Select the collection names to connect
+4.  Select the join key. Note that the field name of the key does not need to match.  It is only necessary that the date type matches.
 
-<img src="../assets/join_2.png"  style="width:800px" class="border"></img>
+<img src="../assets/join_matt2.png"  style="width:700px" class="border"></img>
 
-4.  Select the key.  Note:  The name of the key does not need to match.  In the example below **Year** and **Date** are fields whose format match (e.g. MM/DD/YYYY)
+5.  Select a Rollup if applicable.  
 
-<img src="../assets/join_3.png"  style="width:800px" class="border"></img>
-
-5.  Select a **Rollup** if applicable.  
-
-<img src="../assets/join_4.png"  style="width:200px" class="border"></img>
+<img src="../assets/join_matt3.png"  style="width:300px" class="border"></img>
 
 Rollups are necessary when the rows of data are not aligned.  A weekly rollup would be required to join these two datasets together.
 
-<img src="../assets/join_6.png"  style="width:600px" class="border"></img>
+<img src="../assets/join_6.png"  style="width:500px" class="border"></img>
 
-6.  Select the fields desired in the join
-7.  Add additional collections with the **+**
-8.  If necessary, add a filter to one or both collections
-9.  Select **OK**
+6.  Select the fields desired in the join.
 
-<img src="../assets/join_5.png"  style="width:800px" class="border"></img>
+7.  If necessary, add a filter to one or both collections.
 
-10.  The join is added as a collection.
+<img src="../assets/join_matt4.png"  style="width:700px" class="border"></img>
 
-<img src="../assets/join_7.png"  style="width:600px" class="border"></img>
+8.  Click **Save**. The join is now available as a new StarLifter collection.
+
+<img src="../assets/join_matt5.png"  style="width:800px" class="border"></img>
+
+9.  To edit the join, right click on the join header and select **Show join definition**.
+
+<img src="../assets/join_matt6.png"  style="width:400px" class="border"></img>
 
