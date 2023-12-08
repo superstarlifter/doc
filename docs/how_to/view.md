@@ -1,42 +1,39 @@
 ## How to create a view
-How-to video link - https://youtu.be/HQwSGMrc9r4
+[**Video Tutorial**](https://youtu.be/nSEy7wmTVD0?feature=shared)
 
-A view is a subset of the columns from a collection.  
+Views are collections that are segments of their base collections. Collections can be segmented on fields, filters, and user permissions.
 
-To create a view:  
-1.	Right click ➔ **View Definitions**
+### To create a view:  
+1.	Right click in the grid of a base collection ➔ **Create View**.
 
-<img src="../assets/view.png"  style="width:200px" class="border"></img>
+<img src="../assets/view_matt1.png"  style="width:700px" class="border"></img>
 
-2.  Name the view
+2.  Name the view and select the fields to keep from the base collection. You also have the option to designate fields as **Read Only**.
 
-<img src="../assets/view_1.png"  style="width:400px" class="border"></img>
+<img src="../assets/view_matt2.png"  style="width:700px" class="border"></img>
 
-3.  Select the collection
+3.  Add a filter.
 
-<img src="../assets/view_2.png"  style="width:400px" class="border"></img>
+<img src="../assets/view_matt3.png"  style="width:600px" class="border"></img>
 
-4.  Select the fields
+4.  Set user permissions for the view.
 
-<img src="../assets/view_3.png"  style="width:400px" class="border"></img>
+<img src="../assets/view_matt9.png"  style="width:600px" class="border"></img>
 
-5.  Select **OK**
+5.  Click **Save**. The view is now available as a new StarLifter collection.
 
-6.  The view is visable as a collection
+<img src="../assets/view_matt4.png"  style="width:800px" class="border"></img>
 
-<img src="../assets/view_4.png"  style="width:400px" class="border"></img>
+6.  To edit the view, right click on the view header and select **Show view definition**.
 
-Filters may be applied to a view to limit the data within the rows.
+<img src="../assets/view_matt7.png"  style="width:400px" class="border"></img>
 
-To filter a view:
 
-1. Select **Filters**
+### Filter by user:  
+1. When creating a view, you also have the option to filter the view by active user. Your base collection must contain a field with a user ID, email, or StarLifter user name.
 
-<img src="../assets/view_6.png"  style="width:400px" class="border"></img>
+<img src="../assets/view_matt6.png"  style="width:700px" class="border"></img>
 
-2. Apply desired filters
+2. In the example above, the view will only contian rows where the Owner field contains the email of the logged-in user.
 
-<img src="../assets/view_7.png"  style="width:400px" class="border"></img>
-
-3.  Select **OK**
-
+<img src="../assets/view_matt8.png"  style="width:800px" class="border"></img>
