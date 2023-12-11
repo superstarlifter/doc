@@ -1,5 +1,7 @@
 ## Preparing a collection
 
+[**Video Tutorial**](https://youtu.be/x5n19V9foWA?feature=shared)
+
 ### Make a collection easier to understand using the following steps.
 
 ## 1. Set the desired layout. 
