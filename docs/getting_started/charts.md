@@ -1,5 +1,7 @@
 ## Charts
 
+[**Video Tutorial**](https://youtu.be/3Tnr53lELtI?feature=shared)
+
 Select from multiple chart types to best visualize data.
 
 <img src="../assets/chart_all.png"  style="width:900px" class="border"></img>
