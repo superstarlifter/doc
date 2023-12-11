@@ -1,4 +1,7 @@
 ## Cleaning data
+
+[**Video Tutorial**](https://youtu.be/THu5VhD-tj0?feature=shared)
+
 Although StarLifter gives you several options for cleaning data, basic cleaning can be accomplished directly in a collection.
 
 ### Set a header row
