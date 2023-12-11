@@ -1,5 +1,7 @@
 ## Dashboards
 
+[**Video Tutorail**](https://youtu.be/vYwm5m20FZg?feature=shared)
+
 Dashboards allow you to visualize data through charts, tables, and KPIs.
 
 ### Access a dashboard
