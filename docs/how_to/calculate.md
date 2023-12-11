@@ -1,10 +1,11 @@
 
 ## Calculated Fields
+
+[**Video Tutorial**](https://youtu.be/OyMBUbcwdo8?feature=shared)
+
 Use calculated fields when you want to change data based on other values in the same row. These actions range from basic mathematical operations to if-then statements and other functions.   
 
 ## How to create a calculation
-How-to video link - https://youtu.be/pC5Fmbb7r1A
-
 Use a calculation to derive new values in a collection.
 
 To create a calculation:
