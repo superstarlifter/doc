@@ -1,4 +1,7 @@
 ## Upload data
+
+[**Video Tutorial**](https://youtu.be/_QFPM6rfksM?feature=shared)
+
 1.  Select **Upload XLS, CSV...**
 
 <img src="../assets/upload.png"  style="width:400px" class="border"></img>
