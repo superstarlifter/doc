@@ -35,6 +35,8 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 
 <img src="../assets/pivot_matt07.png"  style="width:400px" class="border"></img>
 
+<br>
+
 ### Creating a calculation
 1.  To create a calculation, click the calculation icon next to **Value Fields**
 
@@ -48,6 +50,7 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 
 <img src="../assets/pivot_matt19.png"  style="width:800px" class="border"></img>
 
+<br>
 
 ### Editing data views
 1.  Edit the way value fields aggregate using the **Function** drop down in **Value Fields**.
@@ -66,6 +69,8 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 
 <img src="../assets/pivot_matt16.png"  style="width:800px" class="border"></img>
 
+<br>
+
 ### Save a pivot
 
 1.	Click the drop down on the right side of the screen, and select **Save as**.
@@ -79,6 +84,8 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 3.  To access a saved pivot, click the same drop down on the right side of the screen.
 
 <img src="../assets/pivot_matt10.png"  style="width:400px" class="border"></img>
+
+<br>
 
 ### Add a pivot to a dashboard
 
