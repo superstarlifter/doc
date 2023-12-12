@@ -4,7 +4,7 @@ How-to video link - https://youtu.be/h4lSxONLPKs
 There are 3 areas of access that can be granted to other users:
 * **Domain** -  All collections and dasboards in a domain
 * **Collection** -  A single collection no dashboards
-* **Dashboard**  - A single dashboard no collections 
+* **Dashboard**  - A single dashboard, and the collection data used to build the dashboard
 
 ### Domain Access
 
@@ -13,7 +13,7 @@ There are 3 areas of access that can be granted to other users:
 <img src="../assets/sharing_access_domain_1.png"  style="width:200px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * Access level **Viewer** - Can view anything in the domain.
+    * Access level **Viewer** - Can view, but not edit, anything in the domain. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
     * Access level **Editor** - Can edit anything in the domain.
 
 <img src="../assets/sharing_access_domain_2.png"  style="width:600px" class="border"></img>
@@ -30,7 +30,7 @@ There are 3 areas of access that can be granted to other users:
 
 2.  Enter the email address of the user and select the level of access.
     * Access level **Viewer** - Can view anything in the collection.
-    * Access level **Edit and Configure** - Can edit and view the data in the collection and update the collection schema.
+    * Access level **Edit and Configure** - Can edit and view the data in the collection and update the collection schema (add, edit, and delete fields).
     * Access level **Editor** - Can edit anything in the collection.
 
 <img src="../assets/sharing_access_collection_2.png"  style="width:600px" class="border"></img>
@@ -45,7 +45,7 @@ There are 3 areas of access that can be granted to other users:
 <img src="../assets/sharing_access_dashboard_1.png"  style="width:200px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * Access level **Viewer** - Can view anything in the dashboard.
+    * Access level **Viewer** - Can view anything in the dashboard. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
     * Access level **Editor** - Can edit anything in the dashboard.
 
 <img src="../assets/sharing_access_dashboard_2.png"  style="width:600px" class="border"></img>
