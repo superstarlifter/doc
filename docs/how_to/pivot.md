@@ -17,7 +17,7 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 
 <img src="../assets/pivot_matt03.png"  style="width:600px" class="border"></img>
 
-4.  Add, change and re-order row fields and value fields by dragging them into the order you desire.
+4.  Reorder fields by dragging and dropping.
 
 **Before**
 
@@ -27,17 +27,44 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 
 <img src="../assets/pivot_matt04b.png"  style="width:600px" class="border"></img>
 
-5.  Edit the way value fields aggregate using the **Function** drop down in **Value Fields**.
+5.  Use the date rollup buttons to change the date rollups in the pivot.
 
-<img src="../assets/pivot_matt05.png"  style="width:800px" class="border"></img>
+<img src="../assets/pivot_matt06.png"  style="width:600px" class="border"></img>
 
-6.  Use the date rollup buttons to change the date rollups in the pivot.
-
-<img src="../assets/pivot_matt06.png"  style="width:800px" class="border"></img>
-
-7.  To unpivot, click the unpivot icon on the right of the screen.
+6.  To unpivot, click the unpivot icon on the right of the screen.
 
 <img src="../assets/pivot_matt07.png"  style="width:400px" class="border"></img>
+
+### Creating a calculation
+1.  To create a calculation, click the calculation icon next to **Value Fields**
+
+<img src="../assets/pivot_matt17.png"  style="width:600px" class="border"></img>
+
+2.  Edit the calculation definitions.
+
+<img src="../assets/pivot_matt18.png"  style="width:500px" class="border"></img>
+
+3.  In the example below, Boxes per Bin is added as a calculated column to the pivot.
+
+<img src="../assets/pivot_matt19.png"  style="width:800px" class="border"></img>
+
+
+### Editing data views
+1.  Edit the way value fields aggregate using the **Function** drop down in **Value Fields**.
+
+<img src="../assets/pivot_matt13.png"  style="width:400px" class="border"></img>
+
+2.  Edit the way value fields are viewed using the **Show as** drop down in **Value Fields**.
+
+<img src="../assets/pivot_matt14.png"  style="width:600px" class="border"></img>
+
+3.  You have the option of changing the value field title to something more descriptive.
+
+<img src="../assets/pivot_matt15.png"  style="width:400px" class="border"></img>
+
+4.  In the example below, the difference value calculates the difference between boxes in the current year and the previous year.
+
+<img src="../assets/pivot_matt16.png"  style="width:800px" class="border"></img>
 
 ### Save a pivot
 
