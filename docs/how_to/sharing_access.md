@@ -13,7 +13,7 @@ There are 3 areas of access that can be granted to other users:
 <img src="../assets/sharing_access_domain_1.png"  style="width:200px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * Access level **Viewer** - Can view, but not edit, anything in the domain. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
+    * Access level **Viewer** - Can view anything in the domain. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
     * Access level **Editor** - Can edit anything in the domain.
 
 <img src="../assets/sharing_access_domain_2.png"  style="width:600px" class="border"></img>
