@@ -1,38 +1,30 @@
 ## Scheduled Integrations
-[**Video Tutorial**](https://youtu.be/RA0sLW_FuU8?feature=shared)
 
 Use a Scheduled Job to schedule your integrations so data is automatically pulled into StarLifter.
 
 ### Create a Scheduled Job
 1. From the menu at the upper left of the screen, select **Toggle menu**.
 
-<img src="../assets/salesforce_api0.png"  style="width:400px" class="border"></img>
+<img src="../assets/scheduledjob_matt01.png"  style="width:400px" class="border"></img>
 
 2. Select the **+** next to **SL ☆ Scheduled Jobs**.
 
-<img src="../assets/salesforce_api1.png"  style="width:300px" class="border"></img>
+<img src="../assets/scheduledjob_matt02.png"  style="width:300px" class="border"></img>
 
-3. Enter the information provided by your Salesforce Administrator.
+3. Name the Scheduled Job. Under **Type** select, Integration.
 
-<img src="../assets/salesforce_api3.png"  style="width:800px" class="border"></img>
+<img src="../assets/scheduledjob_matt03.png"  style="width:800px" class="border"></img>
 
+4. Select the **Integration Definition**.
 
-### Upload data
-1. Select the Objects and Fields you wish to download.
+<img src="../assets/scheduledjob_matt04.png"  style="width:800px" class="border"></img>
 
-<img src="../assets/salesforce_api4.png"  style="width:800px" class="border"></img>
-   
-2. Check **Preview only** and select **Go** to preview the collection.
+5. If you have already configured the integration, the information will populate. Click **Save**.
 
-<img src="../assets/salesforce_api5.png"  style="width:800px" class="border"></img>
+<img src="../assets/scheduledjob_matt05.png"  style="width:800px" class="border"></img>
 
-3. When you are ready to download the collection, uncheck **Preview**. You have several options available to you when you download a collection:
-   * **Drop current collection first:** If a StarLifter collection already exists, drop the current collection and replace it with the new collection. Alternatively, StarLifter will update the current collection.
-   * **Copy all rows:** Download all records in a Salesforce object, rather than specifying the number of records to pull.
-   * **Set references:** Automatically set StarLifter references for Salesforce reference fields.
+7. Select the **Frequency** of the integration, and the details about when you wish the data to be pulled. Check **Active**.
 
-<img src="../assets/salesforce_api6.png"  style="width:800px" class="border"></img>
-  
-4. Push **Go** to download the StarLifter collection. Once downloaded, the data is available as a new StarLifter collection.
+<img src="../assets/scheduledjob_matt06.png"  style="width:800px" class="border"></img>
 
-<img src="../assets/salesforce_api7.png"  style="width:800px" class="border"></img>
+9. To run the integration immediately, select **Try It**. To save the Scheduled Job, click **Save**.
