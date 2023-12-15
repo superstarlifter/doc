@@ -1,5 +1,7 @@
 ## Advanced manipulator commands
 
+[Video Tutorial](https://youtu.be/9gMl5IKxzNM?feature=shared)
+
 ### Command toolbar
 More complex commands can be accessed using the toolbar at the top of the screen.
 
