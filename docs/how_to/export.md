@@ -8,7 +8,7 @@
 
 <img src="../assets/export_matt02.png"  style="width:1000px" class="border"></img>
 
-3. StarLifter also stores the collection dictionary so your field settings are captured when you upload the data back into StarLifter. To access the dictionary, unhide the **__x_dictionary__** sheet.
+3. StarLifter also stores the collection dictionary so your field settings are captured when you upload the collection back into StarLifter. To access the dictionary, unhide the **__x_dictionary__** sheet.
 
 <img src="../assets/export_matt03.png"  style="width:800px" class="border"></img>
 
