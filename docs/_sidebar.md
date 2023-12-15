@@ -28,7 +28,9 @@
 
 * Maintaining data
   * [Delete a collection or its rows](how_to/delete.md)
-  * [Uploading data with a date and tag](how_to/tag.md)
+  * [Upload data with a date and tag](how_to/tag.md)
+  * [Export data to XLSX format](how_to/export.md)
+
  
 * Filtering & grouping
   * [Set a primary date](how_to/date.md)
@@ -41,6 +43,7 @@
 * Visualizing data
   * [Sort values on a chart](how_to/chart_sort.md)
   * [Define number of values on chart](how_to/chart_data_points.md)
+  * [Drill through data](how_to/drillthrough.md)
 
 * Analyzing data
   * [Create a calculation](how_to/calculate.md)
@@ -57,7 +60,8 @@
   * [Access policies](how_to/access_policy.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
   * [Integrate with Salesforce](how_to/salesforce_api.md)
-  
+  * [Scheduled Integrations](how_to/scheduledintegrations.md)
+
 * Helpful Links
   * [Terms](getting_started/structure.md)
   * [Keyboard shortcuts](keyboard.md)
