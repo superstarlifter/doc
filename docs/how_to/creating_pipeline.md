@@ -1,4 +1,7 @@
 ## Creating a pipeline
+
+[Video Tutorial](https://youtu.be/9gMl5IKxzNM?feature=shared)
+
 As you clean and reformat your collection a pipeline is automatically created to save your steps. Pipelines can be saved to be used again in the future.
 
 <img src="../assets/pipeline_layout_matt.png"  style="width:800px" class="border"></img>
