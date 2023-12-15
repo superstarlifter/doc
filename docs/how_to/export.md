@@ -4,7 +4,7 @@
 
 <img src="../assets/export_matt01.png"  style="width:400px" class="border"></img>
 
-2. Data from the collection appears an XLSX file in your downlaods folder.
+2. Data from the collection appears an XLSX file in your downloads folder.
 
 <img src="../assets/export_matt02.png"  style="width:1000px" class="border"></img>
 
