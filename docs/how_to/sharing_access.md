@@ -43,7 +43,7 @@ There are 3 areas of access that can be granted to other users:
 ### Dashboard Access
 1.	Select the share icon in the upper right menu of the Dashboard
 
-<img src="../assets/sharing_access_dashboard_1.png"  style="width:200px" class="border"></img>
+<img src="../assets/dashboard_share_matt.png"  style="width:800px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
     * Access level **Viewer** - Can view anything in the dashboard. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
