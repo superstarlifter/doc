@@ -1,5 +1,7 @@
 ## Drill through data
 
+[**Video Tutorial**](https://youtu.be/qFYNcpkTpJU?feature=shared)
+
 StarLifter's drill-through capabilities make it easy to navigate from insights on your dashboard, to the raw data needed to make decisions.
 
 ### Drill through charted data
