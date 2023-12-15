@@ -1,5 +1,5 @@
 ## How create a pivot
-How-to video link - https://youtu.be/wkYBb-xqabo
+[Video Tutorial](https://youtu.be/ejp6YxLDN4s?feature=shared)
 
 Use a pivot to aggregate and group values by categories. Pivots can be created directly in the UI or saved to a dashboard.
 
