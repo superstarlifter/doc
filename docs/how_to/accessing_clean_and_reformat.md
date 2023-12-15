@@ -1,4 +1,7 @@
 ## Accessing Clean and Reformat
+
+[Video Tutorial](https://youtu.be/9gMl5IKxzNM?feature=shared)
+
 StarLifter offers you the ability to clean your data so it is ready to analyze. While basic cleaning can be accomplished in a collection, more complex cleaning is done in Clean and Reformat.
 
 ### Accessing Clean and Reformat
