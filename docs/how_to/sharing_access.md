@@ -1,5 +1,6 @@
 ## Sharing Access to Users
-How-to video link - https://youtu.be/h4lSxONLPKs
+
+[Video Tutorial](https://youtu.be/-z-MOrKmMG4?feature=shared)
 
 There are 3 areas of access that can be granted to other users:
 * **Domain** -  All collections and dasboards in a domain
