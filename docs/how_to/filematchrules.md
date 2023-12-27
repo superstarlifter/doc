@@ -1,6 +1,6 @@
 ## File Match Rules
 
-[Video Tutorial](https://youtu.be/8cSE05E3aBo?feature=shared)
+[Video Tutorial](https://youtu.be/JhwCRTesdJ8?feature=shared)
 
 File Match rules tell StarLifter what to do with data uploaded using SFTP, Dropbox, and Email integrations.
 
