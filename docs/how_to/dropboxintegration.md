@@ -28,5 +28,5 @@ Once a Dropbox Integration is created, set up [**File Match Rules**](https://doc
 <img src="../assets/dropboxintegration_matt04.png"  style="width:800px" class="border"></img>
 
 **A few tips:**
-* Before data can be upload through Dropbox StarLifter, a base collection must exist that contains the fields you wish to upload. Best practice is to begin by uploading a base collection into StarLifter manually.
+* Before data can be uploaded through Dropbox, a base collection must exist that contains the fields you wish to upload. Best practice is to begin by uploading a base collection into StarLifter manually.
 * For a hands-free experience, consider automating uploads from your source system to your Dropbox folder!
