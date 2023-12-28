@@ -13,11 +13,11 @@ Once a Dropbox Integration is created, set up [**File Match Rules**](https://doc
 
 2. Set up File Match Rules and Scheduled job. File Match Rules tell StarLifter where and how to upload the data. Scheduled jobs determine the frequency with which data is uploaded.
 
-<img src="../assets/dropboxintegration_matt01.png"  style="width:400px" class="border"></img>
+<img src="../assets/dropboxintegration_matt01.png"  style="width:600px" class="border"></img>
 
 3. Upload an Excel or .csv file to the Dropbox folder.
 
-<img src="../assets/dropboxintegration_matt02.png"  style="width:500px" class="border"></img>
+<img src="../assets/dropboxintegration_matt02.png"  style="width:600px" class="border"></img>
 
 4. The next time your Scheduled Job for your Dropbox Integration runs, your data will be uploaded into StarLifter as determined by the File Match Rules. You can run the Scheduled Job manually by clicking **Try it**.
 
