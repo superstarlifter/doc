@@ -4,7 +4,7 @@
 
 Uploading data into StarLifter is as easy as emailing a spreadsheet. Just ask StarLifter to set up an email address for your org.
 
-Once an email integration is created, set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations) to clean and upload the data to the right collection and at the right frequency.
+Once an Email Integration is created, set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations) to clean and upload the data to the right collection and at the right frequency.
 
 ### Upload data using Email
 1. In this example, we will upload General Ledger data for July.
