@@ -11,7 +11,7 @@ Once a Dropbox Integration is created, set up [**File Match Rules**](https://doc
 
 <img src="../assets/dropboxintegration_matt00.png"  style="width:800px" class="border"></img>
 
-2. Set up File Match Rules and Scheduled job. File Match Rules tell StarLifter where and how to upload the data. Scheduled jobs determine the frequency with which data is uploaded.
+2. Set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations). File Match Rules tell StarLifter where and how to upload the data. Scheduled jobs determine the frequency with which data is uploaded.
 
 <img src="../assets/dropboxintegration_matt01.png"  style="width:600px" class="border"></img>
 
