@@ -60,6 +60,8 @@
   * [Access policies](how_to/access_policy.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
   * [Salesforce Integration](how_to/salesforce_api.md)
+  * [SFTP Integration](how_to/sftpintegration.md)
+  * [Dropbox Integration](how_to/dropboxintegration.md)
   * [Email Integration](how_to/emailintegration.md)
   * [File Match Rules](how_to/filematchrules.md)
   * [Scheduled Jobs](how_to/scheduledintegrations.md)
