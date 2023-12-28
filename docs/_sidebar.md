@@ -59,8 +59,10 @@
   * [Sharing data](how_to/sharing_access.md)
   * [Access policies](how_to/access_policy.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
-  * [Integrate with Salesforce](how_to/salesforce_api.md)
-  * [Scheduled Integrations](how_to/scheduledintegrations.md)
+  * [Salesforce Integration](how_to/salesforce_api.md)
+  * [Email Integration](how_to/emailintegration.md)
+  * [File Match Rules](how_to/filematchrules.md)
+  * [Scheduled Jobs](how_to/scheduledintegrations.md)
 
 * Helpful Links
   * [Terms](getting_started/structure.md)
