@@ -29,7 +29,7 @@ Once an Email Integration is created, set up [**File Match Rules**](https://docs
 
 **A few tips:**
 * Before data can be emailed into StarLifter, a base collection must exist that contains the fields you wish to upload. Best practice is to begin by uploading a base collection into StarLifter manually.
-* Many systems allow for automated email data reporting. Consider setting this up for a hands-free experience!
+* For a hands-free experience, consider automating emailed reports from your source system to your StarLifter email!
 
 ### Creating your own email integration
 You also have the option of creating your own Email Integration.
