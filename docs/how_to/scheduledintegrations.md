@@ -1,6 +1,6 @@
-## Scheduled Integrations
+## Scheduled Jobs
 
-[Video Tutorial](https://youtu.be/8cSE05E3aBo?feature=shared)
+[**Video Tutorial**](https://youtu.be/8cSE05E3aBo?feature=shared)
 
 Use a Scheduled Job to schedule your integrations so data is automatically pulled into StarLifter.
 
