@@ -19,9 +19,9 @@ Once an SFTP Integration is created, set up [**File Match Rules**](https://docs.
 
 3. Under **System Integrations**, select **SL ☆ Mail Configurations**.
 
-<img src="../assets/sftpintegration_matt01.png"  style="width:400px" class="border"></img>
+<img src="../assets/sftpintegration_matt01.png"  style="width:300px" class="border"></img>
 
-4. Double-click, or right-click and select **Insert row** to insert a new Email Integration. You can either edit the fields in the row, or right-click on the pencil to open up a form.
+4. Double-click, or right-click and select **Insert row** to insert a new SFTP Integration. You can either edit the fields in the row, or right-click on the pencil to open up a form.
 
 <img src="../assets/sftpintegration_matt02.png"  style="width:800px" class="border"></img>
 
