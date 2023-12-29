@@ -51,6 +51,11 @@
   * [Pivot data](how_to/pivot.md)
   * [Create a view](how_to/view.md)
   * [Create a join](how_to/join.md)
+ 
+* Creating table reports
+  * [Accessing table reporting](how_to/accessing_table_reporting.md)
+  * [Create a report](how_to/reportsetup.md)
+  * [Create relationships between collections](how_to/collectionrelations.md)
 
 * Administration
   * [Create an organization and add data](getting_started/quick-start.md)
