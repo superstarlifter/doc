@@ -5,7 +5,7 @@ Relationships between collections can be created so that a single report can inc
 ### Upload data using Email
 1.  From the menu at the upper left of the screen, select **Toggle menu**.
 
-<img src="../assets/tablerelations01.png"  style="width:200px" class="border"></img>
+<img src="../assets/tablerelations01.png"  style="width:400px" class="border"></img>
 
 2. Select **SL ☆ Relations**.
 
@@ -26,4 +26,4 @@ Relationships between collections can be created so that a single report can inc
 
 5. Adjust the date range, total, and weave settings as needed.
 
-<img src="../assets/tablerelations05.png"  style="width:600px" class="border"></img>
+<img src="../assets/tablerelations05.png"  style="width:800px" class="border"></img>
