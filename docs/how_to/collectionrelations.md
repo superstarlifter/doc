@@ -2,7 +2,7 @@
 
 Relationships between collections can be created so that a single report can include data from multiple collections. For example, production forecast collections can be related to production actual collections for comparison.
 
-### Upload data using Email
+### Create relationships between collections
 1.  From the menu at the upper left of the screen, select **Toggle menu**.
 
 <img src="../assets/tablerelations01.png"  style="width:400px" class="border"></img>
