@@ -8,7 +8,7 @@ As you clean and reformat your collection a pipeline is automatically created to
 
 A pipeline is applied to a StarLifter collection. To begin, select the collection you wish to clean and reformat.
 
-### Common manipulator commands
+### Common transformer commands
 The commands below can be accessed by right-clicking within the collection preview:
 
 * **Delete rows like this:** Delete rows that contain the selected value
@@ -51,4 +51,5 @@ Once a pipeline is saved, it is available to use on other collections.
 3. Alternatively, select the collection you wish to overwrite.
 
 <img src="../assets/manipulator_collection_save2.png"  style="width:400px" class="border"></img>
+
 
