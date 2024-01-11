@@ -25,3 +25,7 @@ The layout of StarLifter table reporting includes the sections below:
 * **Row Options:** Additional options to add or edit rows 
 
 <img src="../assets/tablereporting_matt03.png"  style="width:800px" class="border"></img>
+
+
+
+To ask others how they are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
