@@ -26,4 +26,4 @@ The layout of Clean and Reformat includes the sections below:
 <img src="../assets/pipeline_layout_matt.png"  style="width:800px" class="border"></img>
 
 
-To learn more about how others are using this functionality, head over to the [StarLifter Community](community.starlifter.io).
+To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
