@@ -20,7 +20,7 @@ Access policies allow admins to grant users view and update access to specific d
    * All Users - Does this rule apply to all users
    * User - The user this policy grants access
    * User Name - Username of from the User field. (Auto populated)
-   * Condition - 
+   * Condition - Set to 'true'
    * Filter - Filter access of data by rows
    * Fields - Filter access of data by fields
    * Parent - Used to link two policies together
@@ -32,9 +32,13 @@ Access policies allow admins to grant users view and update access to specific d
 
 ### Creating an Access Policy via sharing
 * When a user shares a resource (collection, dashboard, etc) an access policy will automatically be created in the Access Policies table.
-* Resources that requrire supporting resources will automatically create a policy for both resources.
-    * For example when a user shares a dashboard with a user 2 policies will be created 
+* Resources that require supporting resources will automatically create a policy for both resources.
+    * For example when a user shares a dashboard with a user, 2 policies will be created 
       * 1 for the dasboard
-      * 1+ for the read access to the read access to the data that supports the dashboard
+      * 1+ for the read access to the data that supports the dashboard
 
 * For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](/docs/how_to/sharing_access.md)
+
+
+
+To learn more about how others are using this functionality, head over to the [StarLifter Community](community.starlifter.io).
