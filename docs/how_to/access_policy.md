@@ -41,4 +41,4 @@ Access policies allow admins to grant users view and update access to specific d
 
 
 
-To learn more about how others are using this functionality, head over to the [StarLifter Community](community.starlifter.io).
+To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
