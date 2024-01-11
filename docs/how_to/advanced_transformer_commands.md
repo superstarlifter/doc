@@ -1,6 +1,7 @@
-## Advanced manipulator commands
+## Advanced transformer commands
 
 [Video Tutorial](https://youtu.be/9gMl5IKxzNM?feature=shared)
+To learn about the common transformer commands, start with the [Create a pipeline](url) article. 
 
 ### Command toolbar
 More complex commands can be accessed using the toolbar at the top of the screen.
