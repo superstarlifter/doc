@@ -56,3 +56,5 @@ Select how to append fields to the collection by choosing one of the following a
 
 <img src="../assets/append_result_matt2.png"  style="width:800px" class="border"></img>
 
+
+To learn from others how they are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
