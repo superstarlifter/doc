@@ -11,3 +11,6 @@ If a chart that you create does not display the number of data points you want, 
 
 <img src="../assets/chart_data_points_1.png"  style="width:400px" class="border"></img>
 
+
+
+To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
