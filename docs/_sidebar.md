@@ -36,7 +36,6 @@
   * [Set a primary date](how_to/date.md)
   * [Roll up data](how_to/rollup.md)
   * [Filter data](how_to/filter.md)
-  * [Cross filter a dashboard](how_to/cross_filter.md)
   * [Save, edit and delete a filter](how_to/filter.md)
   * [Qwik filters](how_to/qwik_filter.md)
 
