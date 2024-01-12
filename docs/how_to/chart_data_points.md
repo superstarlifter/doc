@@ -3,7 +3,7 @@ If a chart that you create does not display the number of data points you want, 
 
 ## How to change the number of data points on a chart
 
-1.  Click the chart's 3 line menu to open the chart definition
+1.  Click the 3 line menu in the top left corner of the chart to open the chart definition
 
 <img src="../assets/chart_sort_2.png"  style="width:200px" class="border"></img>
 
