@@ -16,3 +16,6 @@ To set a primary date:
 
 <img src="../assets/date2.png"  style="width:800px" class="border"></img>
 
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
