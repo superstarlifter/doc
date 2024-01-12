@@ -1,5 +1,12 @@
 ## Color formatting
-You can specific the color of the font and the background.
+You can specific the color of the font and the background of a field by editing the Format in the Collection Dictionary.
+
+## Accessing the Dictionary
+Right click on the title of the collection that contains the field you would like to format. Navigate to Show Dictionary.
+
+IMAGE
+
+Locate the field you'd like to format, and scroll over to the Format column. Input the formatting following the syntax below.
 
 ## Number formatting
 | Original Value | Formatted Value | Formatting |
