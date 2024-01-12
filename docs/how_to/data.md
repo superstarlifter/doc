@@ -6,11 +6,11 @@ The type of data can determine how you interact with the data in the StarLifter 
 Define the data type in each column by accessing the field definition.
 
 To set a data type:
-1. Right-click on the field you want to set, select **Fields**
+1. Right click on the field you want to set, select **Fields**.
 
 <img src="../assets/data_01.jpg"  style="width:800px" class="border"></img>
 
-2.  Select the desired type from the **Data Type** dropdown
+2.  Select the desired type from the **Data Type** dropdown.
 
 <img src="../assets/data_02.jpg"  style="width:800px" class="border"></img> 
 
@@ -40,7 +40,7 @@ Click the **Format** drop-down field to display the available predefined choices
 #### Custom formatting
 If your desired format is not listed, you have to option to customize it using the **Format** field in the data dictionary. This field will be auto-populated with the format definition of the **Format** field from the Fields UI. You can use this value as a starting point.
 
-To access the data dictionary, right click on the collection header and select **Show dictionary**
+To access the data dictionary, right click on the collection header and select **Show dictionary**.
 
 <img src="../assets/custom_data_format1_matt.png"  style="width:800px" class="border"></img>
 
@@ -53,7 +53,7 @@ _In this example, the Hourly Rate field's font color was changed to dodgerblue a
 <img src="../assets/custom_data_format3_matt.png"  style="width:800px" class="border"></img>
 
 ##### Custom formatting options
-There are 3 sections of a custom number format, postive number, negative numbers, zero values.
+There are 3 sections of a custom number format: postive number, negative number, zero values.
 Each of these sections must be separated by a semicolon (;).
 ```
 [Positive Number];[Negative Number];[Zero Value]
@@ -77,3 +77,7 @@ The following example will:
 
 ## Data types in the dictionary
 Administrators have access to the defined data types, formatting, and field definition values stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
+
+
+
+To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
