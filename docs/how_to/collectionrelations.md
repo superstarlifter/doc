@@ -27,3 +27,7 @@ Relationships between collections can be created so that a single report can inc
 5. Adjust the date range, total, and weave settings as needed.
 
 <img src="../assets/tablerelations05.png"  style="width:800px" class="border"></img>
+
+
+
+To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
