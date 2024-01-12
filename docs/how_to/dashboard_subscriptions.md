@@ -12,17 +12,22 @@ Subscribing to a dashboard ensures a user will have a PDF of their dashboard del
 * User(s) email address
 * Email Subject
 * Body of the email
-* Frequency the email will be sent
+
+*From here, you have two options - send the dashboard immediately or set up a scheduled dellivery.*
+
+3. To send immediately, select the Send Email button.
+
+<img src="../assets/subscription_dashboard_1.png"  style="width:400px" class="border"></img>
+
+4. To set up a scheduled delivery, select the calendar icon next to the the email address line.
+   * You then have the option to set the delivery frequency, plus the days and time of delivery.
+   * Be sure to check the Active check box to ensure the subscription is live.
+   * Select **OK**
+   * The subscription is now saved and will be emailed at the scheduled time.
 
 
-<img src="../assets/dashboard_subscriptions_2.png"  style="width:400px" class="border"></img>
-
-
-3.  Check the "Run Immediately" to have the email sent immediately.
-
-4.  Select **OK**
-5.  The subscription is now saved and will be emailed at the scheduled time.
-
+<img src="../assets/subscription_dashboard_2.png"  style="width:400px" class="border"></img>
+ 
 <img src="../assets/dashboard_subscriptions_3.png"  style="width:400px" class="border"></img>
 
 
