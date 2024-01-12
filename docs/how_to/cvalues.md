@@ -1,5 +1,5 @@
 ## Change the number of data points on a chart
-Updating the number of data points can expand or contract the chart allowing users to have an appropriate view of the data. 
+Updating the number of data points on a chart can give users a more relevant view of the data. 
 
 ## How to change the number of data points on a chart 
 
@@ -16,3 +16,7 @@ To define the number of values (e.g. columns, points) on a chart:
 3.  Select **OK**
 
 <img src="../assets/cvalue2.png"  style="width:400px" class="border"></img>
+
+
+
+To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
