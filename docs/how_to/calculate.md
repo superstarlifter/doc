@@ -29,7 +29,7 @@ To create a calculation:
 
 <img src="../assets/calc_3.png"  style="width:600px" class="border"></img>
 
-5.  Select the elements to build your calculation. Input a **Field** **Number** or **Text**, or use an **IF** or **Function**
+5.  Select the elements to build your calculation. Input a **Field**, **Number**, or **Text**, or use an **IF** or **Function**
 
     For a list of available functions visit [Functions](https://docs.starlifter.io/#/how_to/functions)
 
