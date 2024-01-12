@@ -4,7 +4,7 @@ You can specific the color of the font and the background of a field by editing 
 ## Accessing the Dictionary
 Right click on the title of the collection that contains the field you would like to format. Navigate to Show Dictionary.
 
-IMAGE
+<img src="../assets/access_dictionary.png"  style="width:200px" class="border"></img>
 
 Locate the field you'd like to format, and scroll over to the Format column. Input the formatting following the syntax below.
 
