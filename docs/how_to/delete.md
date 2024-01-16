@@ -2,7 +2,7 @@
 
 To create delete a collection:
 
-1.	Right click ➔ **Drop**
+1.	Right click the collection title ➔ **Drop**
 
 <img src="../assets/delete.png"  style="width:200px" class="border"></img>
 
@@ -13,7 +13,7 @@ Note:  This action is final and cannot be undone.
 
 To delete all of the rows in a collection:
 
-1.  Right click ➔ **Delete all rows**
+1.  Right click the collection title ➔ **Delete all rows**
 
 <img src="../assets/delete1.png"  style="width:600px" class="border"></img>
 
