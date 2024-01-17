@@ -1,9 +1,9 @@
 ## The importance of the dictionary
-How-to video link - https://youtu.be/P4LC7HkmHIc
+[Video Tutorial](https://youtu.be/P4LC7HkmHIc)
 
 There are two purposes for the dictionary:
 1.  The organization's administrator can further edit the data within a collection, and 
-2.  Users can quickly see what data is included and its source.
+2.  Users can quickly all data available and its source.
 
 To begin editing the dictionary:
 1.  Right click ➔ **View dictionary**
@@ -102,3 +102,7 @@ To add a description:
 * **Reference Collection** - the name of the collection used for the reference
 * **Reference Field** - the field used to perform the reference
 
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
