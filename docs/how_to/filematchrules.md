@@ -37,3 +37,7 @@ File Match rules tell StarLifter what to do with data uploaded using SFTP, Dropb
 **Order:** If multiple file matches upload to the same collection, specify the order in which they need to be uploaded. The lower number in the sequence is uploaded first.
 
 <img src="../assets/filematchrules_matt04.png"  style="width:800px" class="border"></img>
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
