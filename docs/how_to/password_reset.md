@@ -16,9 +16,9 @@ Enter your email address to have password reset instructions emailed to you.
 ### Administrator initiated password reset
 As an administrator, you can reset a user's password via the user table.
 
-Click the user profile menu in the upper right corner and select **Administration**
+Click the menu in the upper left corner and select **Toggle Menu**
 
-<img src="../assets/password_reset_03.jpg"  style="width:800px" class="border"></img> 
+<img src="../assets/toggle_menu_matt.png"  style="width:400px" class="border"></img> 
 
 
 Expand the **System Definition** menu and select **SL ✩ Users**.
@@ -30,3 +30,7 @@ Double-click the user's password field and enter the new password and press ente
 <img src="../assets/password_reset_05.jpg"  style="width:800px" class="border"></img> 
 
 *Note – For security purposes the password will not be visible.
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
