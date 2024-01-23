@@ -96,3 +96,7 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 2.  The pivot is now saved to the dashboard.
 
 <img src="../assets/pivot_matt12.png"  style="width:800px" class="border"></img>
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
