@@ -10,18 +10,18 @@ When you define a reference field, a relationship is created between the two col
 
 2. Change **Data Type** to Reference.
 
-<img src="../assets/references_matt1.png"  style="width:800px" class="border"></img>.
+<img src="../assets/references_matt1.png"  style="width:800px" class="border"></img>
 
 3. Select the **Reference collection** and **Reference collection field to match**.
 
 <img src="../assets/references_matt3.png"  style="width:800px" class="border"></img>
 
-4. To use the field to match as the display value, check **Use as display value**. Alternatively, the display value (likely the name field) in the referenced collection will be displayed in the reference field.
+4. To use the field to match as the display value, check **Use as display value**. Alternatively, the display value in the referenced collection will be displayed in the reference field. In this example, the name of Account 1019 is Due from Parent.
 
    <img src="../assets/references_matt10.png"  style="width:800px" class="border"></img>
 
 
-6. Click **Save**.
+5. Click **Save**.
 
 
 ### Adding fields from a referenced collection
