@@ -1,6 +1,6 @@
 ## How to create a blank collection 
 
-Add new data by creating a blank collection
+Another way to add new data is by creating a blank collection.
 
 To create a collection:
 
@@ -14,11 +14,11 @@ To create a collection:
 
 <img src="../assets/coll 3.png"  style="width:600px" class="border"></img>
 
-3.  Add the **Label**, **Name** and **Type** by entering data into the grid.  Label is what shows up in column headers, charts and KPIs.  Name is what is stored in the database.
+3.  Add the **Label** and **Type** by entering data into the grid.  Label is what shows up in column headers, charts and KPIs.  Name is what is stored in the database - it will be generated automatically.
 
 <img src="../assets/coll 4.png"  style="width:200px" class="border"></img>
 
-4.  Right click and **Drop field** or **Add field** depending on how many columns your collection needs.
+4.  Right click to **Drop field** or **Add field** depending on how many columns your collection needs.
 
 <img src="../assets/coll 5.png"  style="width:200px" class="border"></img>
 
@@ -30,10 +30,10 @@ To create a collection:
 
 <img src="../assets/coll 7.png"  style="width:600px" class="border"></img>
 
-<img src="../assets/coll 8.png"  style="width:200px" class="border"></img>
+<img src="../assets/coll 8 .png"  style="width:200px" class="border"></img>
 
 7.  Enter data accordingly 
 
-<img src="../assets/coll 9.png"  style="width:200px" class="border"></img>
+<img src="../assets/coll 9.png"  style="width:600px" class="border"></img>
 
 
