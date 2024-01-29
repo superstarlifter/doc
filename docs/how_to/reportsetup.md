@@ -2,7 +2,7 @@
 
 [**Video Tutorial**](https://youtu.be/fLLjW7BHojw?feature=shared)
 
-The basics of setting up a table report in StarLifter involve choosing category fields, the date rollup, and numeric fields. These reports can also be saved for future use.
+The basics of setting up a table report in StarLifter involves choosing category fields, the date rollup, and numeric fields. These reports can then be saved for future use.
 
 ### Category fields
 1. In this example, we're going to build out a Production Analysis for the current year.
@@ -21,7 +21,7 @@ The basics of setting up a table report in StarLifter involve choosing category 
 
 <img src="../assets/tablereporting_category04.png"  style="width:600px" class="border"></img>
 
-5. To open or close all fields in a hierarchy, shift-clock on the drop-down arrow.
+5. To open or close all fields in a hierarchy, Shift-Click on the drop-down arrow.
 
 <img src="../assets/tablereporting_category05.png"  style="width:600px" class="border"></img>
 
@@ -71,3 +71,8 @@ The basics of setting up a table report in StarLifter involve choosing category 
 3. The report is now accessable by clicking the icon on the collection header.
 
 <img src="../assets/tablereporting_save05.png"  style="width:600px" class="border"></img>
+
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
