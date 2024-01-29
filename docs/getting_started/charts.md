@@ -29,6 +29,7 @@ Select from multiple chart types to best visualize data.
   <img src="../assets/charts_edit_chart_definition_1.png"  style="width:200px" class="border"></img>
   
   * Drag measures to the left or right vertical axes
+
     **NOTE:** If the right axis is not visible click on the dotted icon to drag the right axis menu into view
   * Drag categories to the horizontal **Categories** axis
   * Drag a measure to the **Line** box to overlay a line on a column chart
@@ -37,7 +38,7 @@ Select from multiple chart types to best visualize data.
   
 ### Good to know with charts
 
-  Hover over data points on each chart to see tool tips
+  Hover over data points on each chart to view more information.
 
 <img src="../assets/chart_tooltips.png"  style="width:800px" class="border"></img>
 
@@ -71,5 +72,7 @@ Select from multiple chart types to best visualize data.
 
 <img src="../assets/charts_legend_1.png"  style="width:800px" class="border"></img>
 
+<br>
+To show how you're using charts or to ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
 
 
