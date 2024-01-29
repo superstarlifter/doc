@@ -25,8 +25,14 @@ Use a Scheduled Job to schedule your integrations so data is automatically pulle
 
 <img src="../assets/scheduledjob_matt05.png"  style="width:800px" class="border"></img>
 
-7. Select the **Frequency** of the integration, and the details about when you wish the data to be pulled. Check **Active**.
+7. Select **Schedule** to set when you'd like the integration to run, including the frequency, day(s), and time. Check **Active**.
 
 <img src="../assets/scheduledjob_matt06.png"  style="width:800px" class="border"></img>
 
-9. To run the integration immediately, select **Try It**. To save the Scheduled Job, click **Save**.
+Note: Times are in UTC. Use [**this tool**](https://www.utctime.net/utc-time-zone-converter) to convert to your timezone.
+
+8. To run the integration immediately, select **Try It**. To save the Scheduled Job, click **Save**.
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
