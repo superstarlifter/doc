@@ -5,7 +5,7 @@ Explore data by rolling up (e.g. grouping data together by date) or filtering (e
 
 ### Roll up by date
 
-Rolling up by date applies to dashboards and collections simultaneously. Select the **Day**, **Week**, **Month**, **Quarter** or **Year** roll up button at the top of the screen.
+Rolling up by date applies to dashboards and collections simultaneously. Select the **Day**, **Week**, **Month**, **Quarter**, or **Year** roll up button at the top of the screen.
 
 <img src="../assets/rollups_matt13.png"  style="width:800px" class="border"></img>
 
@@ -54,5 +54,6 @@ Yearly
 
 
 
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
 
 
