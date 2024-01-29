@@ -2,7 +2,7 @@
 
 [**Video Tutorial**](https://youtu.be/x5n19V9foWA?feature=shared)
 
-### Make a collection easier to understand using the following steps.
+Make a collection easier to understand using the following steps.
 
 ## 1. Set the desired layout. 
 
@@ -16,7 +16,7 @@ Order the fields in a way that will make sense to your colleagues.
 
 <img src="../assets/default_layout2_matt.png"  style="width:600px" class="border"></img>
 
-Once completed, select **Save as default**.  This sets the layout for all users.  _Note:  They will be able to personalize their layout._
+Once completed, select **Save as default**.  This sets the layout for all users.  _Note:  Users will also be able to personalize their layout._
 
 <img src="../assets/default_layout3_matt.png"  style="width:600px" class="border"></img>   
 
