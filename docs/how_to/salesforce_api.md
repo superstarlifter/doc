@@ -26,7 +26,7 @@ Before you begin, contact your Salesforce Administrator for the following inform
 
 
 ### Upload data
-1. Select the Objects and Fields you wish to download.
+1. Select the Objects and Fields you wish to upload.
 
 <img src="../assets/salesforce_api4.png"  style="width:800px" class="border"></img>
    
@@ -34,14 +34,18 @@ Before you begin, contact your Salesforce Administrator for the following inform
 
 <img src="../assets/salesforce_api5.png"  style="width:800px" class="border"></img>
 
-3. When you are ready to download the collection, uncheck **Preview**. You have several options available to you when you download a collection:
+3. When you are ready to upload the collection, uncheck **Preview**. You have several options available to you when you upload a collection:
    * **Drop current collection first:** If a StarLifter collection already exists, drop the current collection and replace it with the new collection. Alternatively, StarLifter will update the current collection.
    * **Copy all rows:** Download all records in a Salesforce object, rather than specifying the number of records to pull.
    * **Set references:** Automatically set StarLifter references for Salesforce reference fields.
 
 <img src="../assets/salesforce_api6.png"  style="width:800px" class="border"></img>
   
-4. Push **Go** to download the StarLifter collection. Once downloaded, the data is available as a new StarLifter collection.
+4. Push **Go** to upload the Salesforce data as a StarLifter collection. Once uploaded, the data is available as a new StarLifter collection.
 
 <img src="../assets/salesforce_api7.png"  style="width:800px" class="border"></img>
 
+
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
