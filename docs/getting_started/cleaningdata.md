@@ -18,7 +18,7 @@ Although StarLifter gives you several options for cleaning data, basic cleaning 
    
 <img src="../assets/fields_ui_matt.png"  style="width:800px" class="border"></img>
 
-For more on data types, see [Data types and formats](how_to/data.md)
+For more on data types, see [Data types and formats](https://docs.starlifter.io/#/how_to/data?id=data-types-and-formats)
 
 
 ### Edit the data dictionary
