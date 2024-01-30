@@ -40,7 +40,7 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 <img src="../assets/normalization_6.png"  style="width:600px" class="border"></img>
 
-6. Click on the **Name** field, and change the data type to [Reference](https://docs.starlifter.io/#/how_to/references?id=create-a-reference).
+6. Click on the **Name** (State/Territory) field, and change the data type to [Reference](https://docs.starlifter.io/#/how_to/references?id=create-a-reference).
 7. Set the following fields:
    * Reference Collection: Name of the Normalization Collection (State)
    * Reference Collection Field to Match: the Alias field (State/Territory)
