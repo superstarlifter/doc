@@ -11,11 +11,11 @@ There are 3 areas of access that can be granted to other users:
 
 1.	Open the organization menu in the upper right corner and select **Share Domain**.
 
-<img src="../assets/sharing_access_domain_1.png"  style="width:200px" class="border"></img>
+<img src="../assets/share_domain.png"  style="width:200px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * Access level **Viewer** - Can view anything in the domain. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
-    * Access level **Editor** - Can edit anything in the domain.
+    * **Viewer** - Can view anything in the domain. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
+    * **Editor** - Can edit anything in the domain.
 
 <img src="../assets/sharing_access_domain_2.png"  style="width:600px" class="border"></img>
 
@@ -30,13 +30,13 @@ There are 3 areas of access that can be granted to other users:
 <img src="../assets/sharing_access_collection_1.png"  style="width:200px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * Access level **Viewer** - Can view anything in the collection.
-    * Access level **Edit and Configure** - Can edit and view the data in the collection and update the collection schema (add, edit, and delete fields).
-    * Access level **Editor** - Can edit anything in the collection.
+    * **Viewer** - Can view anything in the collection.
+    * **Edit and Configure** - Can edit and view the data in the collection and update the collection schema (add, edit, and delete fields).
+    * **Editor** - Can edit anything in the collection.
 
-<img src="../assets/sharing_access_collection_2.png"  style="width:600px" class="border"></img>
+<img src="../assets/share_domain_2.png"  style="width:600px" class="border"></img>
 
-3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the domain.
+3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the collection.
 
 <br>
 
@@ -46,10 +46,13 @@ There are 3 areas of access that can be granted to other users:
 <img src="../assets/dashboard_share_matt.png"  style="width:800px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * Access level **Viewer** - Can view anything in the dashboard. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
-    * Access level **Editor** - Can edit anything in the dashboard.
+    * **Viewer** - Can view anything in the dashboard and the collections that support the dashboards. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
+    * **Editor** - Can edit anything in the dashboard.
 
 <img src="../assets/sharing_access_dashboard_2.png"  style="width:600px" class="border"></img>
 
-3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the domain.
+3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the dashboard and underlying collections.
 
+
+
+To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
