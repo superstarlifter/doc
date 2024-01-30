@@ -36,9 +36,19 @@ When a value is entered that matches an **Alias**, it is converted to the **Name
 
 <img src="../assets/normalization_5.png"  style="width:200px" class="border"></img>
 
-5. In your original collection any **Alias** values from your normalized field will automatically be converted to the **Name** value.
+5. In your original collection, right-click in the grid that contains the **Alias** value you would like to change and select Fields. 
 
 <img src="../assets/normalization_6.png"  style="width:600px" class="border"></img>
+
+6. Click on the **Name** field, and change the data type to [Reference](https://docs.starlifter.io/#/how_to/references?id=create-a-reference).
+7. Set the following fields:
+   * Reference Collection: Name of the Normalization Collection (State)
+   * Reference Collection Field to Match: the Alias field (State/Territory)
+   * Check "Use *Field Name* as a display value"
+   * Additional Reference fields: Select the normalization collection. Name (State.Name) as an additional referenced field.
+8. Click Save
+
+   Your field should now be normalized. 
 
 ### Adding data to a normalization collection
 
