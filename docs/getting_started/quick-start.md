@@ -11,11 +11,14 @@
 <img src="../assets/upload_select.png"  style="width:600px" class="border"></img>
 
 3.  The workbook file name is saved as the title of the domain
-4.  Choose to add or ignore each collection (worksheet). Each line will create it's own collection within Starlifter. 
+4.  Choose to add or ignore each collection (worksheet). Each line will create it's own collection within Starlifter.
 
-<img src="../assets/add_ignore.png"  style="width:600px" class="border"></img>
+    **Note**: The name of the collection comes from the name of the worksheet in the original file. You can change the name of the collection by editing the **Label** field 
+
+<img src="../assets/add_withlabel.png"  style="width:600px" class="border"></img>
 
 5.  Select **GO**
+
 
 ### Set a header row
 1.  Right click on a row
