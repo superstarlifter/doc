@@ -2,17 +2,23 @@
 
 [**Video Tutorial**](https://youtu.be/_QFPM6rfksM?feature=shared)
 
-1.  Select **Upload XLS, CSV...**
+1. From the menu at the upper left of the screen, select **Upload XLS, CSV...**
 
-<img src="../assets/upload.png"  style="width:400px" class="border"></img>
+<img src="../assets/matt_dataupload01.png"  style="width:400px" class="border"></img>
 
-2.  Drag or select a file to upload
+2. Click **Select file from your device**, and navigate to the file you wish to upload. Or, simply drag the file onto the screen.
 
-<img src="../assets/upload_select.png"  style="width:600px" class="border"></img>
+<img src="../assets/matt_dataupload04.png"  style="width:700px" class="border"></img>
 
-3.  The workbook is saved as a data domain
-4.  Choose to add or ignore each collection to the domain
+3.  Select the domain and name the collection. Choose from the following actions to upload the data:
+  * **Add:** Add the data as a new collection 
+  * **Replace:** Replace an existing collection with data from the file
+  * **Append:** Append data to an existing collection
+  * **Ignore:** Do not upload the data
 
-<img src="../assets/add_ignore.png"  style="width:600px" class="border"></img>
+<img src="../assets/matt_dataupload03.png"  style="width:700px" class="border"></img>
 
-5.  Select **GO**
+4.  Select **GO**. Data is now uploaded to a StarLifter collection.
+
+<img src="../assets/matt_dataupload02.png"  style="width:800px" class="border"></img>
+
