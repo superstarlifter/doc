@@ -2,7 +2,7 @@
 Subscribing to a dashboard ensures a user will have a PDF of their dashboard delivered to their inbox whenever they choose. For example, sales reports can be emailed out to the entire team prior to their weekly meeting. 
 
 ## Create a subscription to a dashboard
-[Video tutorial](https://www.youtube.com/watch?app=desktop&v=34M9BJS9wjk)
+[**Video tutorial**](https://www.youtube.com/watch?app=desktop&v=34M9BJS9wjk)
 
 1.	Go the the desired dashboard and click the envelope icon in the upper right hand corner.
 
