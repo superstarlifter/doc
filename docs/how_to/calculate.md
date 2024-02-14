@@ -14,7 +14,7 @@ To create a calculation:
 
 <img src="../assets/calc.png"  style="width:200px" class="border"></img>
 
-2.  Enter a **Name** and select a **Type** for field
+2.  Enter a **Name** and select a data **Type** for the field
 
 <img src="../assets/calc_1.png"  style="width:600px" class="border"></img>
 
