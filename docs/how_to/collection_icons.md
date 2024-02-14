@@ -3,11 +3,11 @@ Certain collection types in StarLifter contain an icon next to the name in the c
 
 **View**: This collection is a filtered copy of another collection
 
-<img src="../assets/icon_view.png"  style="width:800px" class="border"></img>
+<img src="../assets/icon_view.png"  style="width:200px" class="border"></img>
 
 **Join**: This collection is a copy of two source collections merged together based on a key field. 
 
-<img src="../assets/icon_join.png"  style="width:800px" class="border"></img>
+<img src="../assets/icon_join.png"  style="width:200px" class="border"></img>
 
 
 
