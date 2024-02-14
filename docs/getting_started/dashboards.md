@@ -40,15 +40,15 @@ To grant access to another user, select the share icon from the dashboard menu. 
 ### Email a dashboard
 To email a dashboard, select the email icon from the dashboard menu. Select the recipient, subject, and message. Click **Send Email** to send.
 
-<img src="../assets/dashboard_email_matt.png"  style="width:600px" class="border"></img>
+<img src="../assets/dashboard_email_matt.png"  style="width:700px" class="border"></img>
 
 To set up a recurring email, select the calendar icon
 
-<img src="../assets/dashboard_calendar.png"  style="width:600px" class="border"></img>
+<img src="../assets/dashboard_calendar.png"  style="width:700px" class="border"></img>
 
 Set your desired frequency (hourly, daily, monthly), date, and time. Check Active, and click **OK** to save.
 
-<img src="../assets/dashboard_scheduled_email2_matt.png"  style="width:600px" class="border"></img>
+<img src="../assets/dashboard_scheduled_email2_matt.png"  style="width:700px" class="border"></img>
 
 ### Change the theme of a dashboard
 Select Default from the dashboard menu to change the dashboard theme
@@ -59,12 +59,12 @@ Select Default from the dashboard menu to change the dashboard theme
 
 Default
 
-<img src="../assets/dashboard_theme_default.png"  style="width:800px" class="border"></img>
+<img src="../assets/dashboard_theme_default.png"  style="width:1000px" class="border"></img>
 
 Light
 
-<img src="../assets/dashboard_theme_light.png"  style="width:800px" class="border"></img>
+<img src="../assets/dashboard_theme_light.png"  style="width:1000px" class="border"></img>
 
 Infographic
 
-<img src="../assets/dashboard_theme_infographic.png"  style="width:800px" class="border"></img>
+<img src="../assets/dashboard_theme_infographic.png"  style="width:1000px" class="border"></img>
