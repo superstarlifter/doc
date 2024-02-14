@@ -2,7 +2,7 @@
 
 [**Video Tutorial**](https://youtu.be/x5n19V9foWA?feature=shared)
 
-The default layout allows you to arrange the columns of data one time for all of your users. Although users can create their own layout of the data, the default layout should be set as the starting point for all users. 
+The default layout allows you to arrange the columns of data one time for all of your users. Although users can create their own layout of the data, the default layout is set as the starting point for all users. 
 
 
 ## How to set a default layout on a collection
