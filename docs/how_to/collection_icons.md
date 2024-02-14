@@ -7,7 +7,7 @@ Certain collection types in StarLifter contain an icon next to the name in the c
 
 **Join**: This collection is a copy of two source collections merged together based on a key field. 
 
-<img src="../assets/icon_join.png"  style="width:200px" class="border"></img>
+<img src="../assets/icon_join.png"  style="width:250px" class="border"></img>
 
 
 
