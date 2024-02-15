@@ -1,29 +1,15 @@
-## New User - Top 10
+## Preparing for the Company Meeting with StarLifter (P&L)
 
-### Fast track your use of StarLifter by learning these features: <a id="top"></a>
+The CFO at Bowen is about to lead the annual meeting to discuss company performance. She is going to use StarLifter to both prepare and present these metrics. 
 
-   1.  [Roll up by date](#by-date)
-   2.  [Group by category](#category)
-   3.  [Roll up by date and group by category](#by-category)
-   4.  [Filter by date](#by-date)
-   5.  [Filter](#filter)
-   6.  [Create and edit a chart](#edit-chart)
-   7.  [Create a KPI](#kpi)
-   8.  [Create a calculated field](#field)
-   9. [Share](#share)
-   10. [Subscribe](#subscribe)
+### _**She’s first going to examine the data with all the built in StarLifter tools:**_
+* [Roll up by date](#by-date)
+* [Group by category](#category)
+* [Roll up by date and group by category](#by-category)
+* [Filter by date](#by-date)
+* [Filter](#filter)
 
-### Make your life easier by learning these pro-tips:
-
-   1.  [Navigate](#navigate)
-   2.  [Open two collections](#two-collections)
-   3.  [Use shortcuts](#shortcuts)
-
-
-
-
-
-## **1.  Roll up by date** <a id="by-date"></a>
+### **Roll up by date** <a id="by-date"></a>
 
 Select from the icons to roll up by day, week, month, quarter or year.
 
@@ -37,7 +23,7 @@ Select from the icons to roll up by day, week, month, quarter or year.
    
 [Back to top](#top)
 
-## **2.  Group by category** <a id="category"></a>
+### **Group by category** <a id="category"></a>
 
 #### Right click and select **Add to Group by**.
 
@@ -49,7 +35,7 @@ Select from the icons to roll up by day, week, month, quarter or year.
    
 [Back to top](#top)   
 
-## **3.  Roll up and group by** <a id="by-category"></a>
+### **Roll up and group by** <a id="by-category"></a>
 
 To combine category groups and date roll ups, right click and select **Add to Group by** on the date field.
    
@@ -63,17 +49,16 @@ To combine category groups and date roll ups, right click and select **Add to Gr
 
    <img src="../assets/starting8.png"  style="width:600px" class="border"></img>
 
-Back to top
-
-## **4.  Filter by date** <a id="by-date"></a>
+### **Filter by date** <a id="by-date"></a>
 
 Move the date slider right to left or select the calendar icon to choose predefined and custom time periods.
 
    <img src="../assets/starting9.png"  style="width:1200px" class="border"></img>
 
-Back to top
 
-## **5.  Filter - Three ways** <a id="filter"></a>
+## _**When she presents, she wants to quickly understand different divisional performance in addition to aggregate.**_
+
+### **Filter - Three ways** <a id="filter"></a>
 
 #### 1.  Use the search field
 
@@ -108,10 +93,14 @@ Back to top
 #### Name filter.
 
    <img src="../assets/starting25.png"  style="width:300px" class="border"></img>
-   
-Back to top
 
-## **6.  Create and edit a chart** <a id="edit-chart"></a>
+
+## _**The Bowen CFO now knows what she wants to tell her team. Next up is visualizing the data.**_
+
+* [Create and edit a chart](#edit-chart)
+* [Create a KPI](#kpi)
+
+### **Create and edit a chart** <a id="edit-chart"></a>
 
 #### Right click Create Chart.
 
@@ -129,9 +118,7 @@ Back to top
 
    <img src="../assets/starting13.png"  style="width:1200px" class="border"></img>
 
-Back to top
-
-## **7.  Create a KPI** <a id="kpi"></a>
+### Create a KPI** <a id="kpi"></a>
 
 #### Right click Create KPI.
 
@@ -140,10 +127,12 @@ Back to top
 Customize KPI using settings. You may change titles as well as add fitlers, comparisons, colors, arrows, etc.
 
    <img src="../assets/starting16.png"  style="width:600px" class="border"></img>
-   
-Back to top   
 
-## **8.  Create a calculated field** <a id="field"></a>
+
+## _**A key metric for her company is Net Income %, which is not included in the raw data. She’s going to create a calculated field and add it to her dashboard as a KPI.**_
+
+
+### **Create a calculated field** <a id="field"></a>
 
 #### Right click Create Calculated Field. 
 
@@ -159,7 +148,12 @@ Back to top
 
 Back to top
 
-## **9. Share** <a id="share"></a>
+## _**To ensure everyone is prepared, she is going to send out this dashboard prior to the meeting and send it to herself on a schedule for future reference.**_
+
+* [Share](#share)
+* [Subscribe](#subscribe)
+
+### **Share** <a id="share"></a>
 
 #### Share a dashboard or collection by selecting the share icon.
 
@@ -171,7 +165,7 @@ Back to top
    
  Back to top
  
- ## **10. Subscribe** <a id="subscribe"></a>
+ ### **10. Subscribe** <a id="subscribe"></a>
 
 #### Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 
@@ -181,43 +175,7 @@ Back to top
 
    <img src="../assets/starting34.png"  style="width:900px" class="border"></img> 
    
- Back to top
-
-## Bonus 1: Navigate <a id="navigate"></a>
-
-#### Toggle back and forth between views using these icons.
-
-   <img src="../assets/starting29.png"  style="width:200px" class="border"></img>
-   
-Back to top
-
-#### Data only
-
-   <img src="../assets/starting26.png"  style="width:1200px" class="border"></img>
-
-#### Data and dashboard
-
-   <img src="../assets/starting27.png"  style="width:1200px" class="border"></img>
-
-#### Dashboard only 
-
-   <img src="../assets/starting28.png"  style="width:1200px" class="border"></img>
-
-Back to top
-
-## Bonus 2: Open two collections. <a id="two-collections"></a>
-
-#### Hold SHIFT and select another collection to open two collections at the same time.
-
- <img src="../assets/starting38.png"  style="width:1200px" class="border"></img>
-
-Back to top
-
-## Bonus 3:  Use shortcuts <a id="shortcuts"></a>
-
-#### Press CONTROL to open the accelator key menu and select your desired key.
-
- <img src="../assets/starting38.png"  style="width:1200px" class="border"></img>
+## _**The Bowen CFO is now prepared to share key metrics and overarching company data with her team.**_
 
 
 ## Additional help and support:
@@ -227,4 +185,5 @@ Back to top
  [**Join our community**](https://community.starlifter.io/)
  
  [**Contact your StarLifter customer success manager**](mailto:info@starlifter.io)
-   
+
+
