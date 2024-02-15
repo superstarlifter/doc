@@ -1,8 +1,14 @@
 ## Preparing for the Company Meeting with StarLifter (P&L)
 
-The CFO at Bowen is about to lead the annual meeting to discuss company performance. She is going to use StarLifter to both prepare and present these metrics. 
+The CFO at Bowen is about to lead the annual meeting to discuss company performance. She is going to use StarLifter to: 
 
-### _**She’s first going to examine the data with all the built in StarLifter tools:**_
+1. [Examine the data](#examine)
+2. [Understand divisional performance](#filter)
+3. [Visualize the data with charts](#visualize)
+4. [Calculate a key metric](#calculate)
+5. [Send out dashboards](#share)
+
+### _**She’s first going to examine the data with all the built in StarLifter tools:**_ <a id="examine"></a>
 * [Roll up by date](#by-date)
 * [Group by category](#category)
 * [Roll up by date and group by category](#by-category)
@@ -56,7 +62,7 @@ Move the date slider right to left or select the calendar icon to choose predefi
    <img src="../assets/starting9.png"  style="width:1200px" class="border"></img>
 
 
-## _**When she presents, she wants to quickly understand different divisional performance in addition to aggregate.**_
+## _**When she presents, she wants to quickly understand different divisional performance in addition to aggregate.**_ <a id="filter"></a>
 
 ### **Filter - Three ways** <a id="filter"></a>
 
@@ -95,7 +101,7 @@ Move the date slider right to left or select the calendar icon to choose predefi
    <img src="../assets/starting25.png"  style="width:300px" class="border"></img>
 
 
-## _**The Bowen CFO now knows what she wants to tell her team. Next up is visualizing the data.**_
+## _**The Bowen CFO now knows what she wants to tell her team. Next up is visualizing the data.**_ <a id="visualize"></a>
 
 * [Create and edit a chart](#edit-chart)
 * [Create a KPI](#kpi)
@@ -129,7 +135,7 @@ Customize KPI using settings. You may change titles as well as add fitlers, comp
    <img src="../assets/starting16.png"  style="width:600px" class="border"></img>
 
 
-## _**A key metric for her company is Net Income %, which is not included in the raw data. She’s going to create a calculated field and add it to her dashboard as a KPI.**_
+## _**A key metric for her company is Net Income %, which is not included in the raw data. She’s going to create a calculated field and add it to her dashboard as a KPI.**_ <a id="calculate"></a>
 
 
 ### **Create a calculated field** <a id="field"></a>
@@ -148,7 +154,7 @@ Customize KPI using settings. You may change titles as well as add fitlers, comp
 
 Back to top
 
-## _**To ensure everyone is prepared, she is going to send out this dashboard prior to the meeting and send it to herself on a schedule for future reference.**_
+## _**To ensure everyone is prepared, she is going to send out this dashboard prior to the meeting and send it to herself on a schedule for future reference.**_ <a id="share"></a>
 
 * [Share](#share)
 * [Subscribe](#subscribe)
