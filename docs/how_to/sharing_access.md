@@ -1,6 +1,6 @@
 ## Sharing Access to Users
 
-[Video Tutorial](https://youtu.be/-z-MOrKmMG4?feature=shared)
+**[Video Tutorial]**(https://youtu.be/-z-MOrKmMG4?feature=shared)
 
 There are 3 areas of access that can be granted to other users:
 * **Domain** -  All collections and dasboards in a domain
@@ -34,7 +34,7 @@ There are 3 areas of access that can be granted to other users:
     * **Edit and Configure** - Can edit and view the data in the collection and update the collection schema (add, edit, and delete fields).
     * **Editor** - Can edit anything in the collection.
 
-<img src="../assets/share_domain_2.png"  style="width:600px" class="border"></img>
+<img src="../assets/share_domain_2.png"  style="width:150px" class="border"></img>
 
 3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the collection.
 
