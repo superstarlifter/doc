@@ -1,4 +1,4 @@
-## Upload data
+## Manually upload data
 
 [**Video Tutorial**](https://youtu.be/_QFPM6rfksM?feature=shared)
 
