@@ -1,7 +1,13 @@
 
 ## Using StarLifter 
 
-* [Analyzing Data](analyze/analyze_data.md)
+* Analyzing Data
+  * [Create a calculation](how_to/calculate.md)
+  * [Functions in a calculation](how_to/functions.md)
+  * [Pivot data](how_to/pivot.md)
+  * [Create a view](how_to/view.md)
+  * [Using a view for data input](how_to/input_data.md)
+  * [Create a join](how_to/join.md)
 
 * Data Visualization
   * [Create dashboards](getting_started/dashboards.md)
@@ -20,26 +26,26 @@
 
 ## Setting Up StarLifter
 
-* Setting Up Data
-  * Uploading Data
-    * [Manually upload data to create a collection](getting_started/uploadingdata.md)
-    * [Upload data with a date and tag](how_to/tag.md)
-    * [Create a blank collection](how_to/new.md)
-  * [Clean data in a collection](getting_started/cleaningdata.md)
-    * [Set the header row](how_to/setheader.md)
-    * [Preparing a collection](getting_started/collection.md)
-    * [Data types and formats](how_to/data.md)
-    * [Guide to the dictionary](how_to/dictionary.md)
-  * [Set a default layout of a collection](how_to/default.md)
-  * [Normalization](how_to/normalization.md)
-  * [Copy, paste and undo data changes](how_to/copy.md)
-  * [Delete a collection or its rows](how_to/delete.md)
-  * [Export data to XLSX format](how_to/export.md)
+* Uploading Data
+ * [Manually upload data to create a collection](getting_started/uploadingdata.md)
+ * [Upload data with a date and tag](how_to/tag.md)
+ * [Create a blank collection](how_to/new.md)
+ * [Clean data in a collection](getting_started/cleaningdata.md)
+ * [Set the header row](how_to/setheader.md)
+ * [Preparing a collection](getting_started/collection.md)
+ * [Data types and formats](how_to/data.md)
+ * [Guide to the dictionary](how_to/dictionary.md)
+ * [Set a default layout of a collection](how_to/default.md)
+ * [Normalization](how_to/normalization.md)
+ * [Copy, paste and undo data changes](how_to/copy.md)
+ * [Delete a collection or its rows](how_to/delete.md)
+ * [Export data to XLSX format](how_to/export.md)
 
 * Configuring Data
   * [Create calculated fields](how_to/calculate.md)
   * [Create a reference](how_to/references.md)
-  * Clean and Reformatting
+
+* Clean and Reformatting
     *[Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
     * [Create a pipeline](how_to/creating_pipeline.md)
     * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
