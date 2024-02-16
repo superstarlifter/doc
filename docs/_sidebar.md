@@ -27,19 +27,19 @@
 ## Setting Up StarLifter
 
 * Uploading Data
- * [Manually upload data to create a collection](getting_started/uploadingdata.md)
- * [Upload data with a date and tag](how_to/tag.md)
- * [Create a blank collection](how_to/new.md)
- * [Clean data in a collection](getting_started/cleaningdata.md)
- * [Set the header row](how_to/setheader.md)
- * [Preparing a collection](getting_started/collection.md)
- * [Data types and formats](how_to/data.md)
- * [Guide to the dictionary](how_to/dictionary.md)
- * [Set a default layout of a collection](how_to/default.md)
- * [Normalization](how_to/normalization.md)
- * [Copy, paste and undo data changes](how_to/copy.md)
- * [Delete a collection or its rows](how_to/delete.md)
- * [Export data to XLSX format](how_to/export.md)
+  * [Manually upload data to create a collection](getting_started/uploadingdata.md)
+  * [Upload data with a date and tag](how_to/tag.md)
+  * [Create a blank collection](how_to/new.md)
+  * [Clean data in a collection](getting_started/cleaningdata.md)
+  * [Set the header row](how_to/setheader.md)
+  * [Preparing a collection](getting_started/collection.md)
+  * [Data types and formats](how_to/data.md)
+  * [Guide to the dictionary](how_to/dictionary.md)
+  * [Set a default layout of a collection](how_to/default.md)
+  * [Normalization](how_to/normalization.md)
+  * [Copy, paste and undo data changes](how_to/copy.md)
+  * [Delete a collection or its rows](how_to/delete.md)
+  * [Export data to XLSX format](how_to/export.md)
 
 * Configuring Data
   * [Create calculated fields](how_to/calculate.md)
