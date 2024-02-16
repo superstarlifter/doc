@@ -46,7 +46,7 @@
   * [Create a reference](how_to/references.md)
 
 * Clean and Reformatting
-    *[Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
+    * [Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
     * [Create a pipeline](how_to/creating_pipeline.md)
     * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
 
