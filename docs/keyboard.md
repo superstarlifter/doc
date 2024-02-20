@@ -1,7 +1,7 @@
 ## StarLifter Keyboard Shortcuts
 Access the shortcuts in StarLifter by pressing <kbd>Ctrl</kbd>. This will bring up the menu of options. 
 
-<img src="../assets/keyboard_shortcuts.jpg"  style="width:200px" class="border"></img>
+<img src="../assets/keyboard_shortcuts.jpg"  style="width:600px" class="border"></img>
 
 * Toggle Menu: <kbd>Ctrl</kbd> + <kbd>A</kbd>
 * Dashboard View <kbd>Ctrl</kbd> + <kbd>D</kbd>
