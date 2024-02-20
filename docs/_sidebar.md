@@ -1,3 +1,4 @@
+## Using StarLifter
 
 * Analyzing Data
   * [Create a calculation](how_to/calculate.md)
