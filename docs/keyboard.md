@@ -1,12 +1,15 @@
 ## StarLifter Keyboard Shortcuts
-* Splitter Toggle: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>
-* Chat Toggle: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
-* Dashboard Toggle <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>
-* Find: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
-* Go Home: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
-* Go to Maint: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>A</kbd> or <kbd>M</kbd>
-* Open Help: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>?</kbd>
+Access the shortcuts in StarLifter by pressing <kbd>Ctrl</kbd>. This will bring up the menu of options. 
 
+<img src="../assets/keyboard_shortcuts.jpg"  style="width:200px" class="border"></img>
 
-## Maint
-* Upload Zip: <kbd>Shift</kbd> + <kbd>Click</kbd> + Upload Button
+* Toggle Menu: <kbd>Ctrl</kbd> + <kbd>A</kbd>
+* Dashboard View <kbd>Ctrl</kbd> + <kbd>D</kbd>
+* Dashboard & Grid View <kbd>Ctrl</kbd> + <kbd>B</kbd>
+* Grid View <kbd>Ctrl</kbd> + <kbd>G</kbd>
+* Insert a row <kbd>Ctrl</kbd> + <kbd>I</kbd>
+* Find: <kbd>Ctrl</kbd> + <kbd>F</kbd>
+* Chat Toggle: <kbd>Ctrl</kbd> + <kbd>C</kbd>
+* Filter Panel: <kbd>Ctrl</kbd> + <kbd>V</kbd>
+* Open Help: <kbd>Ctrl</kbd> + <kbd>?</kbd>
+
