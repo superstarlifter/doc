@@ -57,7 +57,6 @@
 
 * Sharing
   * [Sharing data](how_to/sharing_access.md)
-  * [Access policies](how_to/access_policy.md)
   * [Email dashboard subscriptions](how_to/dashboard_subscriptions.md)
 
 * Administration
@@ -65,7 +64,6 @@
   * [Terms](getting_started/structure.md)
   * [Keyboard shortcuts](keyboard.md)
   * [Operator definitions](operators.md)
-  * [New Organization Admin](getting_started/newuser.md)
   * [Architecture and Security](how_to/security.md)
 
  ## Common Uses of StarLifter
