@@ -1,8 +1,8 @@
 ## Access Policies
-Access policies allow admins to grant users view and update access to specific data. This access is more than just sharing a collection, it can be filtered down to the row and field level. For example, and access policy can be created to limit updating of specific rows to the owner of that row.
+Access policies allow admins to grant users view and update access to specific data. This access is more than just sharing a collection, it can be filtered down to the row and field level. For example, an access policy can be created to limit updating of specific rows to the owner of that row.
 
 ### Creating an Access Policy Row
-1. From the administration page select the Access Policies Menu to open a list of current access policies
+1. From the Toggle Menu on the far left, navigate to the System Definitions drop down and select SL Access Policies.
 
 
 <img src="../assets/access_policy_1.png"  style="width:200px" class="border"></img>
