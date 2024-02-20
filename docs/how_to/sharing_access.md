@@ -46,12 +46,12 @@ There are 3 areas of access that can be granted to other users:
 <img src="../assets/dashboard_share_matt.png"  style="width:800px" class="border"></img>
 
 2.  Enter the email address of the user and select the level of access.
-    * **Viewer** - Can view anything in the dashboard and the collections that support the dashboards. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
-    * **Editor** - Can edit anything in the dashboard.
+    * **Viewer** - Can view anything in the dashboard and the collection data that support the dashboards. Viewers can create their own dashboards, but they cannot edit dashboards for other users.
+    * **Editor** - Can edit and invite others to edit or view anything in the dashboard.
 
 <img src="../assets/sharing_access_dashboard_2.png"  style="width:600px" class="border"></img>
 
-3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the dashboard and underlying collections.
+3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the dashboard and underlying collection data.
 
 
 
