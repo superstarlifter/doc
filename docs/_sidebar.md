@@ -1,4 +1,4 @@
-## Using StarLifter
+**Using StarLifter**
 
 * Analyzing Data
   * [Create a calculation](how_to/calculate.md)
@@ -23,7 +23,7 @@
   * [Save, edit and delete a filter](how_to/filter.md)
   * [Quick filters](how_to/qwik_filter.md)
 
-## Setting Up StarLifter
+**Setting Up StarLifter**
 
 * Uploading Data
   * [Manually upload data to create a collection](getting_started/uploadingdata.md)
@@ -66,6 +66,6 @@
   * [Operator definitions](operators.md)
   * [Architecture and Security](how_to/security.md)
 
- ## Common Uses of StarLifter
+**Common Uses of StarLifter**
 
   * [Analyzing a P&L with StarLifter](getting_started/usingstarlifter101.md)
