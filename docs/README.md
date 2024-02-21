@@ -1,21 +1,13 @@
-## StarLifter Documentation
-	
-StarLifter is a self-service data analysis platform that gives teams one place to connect data, explore analysis and share insight.  
+## StarLifter Resources
 
-### Purpose
+StarLifter is a self-service data analysis platform that gives teams one place to connect data, explore analysis and share insight. Use the following resources to amplify your use of StarLifter. 
 
-#### This page will act as the source of truth for all StarLifter documentation.  Users will find this documentation helpful for:
-1.  Getting their first organization set up,
-2.  Educating themselves on new feature releases, and 
-3.  Maximizing the business value gained from implementation.
+**Documentation**: Contains step-by-step instructions for accessing and using all the different tools in StarLifter
 
-### Sections
+[**Videos**](https://www.youtube.com/@starlifter8729): Walks through the most utilized tools in StarLifter in playlists containing videos 30 - 90 seconds long
 
-#### Documentation is made up of three sections:
-1.  **Getting Started:**  A section dedicated to first-time users.
-2.  **How To:**  A list of each feature and how to use it.
-3.  **Helpful Links:**  Handy information for any super user.
+[**Community**](https://community.starlifter.io): Allows you to post and view the commonly asked questions from other StarLifter users like yourself
 
 ### Connect
 
-If a topic area is not convered, please reach out to the [StarLifter team](mailto:answers@starlifter.io) to request its addition.
+If a topic area is not convered, reach out to the [StarLifter team](mailto:answers@starlifter.io).
