@@ -12,15 +12,20 @@ StarLifter is a self-service data analysis platform that gives teams one place t
 * **Domain**: A group of related collections and dashboards i.e. a finance domain or a sales domain
 * **Grid Menu**: Analysis options available by right clicking inside the grid; options differ between org admins and limited access users
 
-<img src="../assets/setup_1.png"  style="width:200px" class="border"></img>
+<img src="../assets/setup_1.png"  style="width:600px" class="border"></img>
+
+_Grid Menu_
 
 <img src="../assets/setup_user_grid_menu.png"  style="width:200px" class="border"></img>
 
 #### For Org Admins
-* **Collection Menu**: Configuration options available by right clicking on the title of a collection
-* **Systems Menu**: Advanced configuration options, including integration setup, data cleaning tools, user policies
 
-<img src="../assets/setup_2.png"  style="width:200px" class="border"></img>
+* **Systems Menu**: Advanced configuration options, including integration setup, data cleaning tools, user policies
+* **Collection Menu**: Configuration options available by right clicking on the title of a collection
+
+<img src="../assets/setup_2.png"  style="width: 600px" class="border"></img>
+
+_Collection Menu_
 
 <img src="../assets/setup_collection_menu.png"  style="width:200px" class="border"></img>
 
