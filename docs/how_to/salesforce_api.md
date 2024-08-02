@@ -7,7 +7,7 @@ Before you begin, contact your Salesforce Administrator for the following inform
 * Instance URL
 * User login
 * User password
-* Security Token
+* [**Security Token**] (https://help.salesforce.com/s/articleView?id=sf.user_security_token.htm&type=5)
 
 **Note:** The user login must be a Salesforce API license with ModifyAllData or ModifyMetadata permissions.
 
