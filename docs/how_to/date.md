@@ -16,7 +16,7 @@ To set a primary date:
 
 <img src="../assets/date2.png"  style="width:800px" class="border"></img>
 
-4.  To override the primary date field for an individual chart, simply add the preferred date field to that chart.
+4.  To set the primary date field for an individual chart, simply add the preferred date field to that chart.
 
 5.  To dial in your analysis, be mindful of which date field is being used for your time-based roll ups and filters.  
 
