@@ -27,11 +27,11 @@ To create a Private App, follow the instructions below, or link directly to [**H
 
 ### Enter your Access Token into StarLifter:
 
-1. Navigate back to the Hubspot Quick Start in StarLifter
+1. Navigate back to Hubspot Quick Start in StarLifter
 
 2. Enter the Access token from your Hubspot Private App.
 
-<img src="../assets/Hubspot_Creds01.png"  style="width:800px" class="border"></img>
+<img src="../assets/Hubspot_Creds02.png"  style="width:800px" class="border"></img>
 
 3. Click **Test and save**.
 
