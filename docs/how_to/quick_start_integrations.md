@@ -30,6 +30,9 @@ For many of our API integrations, use StarLifter's Quick Start setup to create c
 * [**Salesforce**](https://docs.starlifter.io/#/how_to/salesforce_api)
 
 * [**Hubspot**](https://docs.starlifter.io/#/how_to/hubspot_api)
+
+* [**NetSuite**](https://docs.starlifter.io/#/how_to/netsuite_api)
+
    
 
 ### Select the Objects and Fields you wish to pull into StarLifter
