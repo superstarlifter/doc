@@ -22,7 +22,4 @@ To set up Token-based Authentication, follow the instructions in [**NetSuite's d
 
 3. Click **Test and save**.
 
-4. To finish setting up your Hubspot data in StarLifter, return to [**Quick Start Integration Setup**](https://docs.starlifter.io/#/how_to/quick_start_integrations).
-
-
 To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
