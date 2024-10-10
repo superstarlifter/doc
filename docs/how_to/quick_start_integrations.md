@@ -24,6 +24,12 @@ For many of our API integrations, use StarLifter's Quick Start setup to create c
 1. Enter the API credentials for your source system.
 
 <img src="../assets/QuickStart05.png"  style="width:800px" class="border"></img>
+
+2. For more information on entering API credentials for your specific source system, access the documentation below:
+
+* [**Salesforce**](https://docs.starlifter.io/#/how_to/salesforce_api)
+
+* [**Hubspot**](https://docs.starlifter.io/#/how_to/hubspot_api)
    
 
 ### Select the Objects and Fields you wish to pull into StarLifter
