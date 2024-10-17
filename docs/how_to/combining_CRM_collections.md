@@ -1,4 +1,4 @@
-## Combining Data from Multiple CRMs
+## Combining data from multiple CRMs
 
 StarLifter helps you gain a complete view of your company's performance by combining like-data from multiple source systems. In this example, we will show you how to combine data from two separate CRMs into one collection.
 
