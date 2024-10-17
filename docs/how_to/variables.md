@@ -12,38 +12,38 @@ In the example below, we will set up a variable to aggregate open pipeline by op
 
 2. 
 
-<img src="../assets/variables02.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables02.png"  style="width:250px" class="border"></img>
 
 3. 
 
-<img src="../assets/variables03.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables03.png"  style="width:500px" class="border"></img>
 
 4. 
 
-<img src="../assets/variables04.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables04.png"  style="width:600px" class="border"></img>
 
 5. 
 
-<img src="../assets/variables05.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables05.png"  style="width:600px" class="border"></img>
 
 
 ### Use the variable in a calculation
 
 1. 
 
-<img src="../assets/variables06.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables06.png"  style="width:800px" class="border"></img>
 
 2. 
 
-<img src="../assets/variables07.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables07.png"  style="width:600px" class="border"></img>
 
 3. 
 
-<img src="../assets/variables08.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables08.png"  style="width:600px" class="border"></img>
 
 4. 
 
-<img src="../assets/variables09.png"  style="width:300px" class="border"></img>
+<img src="../assets/variables09.png"  style="width:800px" class="border"></img>
 
 
 
