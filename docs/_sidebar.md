@@ -47,6 +47,8 @@
 * Configuring Data
   * [Create calculated fields](how_to/calculate.md)
   * [Create a reference](how_to/references.md)
+  * [Summarize data with variables](how_to/variables.md)
+
 
 * Clean and Reformatting
     * [Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
