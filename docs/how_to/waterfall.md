@@ -10,50 +10,46 @@ To create a waterfall chart in StarLifter users must:
 
 ### Configure change reasons
 
-1. 
+1. From the menu at the upper left of the screen, select **Toggle menu**.
 
 <img src="../assets/waterfall01.png"  style="width:200px" class="border"></img>
 
-2. 
+2. Select **Change Reasons ✩ Configuration** under the Additional Links dropdown.
 
 <img src="../assets/waterfall02.png"  style="width:400px" class="border"></img>
 
-3. 
+3. Click the **+** to add a new configuration.
 
 <img src="../assets/waterfall03.png"  style="width:800px" class="border"></img>
 
-4. 
+4. Add a filter for your start condition. In the example below, the left bar of the waterfall will include all records where Forecast Category was Commit or Closed at the beginning of the time range.
 
-<img src="../assets/waterfall04.png"  style="width:800px" class="border"></img>
+<img src="../assets/waterfall12.png"  style="width:800px" class="border"></img>
 
-5. 
+5. Several change reasons appear by default. Add any change reasons by clicking the **+** and defining the type of change you wish to display. In the example below, any opportunities that moved into Stage = Closed Won during the time range will be captured.
 
-<img src="../assets/waterfall05.png"  style="width:800px" class="border"></img>
+<img src="../assets/waterfall13.png"  style="width:800px" class="border"></img>
 
-6. 
+6. Once all your change reasons are defined, click **Save**.
 
-<img src="../assets/waterfall06.png"  style="width:800px" class="border"></img>
-
-7. 
-
-<img src="../assets/waterfall07.png"  style="width:800px" class="border"></img>
+<img src="../assets/waterfall14.png"  style="width:800px" class="border"></img>
 
 
 ### Create a waterfall chart
 
-1. 
+1. Right-click in the grid, and select **Create Chart**.
 
 <img src="../assets/waterfall08.png"  style="width:800px" class="border"></img>
 
-2. 
+2. Define a time range on the dashboard. Waterfall charts need a defined time range to display any data.
 
-<img src="../assets/waterfall09.png"  style="width:800px" class="border"></img>
+<img src="../assets/waterfall16.png"  style="width:800px" class="border"></img>
 
-3. 
+3. Change the chart type to Waterfall.
 
-<img src="../assets/waterfall10.png"  style="width:800px" class="border"></img>
+<img src="../assets/waterfall15.png"  style="width:800px" class="border"></img>
 
-4. 
+4. Select the change configuration, value field, and date range.
 
 <img src="../assets/waterfall11.png"  style="width:800px" class="border"></img>
 
