@@ -31,6 +31,8 @@ For many of our API integrations, use StarLifter's Quick Start setup to create c
 
 * [**Hubspot**](https://docs.starlifter.io/#/how_to/hubspot_api)
 
+* [**QuickBooks**](https://docs.starlifter.io/#/how_to/quickbooks_api)
+
 * [**NetSuite**](https://docs.starlifter.io/#/how_to/netsuite_api)
 
    
