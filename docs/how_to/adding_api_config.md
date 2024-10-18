@@ -13,6 +13,8 @@ StarLifter makes it possible to integrate with multiple instances of a source sy
 
 * [**Hubspot**](https://docs.starlifter.io/#/how_to/hubspot_api)
 
+* [**QuickBooks**](https://docs.starlifter.io/#/how_to/quickbooks_api)
+
 * [**NetSuite**](https://docs.starlifter.io/#/how_to/netsuite_api)
 
 <img src="../assets/additional_API_instance02.png"  style="width:800px" class="border"></img>
