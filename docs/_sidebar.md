@@ -12,10 +12,14 @@
 * Data Visualization
   * [Create dashboards](getting_started/dashboards.md)
   * [Create charts](getting_started/charts.md)
+  * [Waterfall charts](how_to/waterfall.md)
+  * [Sankey and funnel charts](how_to/stage_progression_charts.md)
+  * [Create charts](getting_started/charts.md)
   * [Sort values on a chart](how_to/chart_sort.md)
   * [Define number of values on chart](how_to/chart_data_points.md)
   * [Drill through data](how_to/drillthrough.md)
   * [Create KPIs](getting_started/kpis.md)
+  * [Organize dashboards](how_to/dashboard_organization.md)
 
 * Filter & Grouping
   * [Set a primary date](how_to/date.md)
@@ -27,6 +31,7 @@
 **Setting Up StarLifter**
 
 * Uploading Data
+  * [Quick Start](how_to/quick_start_integrations.md)
   * [Manually upload data to create a collection](getting_started/uploadingdata.md)
   * [Upload data with a date and tag](how_to/tag.md)
   * [Create a blank collection](how_to/new.md)
@@ -47,9 +52,15 @@
     * [Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
     * [Create a pipeline](how_to/creating_pipeline.md)
     * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
+    * [Combining two collections](how_to/combining_CRM_collections.md)
+
 
 * Updating Data
   * [Salesforce Integration](how_to/salesforce_api.md)
+  * [Hubspot Integration](how_to/hubspot_api.md)
+  * [QuickBooks Integration](how_to/quickbooks_api.md)
+  * [Netsuite Integration](how_to/netsuite_api.md)
+  * [Multiple API Configurations](how_to/adding_api_config.md)
   * [SFTP Integration](how_to/sftpintegration.md)
   * [Dropbox Integration](how_to/dropboxintegration.md)
   * [Email Integration](how_to/emailintegration.md)
