@@ -53,7 +53,7 @@
 * Clean and Reformatting
     * [Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
     * [Create a pipeline](how_to/creating_pipeline.md)
-    * [Advanced pipeline commands](how_to/advanced_manipulator_commands.md)
+    * [Advanced pipeline commands](how_to/advanced_transformer_commands.md)
     * [Combining two collections](how_to/combining_CRM_collections.md)
 
 
