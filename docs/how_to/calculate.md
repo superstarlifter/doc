@@ -101,7 +101,3 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 **Note: If you were to choose ‘Calculate before rollup then sum’, boxes per bin would have calculated incorrectly.  Daily boxes per bin would have been calcualted and then totaled; thus, the boxes per bin would have been 92.72 in March and 111.44 in April.**
 
 <img src="../assets/calc_30.png"  style="width:600px" class="border"></img>
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

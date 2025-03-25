@@ -38,7 +38,3 @@ Access policies allow admins to grant users view and update access to specific d
       * 1+ for the read access to the data that supports the dashboard
 
 * For more information on how to Share collections, dashboards and domains, visit: [Sharing Access](/docs/how_to/sharing_access.md)
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

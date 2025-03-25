@@ -15,7 +15,3 @@
 4.  If you would like to undo, use Command-Z or Control-Z
 
 <img src="../assets/copy3.png"  style="width:700px" class="border"></img>
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

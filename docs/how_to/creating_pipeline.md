@@ -53,6 +53,3 @@ Once a pipeline is saved, it is available to use on other collections.
 <img src="../assets/manipulator_collection_save2.png"  style="width:400px" class="border"></img>
 
 You can now see the cleaned and updated collection in your Collection Ribbon.
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

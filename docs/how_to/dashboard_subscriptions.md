@@ -31,7 +31,3 @@ Subscribing to a dashboard ensures a user will have a PDF of their dashboard del
 
  
 <img src="../assets/dashboard_subscriptions_3.png"  style="width:400px" class="border"></img>
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

@@ -77,7 +77,3 @@ The following example will:
 
 ## Data types in the dictionary
 Administrators have access to the defined data types, formatting, and field definition values stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

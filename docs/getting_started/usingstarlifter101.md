@@ -188,8 +188,6 @@ Back to top
  
  [**Reference the Help Desk**](https://docs.starlifter.io/)
  
- [**Join our community**](https://community.starlifter.io/)
- 
  [**Contact your StarLifter customer success manager**](mailto:support@starlifter.io)
 
 

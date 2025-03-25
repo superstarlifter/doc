@@ -24,6 +24,3 @@ The layout of Clean and Reformat includes the sections below:
 * **Output:** Save and overwrite collections
 
 <img src="../assets/pipeline_layout_matt.png"  style="width:800px" class="border"></img>
-
-
-To ask others how they are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

@@ -71,8 +71,3 @@ Select from multiple chart types to best visualize data.
   Add a filterable legend:
 
 <img src="../assets/charts_legend_1.png"  style="width:800px" class="border"></img>
-
-<br>
-To show how you're using charts or to ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
-
-

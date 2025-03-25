@@ -9,7 +9,3 @@
 <img src="../assets/chart_sort_3.png"  style="width:700px" class="border"></img>
 
 <img src="../assets/chart_sort_4.png"  style="width:300px" class="border"></img>
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).

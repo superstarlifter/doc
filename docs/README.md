@@ -36,8 +36,6 @@ _Collection Menu_
 
 [**Videos**](https://www.youtube.com/@starlifter8729): Walks through the most utilized tools in StarLifter in playlists containing videos 30 - 90 seconds long
 
-[**Community**](https://community.starlifter.io): Allows you to post and view the commonly asked questions from other StarLifter users like yourself
-
 
 ### Connect
 

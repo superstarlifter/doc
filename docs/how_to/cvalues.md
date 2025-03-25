@@ -16,7 +16,3 @@ To define the number of values (e.g. columns, points) on a chart:
 3.  Select **OK**
 
 <img src="../assets/cvalue2.png"  style="width:400px" class="border"></img>
-
-
-
-To learn more about how others are using this functionality, head over to the [StarLifter Community](https://community.starlifter.io).
