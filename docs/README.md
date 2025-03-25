@@ -41,4 +41,4 @@ _Collection Menu_
 
 ### Connect
 
-If a topic area is not convered, reach out to the [StarLifter team](mailto:answers@starlifter.io).
+If a topic area is not covered, reach out to the [StarLifter team](mailto:support@starlifter.io).

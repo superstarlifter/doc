@@ -190,6 +190,6 @@ Back to top
  
  [**Join our community**](https://community.starlifter.io/)
  
- [**Contact your StarLifter customer success manager**](mailto:info@starlifter.io)
+ [**Contact your StarLifter customer success manager**](mailto:support@starlifter.io)
 
 
