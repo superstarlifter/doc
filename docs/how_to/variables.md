@@ -59,4 +59,4 @@ In the example below, we will set up a variable to aggregate open pipeline by op
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

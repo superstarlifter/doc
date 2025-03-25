@@ -35,4 +35,4 @@ Note: Times are in UTC. Use [**this tool**](https://www.utctime.net/utc-time-zon
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

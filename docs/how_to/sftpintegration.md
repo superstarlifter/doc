@@ -32,4 +32,4 @@ Once an SFTP Integration is created, set up [**File Match Rules**](https://docs.
 6. Set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations). File Match Rules tell StarLifter where and how to upload the data. Scheduled Jobs determine the frequency with which data is uploaded.
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

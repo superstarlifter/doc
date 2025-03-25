@@ -49,5 +49,5 @@ In this example, we will create a view where the budget owner can only edit the 
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+
 

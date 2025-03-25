@@ -22,4 +22,4 @@ To set up Token-based Authentication, follow the instructions in [**NetSuite's d
 
 3. Click **Test and save**.
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

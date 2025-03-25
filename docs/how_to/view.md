@@ -39,4 +39,4 @@ Views are a way to save a filtered collection as a new collection. Collections c
 <img src="../assets/view_matt8.png"  style="width:800px" class="border"></img>
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

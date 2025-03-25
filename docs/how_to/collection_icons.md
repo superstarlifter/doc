@@ -11,4 +11,4 @@ Certain collection types in StarLifter contain an icon next to the name in the c
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

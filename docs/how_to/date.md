@@ -21,4 +21,4 @@ To set a primary date:
 5.  To dial in your analysis, be mindful of which date field is being used for your time-based roll ups and filters.  
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

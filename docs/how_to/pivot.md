@@ -99,4 +99,4 @@ Use a pivot to aggregate and group values by categories. Pivots can be created d
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

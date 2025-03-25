@@ -72,4 +72,4 @@ For many of our API integrations, use StarLifter's Quick Start setup to create c
 <img src="../assets/QuickStart09.png"  style="width:800px" class="border"></img>
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

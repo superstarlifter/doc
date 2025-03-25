@@ -38,4 +38,4 @@ Filtering is a fundamental function of StarLifter.
 <img src="../assets/filter_all.png"  style="width:800px" class="border"></img>
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

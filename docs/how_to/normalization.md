@@ -76,4 +76,4 @@ The normalization will change the values of your field to the normalized values
 <img src="../assets/normalization_22.png"  style="width:800px" class="border"></img>
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

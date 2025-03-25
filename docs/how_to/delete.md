@@ -22,7 +22,3 @@ To delete all of the rows in a collection:
 <img src="../assets/delete3.png"  style="width:600px" class="border"></img>
 
 Note:  This action is final and cannot be undone.
-
-
-
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).

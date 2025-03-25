@@ -26,4 +26,4 @@ As your StarLifter org grows, it may make sense to organize your dashboards into
 
 <img src="../assets/dashboard_organization05.png"  style="width:800px" class="border"></img>
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

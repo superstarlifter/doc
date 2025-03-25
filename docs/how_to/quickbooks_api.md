@@ -12,4 +12,4 @@ To access your QuickBooks data in StarLifter, all you need is a QuickBooks Admin
 
 4. You might have access to multiple QuickBooks companies in the same instance. If this is the case, see [**Adding Another API Configuration**](https://docs.starlifter.io/#/how_to//adding_api_config)
    
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

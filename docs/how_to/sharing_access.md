@@ -55,4 +55,4 @@ There are 3 areas of access that can be granted to other users:
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

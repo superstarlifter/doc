@@ -54,6 +54,6 @@ Yearly
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+
 
 

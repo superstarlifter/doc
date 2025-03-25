@@ -75,4 +75,4 @@ The basics of setting up a table report in StarLifter involves choosing category
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

@@ -53,4 +53,4 @@ Because StarLifter records changes to your opportunity data, we are able to show
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

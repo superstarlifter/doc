@@ -41,4 +41,4 @@ Rollups are necessary when the rows of data are not aligned.  A weekly rollup wo
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

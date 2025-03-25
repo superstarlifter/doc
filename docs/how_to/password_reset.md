@@ -33,4 +33,4 @@ Double-click the user's password field and enter the new password and press ente
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

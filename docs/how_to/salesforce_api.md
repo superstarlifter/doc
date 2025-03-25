@@ -48,4 +48,4 @@ Before you begin, contact your Salesforce Administrator for the following inform
 
 
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+

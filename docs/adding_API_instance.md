@@ -23,4 +23,4 @@ StarLifter makes it possible to integrate with multiple instances of a source sy
 
 <img src="../assets/additional_api_instance05.png"  style="width:800px" class="border"></img>
 
-To learn more or ask additional questions, head over to the [StarLifter Community](https://community.starlifter.io).
+
