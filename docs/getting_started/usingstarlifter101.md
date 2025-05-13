@@ -12,8 +12,8 @@ The CFO at Bowen is about to lead the annual meeting to discuss company performa
 * [Roll up by date](#by-date)
 * [Group by category](#category)
 * [Roll up by date and group by category](#by-category)
-* [Filter by date](#by-date)
-* [Filter](#filter)
+* [Filter by date](#filter-by-date)
+* [Filter](#filter-methods)
 
 ### **Roll up by date** <a id="by-date"></a>
 
@@ -55,7 +55,7 @@ To combine category groups and date roll ups, right click and select **Add to Gr
 
    <img src="../assets/starting8.png"  style="width:600px" class="border"></img>
 
-### **Filter by date** <a id="by-date"></a>
+### **Filter by date** <a id="filter-by-date"></a>
 
 Move the date slider right to left or select the calendar icon to choose predefined and custom time periods.
 
@@ -64,7 +64,7 @@ Move the date slider right to left or select the calendar icon to choose predefi
 
 ## _**When she presents, she wants to quickly understand different divisional performance in addition to aggregate.**_ <a id="filter"></a>
 
-### **Filter - Three ways** <a id="filter"></a>
+### **Filter - Three ways** <a id="filter-methods"></a>
 
 #### 1.  Use the search field
 
@@ -116,7 +116,7 @@ Move the date slider right to left or select the calendar icon to choose predefi
 
    <img src="../assets/starting11.png"  style="width:600px" class="border"></img>
    
-#### Futher customize chart.
+#### Further customize chart.
 
    <img src="../assets/starting12.png"  style="width:600px" class="border"></img>
 
@@ -124,7 +124,7 @@ Move the date slider right to left or select the calendar icon to choose predefi
 
    <img src="../assets/starting13.png"  style="width:1200px" class="border"></img>
 
-### Create a KPI** <a id="kpi"></a>
+### **Create a KPI** <a id="kpi"></a>
 
 #### Right click Create KPI.
 
@@ -152,7 +152,7 @@ Customize KPI using settings. You may change titles as well as add fitlers, comp
 
    <img src="../assets/starting37.png"  style="width:600px" class="border"></img>
 
-Back to top
+[Back to top](#top)
 
 ## _**To ensure everyone is prepared, she is going to send out this dashboard prior to the meeting and send it to herself on a schedule for future reference.**_ <a id="share"></a>
 
@@ -169,9 +169,9 @@ Back to top
 
    <img src="../assets/starting32.png"  style="width:900px" class="border"></img> 
    
- Back to top
+ [Back to top](#top)
  
- ### **10. Subscribe** <a id="subscribe"></a>
+ ### **Subscribe** <a id="subscribe"></a>
 
 #### Subscribe to a dashboard for yourself or someone else.  Select the calendar icon.
 

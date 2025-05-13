@@ -5,7 +5,7 @@ Filtering is a fundamental function of StarLifter.
 
 **To filter by including or excluding:**
 1.  Right click in the grid on the field you'd like to filter
-2.  Select from the dropbown
+2.  Select from the dropdown
 
 <img src="../assets/include.png"  style="width:200px" class="border"></img>
 

@@ -14,7 +14,6 @@
   * [Create charts](getting_started/charts.md)
   * [Waterfall charts](how_to/waterfall.md)
   * [Sankey and funnel charts](how_to/stage_progression_charts.md)
-  * [Create charts](getting_started/charts.md)
   * [Sort values on a chart](how_to/chart_sort.md)
   * [Define number of values on chart](how_to/chart_data_points.md)
   * [Drill through data](how_to/drillthrough.md)

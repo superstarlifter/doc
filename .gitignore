@@ -2,3 +2,4 @@
 package-lock.json
 .aider*
 /output
+**/.claude/settings.local.json

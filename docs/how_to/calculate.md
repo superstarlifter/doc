@@ -24,7 +24,7 @@ To create a calculation:
 
 4. Select the timing of aggregation when rolled-up
 
-    For more information on aggregation timing visit [How to the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
+    For more information on aggregation timing visit [How to set the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
 
 
 <img src="../assets/calc_3.png"  style="width:600px" class="border"></img>
@@ -98,6 +98,6 @@ Values differ based on whether data is aggregated (rolled up) before or after a 
 
 <img src="../assets/calc_27.png"  style="width:600px" class="border"></img>
 
-**Note: If you were to choose ‘Calculate before rollup then sum’, boxes per bin would have calculated incorrectly.  Daily boxes per bin would have been calcualted and then totaled; thus, the boxes per bin would have been 92.72 in March and 111.44 in April.**
+**Note: If you were to choose ‘Calculate before rollup then sum’, boxes per bin would have calculated incorrectly.  Daily boxes per bin would have been calculated and then totaled; thus, the boxes per bin would have been 92.72 in March and 111.44 in April.**
 
 <img src="../assets/calc_30.png"  style="width:600px" class="border"></img>

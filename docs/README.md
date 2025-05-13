@@ -17,7 +17,7 @@ StarLifter is a self-service data analysis platform that gives teams one place t
 
 #### Menus
 
-Visble analysis and configuration options will differ depending on your StarLifter access.
+Visible analysis and configuration options will differ depending on your StarLifter access.
 
 * **Grid Menu**: Analysis options available by right clicking inside the grid
 * **Collection Menu**: Configuration options available by right clicking on the title of a collection
