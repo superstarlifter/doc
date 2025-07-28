@@ -2,6 +2,8 @@
 
 StarLifter is a self-service data analysis platform that gives teams one place to connect data, explore analysis and share insight. 
 
+<img src="../assets/hero.png"  style="width: 800px" class="border"></img>
+
 ### StarLifter Terminology and Set Up
 
 #### Data Organization
@@ -30,11 +32,6 @@ _Grid Menu_
 _Collection Menu_
 
 <img src="../assets/setup_collection_menu.png"  style="width:200px" class="border"></img>
-
-
-### Use the following resources to amplify your use of StarLifter. 
-
-[**Videos**](https://www.youtube.com/@starlifter8729): Walks through the most utilized tools in StarLifter in playlists containing videos 30 - 90 seconds long
 
 
 ### Connect
