@@ -6,7 +6,7 @@ As your StarLifter org grows, it may make sense to organize your dashboards into
 
 ### Organize your dashboard
 
-1. Select **SL ✩ Navigation Item** under the System Definition dropdown.
+1. Select **Navigation Items** from the left navigation under : **Settings** ➔ **System Definition** ➔ **Navigation Items**.
 
 <img src="../assets/dashboard_organization03.png"  style="width:300px" class="border"></img>
 
