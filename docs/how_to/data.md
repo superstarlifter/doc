@@ -76,4 +76,4 @@ The following example will:
 | Cell Background Color           | [White Red]#,##0.00;      |                | <img src="../assets/data_03.png"  style="width:200px" class="border"></img>  |
 
 ## Data types in the dictionary
-Administrators have access to the defined data types, formatting, and field definition values stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
+Administrators have access to the defined data types, formatting, and field definition values stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](how_to/dictionary?id=the-importance-of-the-dictionary).

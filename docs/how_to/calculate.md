@@ -24,14 +24,14 @@ To create a calculation:
 
 4. Select the timing of aggregation when rolled-up
 
-    For more information on aggregation timing visit [How to set the aggregate](https://docs.starlifter.io/#/how_to/calculate?id=how-to-set-aggregate)
+    For more information on aggregation timing visit [How to set the aggregate](#how-to-set-aggregate)
 
 
 <img src="../assets/calc_3.png"  style="width:600px" class="border"></img>
 
 5.  Select the elements to build your calculation. Input a **Field**, **Number**, or **Text**, or use an **IF** or **Function**
 
-    For a list of available functions visit [Functions](https://docs.starlifter.io/#/how_to/functions)
+    For a list of available functions visit [Functions](how_to/functions)
 
 
 <img src="../assets/calc_4.png"  style="width:600px" class="border"></img>

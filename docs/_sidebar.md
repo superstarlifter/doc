@@ -1,8 +1,8 @@
 **Using StarLifter**
 
 * Analyzing Data
-  * [Calculations](how_to/calculate.md)
-  * [Calculation functions](how_to/functions.md)
+  * [Calculations](how_to/calculate)
+  * [Calculation functions](how_to/functions)
   * [Pivot tables](how_to/pivot.md)
   * [Views](how_to/view.md)
   * [Data input views](how_to/input_data.md)
@@ -27,13 +27,13 @@
 **Setting Up StarLifter**
 
 * Data Management
-  * [Quick Start](how_to/quick_start_integrations.md)
+  * [Quick Start](how_to/quick_start_integrations)
   * [Manual upload](getting_started/uploadingdata.md)
   * [Upload with tags](how_to/tag.md)
   * [Blank collections](how_to/new.md)
   * [Collection setup](getting_started/collection.md)
   * [Data types](how_to/data.md)
-  * [Dictionary guide](how_to/dictionary.md)
+  * [Dictionary guide](how_to/dictionary)
   * [Default layouts](how_to/default.md)
   * [Normalization](how_to/normalization.md)
   * [Copy and undo](how_to/copy.md)
@@ -41,26 +41,26 @@
   * [Export to Excel](how_to/export.md)
 
 * Configuring Data
-  * [Calculated fields](how_to/calculate.md)
-  * [References](how_to/references.md)
+  * [Calculated fields](how_to/calculate)
+  * [References](how_to/references)
   * [Variables](how_to/variables.md)
 
 * Data Transformation
   * [Clean and Reformat](how_to/accessing_clean_and_reformat.md)
-  * [Pipelines](how_to/creating_pipeline.md)
+  * [Pipelines](how_to/creating_pipeline)
   * [Advanced commands](how_to/advanced_transformer_commands.md)
   * [Combine collections](how_to/combining_CRM_collections.md)
 
 * Integrations
-  * [Salesforce](how_to/salesforce_api.md)
-  * [Hubspot](how_to/hubspot_api.md)
-  * [QuickBooks](how_to/quickbooks_api.md)
-  * [NetSuite](how_to/netsuite_api.md)
+  * [Salesforce](how_to/salesforce_api)
+  * [Hubspot](how_to/hubspot_api)
+  * [QuickBooks](how_to/quickbooks_api)
+  * [NetSuite](how_to/netsuite_api)
   * [SFTP](how_to/sftpintegration.md)
   * [Dropbox](how_to/dropboxintegration.md)
   * [Email](how_to/emailintegration.md)
-  * [File Match Rules](how_to/filematchrules.md)
-  * [Scheduled Jobs](how_to/scheduledintegrations.md)
+  * [File Match Rules](how_to/filematchrules)
+  * [Scheduled Jobs](how_to/scheduledintegrations)
 
 * Sharing & Collaboration
   * [Share data](how_to/sharing_access.md)

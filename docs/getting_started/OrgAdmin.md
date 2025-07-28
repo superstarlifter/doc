@@ -8,4 +8,4 @@
 
 <img src="../assets/org1.png"  style="width:900px" class="border"></img>
 
-3.  As you add new organization administrators, point them to the **New Organization Admin** help desk article: https://docs.starlifter.io/#/how_to/newuser
+3.  As you add new organization administrators, point them to the **New Organization Admin** help desk article: [New Organization Admin](../how_to/newuser.md)

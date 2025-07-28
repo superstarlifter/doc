@@ -1,5 +1,5 @@
 ## Functions
-Functions are predefined formulas that are used in [calculated fields.](https://docs.starlifter.io/#/how_to/calculate)
+Functions are predefined formulas that are used in [calculated fields.](how_to/calculate)
 
 To access the available functions for a calcuated field, click the left icon of the chip and select function.
 
@@ -146,7 +146,7 @@ SumChildren function will sum the value of any child records.
 
 In order to utilize the SumChildren function you will need a parent/child reference relationship between collections.
 
-For more information on reference fields - [Reference Fields](https://docs.starlifter.io/#/how_to/reference_field?id=how-create-a-reference-field)
+For more information on reference fields - [Reference Fields](how_to/reference_field?id=how-create-a-reference-field)
 
 <img src="../assets/function_sumchildren_1.png"  style="width:800px" class="border"></img>
 
@@ -166,7 +166,7 @@ SumChildren function will calculate an average value of any child records.
 
 In order to utilize the AvgChildren function you will need a parent/child reference relationship between collections.
 
-For more information on reference fields - [Reference Fields](https://docs.starlifter.io/#/how_to/reference_field?id=how-create-a-reference-field)
+For more information on reference fields - [Reference Fields](how_to/reference_field?id=how-create-a-reference-field)
 
 <img src="../assets/function_avgchildren_2.png"  style="width:800px" class="border"></img>
 
@@ -185,7 +185,7 @@ SumChildren function will count the number of any child records.
 
 In order to utilize the CountChildren function you will need a parent/child reference relationship between collections.
 
-For more information on reference fields - [Reference Fields](https://docs.starlifter.io/#/how_to/reference_field?id=how-create-a-reference-field)
+For more information on reference fields - [Reference Fields](how_to/reference_field?id=how-create-a-reference-field)
 
 
 <img src="../assets/function_countchildren_1.png"  style="width:800px" class="border"></img>

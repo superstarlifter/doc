@@ -2,7 +2,7 @@
 
 StarLifter makes it easy to upload data using its prebuilt SFTP Integration.
 
-Once an SFTP Integration is created, set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations) to clean and upload the data to the right collection and at the right frequency.
+Once an SFTP Integration is created, set up [**File Match Rules**](how_to/filematchrules) and a [**Scheduled Job**](how_to/scheduledintegrations) to clean and upload the data to the right collection and at the right frequency.
 
 
 ### Upload data using SFTP
@@ -25,7 +25,7 @@ Once an SFTP Integration is created, set up [**File Match Rules**](https://docs.
 
 <img src="../assets/sftpintegration_matt03.png"  style="width:600px" class="border"></img>
 
-5. Set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations). File Match Rules tell StarLifter where and how to upload the data. Scheduled Jobs determine the frequency with which data is uploaded.
+5. Set up [**File Match Rules**](how_to/filematchrules) and a [**Scheduled Job**](how_to/scheduledintegrations). File Match Rules tell StarLifter where and how to upload the data. Scheduled Jobs determine the frequency with which data is uploaded.
 
 
 

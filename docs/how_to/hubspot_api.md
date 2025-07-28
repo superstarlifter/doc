@@ -35,7 +35,7 @@ To create a Private App, follow the instructions below, or link directly to [**H
 
 3. Click **Test and save**.
 
-4. To finish setting up your Hubspot data in StarLifter, return to [**Quick Start Integration Setup**](https://docs.starlifter.io/#/how_to/quick_start_integrations).
+4. To finish setting up your Hubspot data in StarLifter, return to [**Quick Start Integration Setup**](how_to/quick_start_integrations).
 
 
 

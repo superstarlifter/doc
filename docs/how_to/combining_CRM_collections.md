@@ -6,7 +6,7 @@ StarLifter helps you gain a complete view of your company's performance by combi
 
 ### Append the Opportunity collections
 
-1. Select **Clean & Reformat** under the Data Manipulation dropdown. For more information on Data Manipulation, check out [Create a pipeline](https://docs.starlifter.io/#/how_to/creating_pipeline?id=creating-a-pipeline).
+1. Select **Clean & Reformat** under the Data Manipulation dropdown. For more information on Data Manipulation, check out [Create a pipeline](how_to/creating_pipeline?id=creating-a-pipeline).
 
 <img src="../assets/2CRMs04.png"  style="width:200px" class="border"></img>
 

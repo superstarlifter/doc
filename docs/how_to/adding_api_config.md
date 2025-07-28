@@ -9,13 +9,13 @@ StarLifter makes it possible to integrate with multiple instances of a source sy
 
 2. Enter the credentials for your source system, and click **Test and save**. For more information on entering API credentials for your specific source system, access the documentation below:
 
-* [**Salesforce**](https://docs.starlifter.io/#/how_to/salesforce_api)
+* [**Salesforce**](how_to/salesforce_api)
 
-* [**Hubspot**](https://docs.starlifter.io/#/how_to/hubspot_api)
+* [**Hubspot**](how_to/hubspot_api)
 
-* [**QuickBooks**](https://docs.starlifter.io/#/how_to/quickbooks_api)
+* [**QuickBooks**](how_to/quickbooks_api)
 
-* [**NetSuite**](https://docs.starlifter.io/#/how_to/netsuite_api)
+* [**NetSuite**](how_to/netsuite_api)
 
 <img src="../assets/additional_API_instance02.png"  style="width:800px" class="border"></img>
 

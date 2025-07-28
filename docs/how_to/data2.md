@@ -54,4 +54,4 @@ _In the example below the Revenue field's font color was changed to dodgerblue a
 | Cell Background Color           | [White Red]#,##0.00;      |                | <img src="../assets/data_03.png"  style="width:200px" class="border"></img>  |
 
 ## Data types in the dictionary
-Data types, formatting, and field definition values are stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](https://docs.starlifter.io/#/how_to/dictionary?id=the-importance-of-the-dictionary).
+Data types, formatting, and field definition values are stored in the dictionary. For more information on changing dictionary values visit the page [The importance the Dictionary](how_to/dictionary?id=the-importance-of-the-dictionary).
