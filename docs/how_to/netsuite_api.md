@@ -12,7 +12,7 @@ To access your NetSuite data in StarLifter, you must first set up Token-based Au
 To set up Token-based Authentication, follow the instructions in [**NetSuite's documentation**](https://docs.oracle.com/en/cloud/saas/netsuite/ns-online-help/section_161942084079.html#procedure_1127120639).
 
 
-### Enter your NetSuite credentials into StarLifter:
+### Enter your NetSuite credentials into StarLifter
 
 1. Navigate back to NetSuite Setup in StarLifter
 

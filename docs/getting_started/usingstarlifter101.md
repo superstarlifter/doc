@@ -184,7 +184,7 @@ Customize KPI using settings. You may change titles as well as add fitlers, comp
 ## _**The Bowen CFO is now prepared to share key metrics and overarching company data with her team.**_
 
 
-## Additional help and support:
+## Additional help and support
  
  [**Reference the Help Desk**](https://docs.starlifter.io/)
  
