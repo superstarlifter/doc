@@ -3,10 +3,9 @@
 Because StarLifter records changes to your data, you are able to view these changes over time in the form of a waterfall chart.
 
 To create a waterfall chart in StarLifter users must:
-1. Filter to a start condition
-2. Define the change reasons to display on the chart
-3. Create the chart on a dashboard
-4. Define the date range
+1. Define the change reasons to display on the chart
+2. Create the chart on a dashboard
+3. Define the date range
 
 ### Configure change reasons
 
@@ -22,7 +21,7 @@ To create a waterfall chart in StarLifter users must:
 
 <img src="../assets/waterfall12.png"  style="width:800px" class="border"></img>
 
-4. Several change reasons appear by default. Add any change reasons by clicking the **+** and defining the type of change you wish to display. In the example below, any opportunities that moved into Stage = Closed Won during the time range will be captured.
+4. Several change reasons appear by default. The change reasons define the conditions used for each bar from left to right to show what caused the changes in the value from the start to the end of the Date Range.  The Change Reasons you define are checked in the order they appear in this list and may be dragged up or down to reorder them.  Add any change reasons by clicking the **+** and defining the type of change you wish to display. In the example below, any opportunities that moved into Stage = Closed Won during the time range will be captured.
 
 <img src="../assets/waterfall13.png"  style="width:800px" class="border"></img>
 
