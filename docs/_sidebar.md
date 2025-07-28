@@ -29,7 +29,7 @@
 
 **Setting Up StarLifter**
 
-* Uploading Data
+* Data Management
   * [Quick Start](how_to/quick_start_integrations.md)
   * [Manually upload data to create a collection](getting_started/uploadingdata.md)
   * [Upload data with a date and tag](how_to/tag.md)
@@ -48,15 +48,13 @@
   * [Create a reference](how_to/references.md)
   * [Summarize data with variables](how_to/variables.md)
 
-
 * Clean and Reformatting
-    * [Clean and Reformat](how_to/accessing_clean_and_reformat.md)
-    * [Create a pipeline](how_to/creating_pipeline.md)
-    * [Advanced pipeline commands](how_to/advanced_transformer_commands.md)
-    * [Combining two collections](how_to/combining_CRM_collections.md)
+  * [Clean and Reformat](how_to/accessing_clean_and_reformat.md)
+  * [Create a pipeline](how_to/creating_pipeline.md)
+  * [Advanced pipeline commands](how_to/advanced_transformer_commands.md)
+  * [Combining two collections](how_to/combining_CRM_collections.md)
 
-
-* Updating Data
+* Integrations
   * [Salesforce Integration](how_to/salesforce_api.md)
   * [Hubspot Integration](how_to/hubspot_api.md)
   * [QuickBooks Integration](how_to/quickbooks_api.md)
