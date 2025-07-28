@@ -7,7 +7,6 @@
   * [Views](how_to/view.md)
   * [Data input views](how_to/input_data.md)
   * [Joins](how_to/join.md)
-  * [Collection icons](how_to/collection_icons.md)
 
 * Data Visualization
   * [Dashboards](getting_started/dashboards.md)
