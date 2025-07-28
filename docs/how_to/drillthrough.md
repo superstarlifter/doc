@@ -1,6 +1,6 @@
 ## Drill through data
 
-[**Video Tutorial**](https://youtu.be/qFYNcpkTpJU?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/qFYNcpkTpJU?feature=shared) -->
 
 StarLifter's drill-through capabilities make it easy to navigate from insights on your dashboard, to the raw data needed to make decisions. Every StarLifter chart allows you to drill through to the raw data that makes up each segment of the chart.
 

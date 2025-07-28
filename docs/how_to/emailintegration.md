@@ -1,6 +1,6 @@
 ## Email Integration
 
-[**Video Tutorial**](https://youtu.be/ZB8QuqRyBHs?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/ZB8QuqRyBHs?feature=shared) -->
 
 Uploading data into StarLifter is as easy as emailing a spreadsheet. Just ask StarLifter to set up an email address for your org.
 

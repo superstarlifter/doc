@@ -1,6 +1,6 @@
 ## Charts
 
-[**Video Tutorial**](https://youtu.be/3Tnr53lELtI?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/3Tnr53lELtI?feature=shared) -->
 
 Select from multiple chart types to best visualize data.
 

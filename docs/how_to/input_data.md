@@ -1,6 +1,6 @@
 ## Using a view for data input
 
-[**Video Tutorial**](https://youtu.be/IUkEAK2Cqyo?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/IUkEAK2Cqyo?feature=shared) -->
 
 Views can be used to control which users can view and edit data.
 

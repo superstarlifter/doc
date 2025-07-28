@@ -1,6 +1,6 @@
 ## Creating a report
 
-[**Video Tutorial**](https://youtu.be/fLLjW7BHojw?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/fLLjW7BHojw?feature=shared) -->
 
 The basics of setting up a table report in StarLifter involves choosing category fields, the date rollup, and numeric fields. These reports can then be saved for future use.
 

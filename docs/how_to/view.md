@@ -1,5 +1,5 @@
 ## How to create a view
-[**Video Tutorial**](https://youtu.be/nSEy7wmTVD0?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/nSEy7wmTVD0?feature=shared) -->
 
 Views are a way to save a filtered collection as a new collection. Collections can be segmented on fields, filters, and/or user permissions.
 

@@ -1,6 +1,6 @@
 ## Dropbox Integration
 
-[**Video Tutorial**](https://youtu.be/9eMe4fgTrkI?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/9eMe4fgTrkI?feature=shared) -->
 
 Uploading data into StarLifter can be accomplished by uploading data to a Dropbox folder. Ask StarLifter to set up a Dropbox folder for your org.
 

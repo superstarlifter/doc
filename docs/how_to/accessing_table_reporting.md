@@ -1,6 +1,6 @@
 ## Accessing table reporting
 
-[**Video Tutorial**](https://youtu.be/fLLjW7BHojw?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/fLLjW7BHojw?feature=shared) -->
 
 StarLifter offers you the ability to create and save alternate views to collection data. For example, raw general ledger data that references a chart of accounts can be used to build an income statement, or daily production reports can be pivoted to create annual summaries.
 

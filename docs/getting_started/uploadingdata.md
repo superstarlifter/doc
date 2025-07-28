@@ -1,6 +1,6 @@
 ## Manually upload data
 
-[**Video Tutorial**](https://youtu.be/_QFPM6rfksM?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/_QFPM6rfksM?feature=shared) -->
 
 1. From the menu at the upper left of the screen, select **Upload XLS, CSV...**
 

@@ -1,5 +1,5 @@
 ## Create a Reference
-[**Video Tutorial**](https://youtu.be/YemXi1X9r-I?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/YemXi1X9r-I?feature=shared) -->
 
 A reference field stores a reference to a field in another collection. For example, the AccountCode field in a General Ledger collection is a reference to the Chart of Accounts collection.
 

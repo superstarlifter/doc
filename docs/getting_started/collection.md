@@ -4,7 +4,7 @@ Although StarLifter gives you several options for setting up data, the basics ca
 
 ### Set a header row
 
-[**Video Tutorial**](https://youtu.be/THu5VhD-tj0?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/THu5VhD-tj0?feature=shared) -->
 
 1.  Right click on a row
 2.  Select **Set header row**. Note that all data above this row will be deleted
@@ -14,7 +14,7 @@ Although StarLifter gives you several options for setting up data, the basics ca
 
 ### Set the desired layout. 
 
-[**Video Tutorial**](https://youtu.be/x5n19V9foWA?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/x5n19V9foWA?feature=shared) -->
 
 1. Right click and select Layout.
 

@@ -1,5 +1,5 @@
 ## Filter data
-[Video Tutorial](https://youtu.be/PymSStssw24?feature=shared)
+<!-- [Video Tutorial](https://youtu.be/PymSStssw24?feature=shared) -->
 
 Filtering is a fundamental function of StarLifter. 
 

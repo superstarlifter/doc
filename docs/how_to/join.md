@@ -1,5 +1,5 @@
 ## How to create a join
-[**Video Tutorial**](https://youtu.be/7uHRGDvdT6c?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/7uHRGDvdT6c?feature=shared) -->
 
 A join is used to connect multiple collections together using a common key. StarLifter uses a Left Join when creating a Join. This type of join will return all records from the left table, and the matching records from the right table. 
 

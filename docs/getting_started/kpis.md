@@ -1,6 +1,6 @@
 ## KPIs
 
-[**Video Tutorial**](https://youtu.be/Z-61QXzBcFI?feature=shared)
+<!-- [**Video Tutorial**](https://youtu.be/Z-61QXzBcFI?feature=shared) -->
 
 Key Performance Indicators (KPIs) give you visibility into key metrics that allow you to measure performance and make decisions.
 
