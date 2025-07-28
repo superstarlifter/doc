@@ -7,7 +7,7 @@ A join is used to connect multiple collections together using a common key. Star
 
 To create a join:  
 
-1.  From the menu at the upper left of the screen, select **Join Definitions**.
+1.  Right click the collection tab, select **Create Join**.
 
 <img src="../assets/join_matt1.png"  style="width:400px" class="border"></img>
 
