@@ -76,7 +76,6 @@
   * [Password reset](how_to/password_reset.md)
   * [Terms](getting_started/structure.md)
   * [Keyboard shortcuts](keyboard.md)
-  * [Operator definitions](operators.md)
 
 **Common Uses of StarLifter**
 
