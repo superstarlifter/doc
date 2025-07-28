@@ -77,7 +77,6 @@
   * [Terms](getting_started/structure.md)
   * [Keyboard shortcuts](keyboard.md)
   * [Operator definitions](operators.md)
-  * [Architecture and Security](how_to/security.md)
 
 **Common Uses of StarLifter**
 
