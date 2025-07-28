@@ -4,12 +4,12 @@
 
 Views can be used to control which users can view and edit data.
 
-### Create a view:  
+### Create a view  
 In this example, we will create a view where the budget owner can only edit the amount field for the line items they are responsible for.
 
 <img src="../assets/inputingdata_matt01.png"  style="width:800px" class="border"></img>
 
-1. Right-click in the collection and select **Create View**.
+1. Right-click the collection tab and select **Create View**.
 
 <img src="../assets/inputingdata_matt02.png"  style="width:300px" class="border"></img>
 
@@ -38,7 +38,7 @@ In this example, we will create a view where the budget owner can only edit the 
 
 <img src="../assets/inputingdata_matt07.png"  style="width:800px" class="border"></img>
 
-### Impersonate a user to test the view:  
+### Impersonate a user to test the view  
 1. In the administration menu, select **Impersonate User**.
 
 <img src="../assets/inputingdata_matt08.png"  style="width:300px" class="border"></img>
