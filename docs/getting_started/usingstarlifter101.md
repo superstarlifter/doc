@@ -186,7 +186,7 @@ Customize KPI using settings. You may change titles as well as add fitlers, comp
 
 ## Additional help and support
  
- [**Reference the Help Desk**](../)
+ [**Reference the Help Desk**](/)
  
  [**Contact your StarLifter customer success manager**](mailto:support@starlifter.io)
 

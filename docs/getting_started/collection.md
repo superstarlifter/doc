@@ -58,5 +58,4 @@ There are two ways to set up fields in StarLifter.
 
 _Note: The dictionary is only accessible by administrators of collections._
 
-
-For more on data types, see [Data types and formats](../how_to/data.md#data-types-and-formats)
+For more on data types, see [Data types and formats](how_to/data?id=data-types-and-formats)
