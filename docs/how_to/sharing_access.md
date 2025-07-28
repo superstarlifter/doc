@@ -25,16 +25,12 @@ There are 3 areas of access that can be granted to other users:
 
 ### Collection Access
 
-1.	Right click on the grid of the collection to be shared and select the **Share** option.
-
-<img src="../assets/sharing_access_collection_1.png"  style="width:200px" class="border"></img>
+1.	Right click on the tab of the collection to be shared and select the **Share** option.
 
 2.  Enter the email address of the user and select the level of access.
     * **Viewer** - Can view anything in the collection.
     * **Edit and Configure** - Can edit and view the data in the collection and update the collection schema (add, edit, and delete fields).
     * **Editor** - Can edit anything in the collection.
-
-<img src="../assets/share_domain_2.png"  style="width:150px" class="border"></img>
 
 3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the collection.
 
