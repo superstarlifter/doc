@@ -37,11 +37,6 @@ Before you begin, contact your Salesforce Administrator for the following inform
 
 <img src="../assets/salesforce_api6.png"  style="width:800px" class="border"></img>
   
-4. Push **Go** to upload the Salesforce data as a StarLifter collection. Once uploaded, the data is available as a new StarLifter collection.
+4. Click **Go** to upload the Salesforce data as a StarLifter collection. Once uploaded, the data is available as a new StarLifter collection.
 
 <img src="../assets/salesforce_api7.png"  style="width:800px" class="border"></img>
-
-
-
-
-

@@ -1,8 +1,8 @@
-## Accessing your NetSuite Data
+## Integrate with NetSuite
 
 To access your NetSuite data in StarLifter, you must first set up Token-based Authentication in NetSuite to retrieve the credentials below. This may require you to contact your NetSuite administrator to ensure your account has the credentials necessary to set up Token-based Authentication.
 
-* Account ID (the unique ID for you Netsuite Account)
+* Account ID (the unique ID for your NetSuite Account)
 * Consumer Key
 * Consumer Secret
 * Token ID

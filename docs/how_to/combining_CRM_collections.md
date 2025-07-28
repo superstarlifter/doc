@@ -26,7 +26,7 @@ StarLifter helps you gain a complete view of your company's performance by combi
 
 * **Ignore field**: Do not append the values from this field to Collection 1.
 * **Copy to field**: Copy the values from the field in Collection 2 into the field in Collection 1
-* **Create new field**: There is no matching field in Collection 1, so Add this field to Collection 1
+* **Create new field**: There is no matching field in Collection 1, so add this field to Collection 1
 
 <img src="../assets/2CRMs08.png"  style="width:800px" class="border"></img>
 
@@ -40,7 +40,7 @@ StarLifter helps you gain a complete view of your company's performance by combi
 
 
 ### Normalize the data 
-Once that data from your two CRMs is combined, it may be necessary to normalize some of the fields. For example, it is unlikely that the stage names are consistent between the two systems. StarLifter makes it easy to normalize your data.
+Once the data from your two CRMs is combined, it may be necessary to normalize some of the fields. For example, it is unlikely that the stage names are consistent between the two systems. StarLifter makes it easy to normalize your data.
 
 1. Right click on any of the Stage values, and select **Normalize Field**. Name the Normalization collection.
 
@@ -61,10 +61,3 @@ Once that data from your two CRMs is combined, it may be necessary to normalize 
 5. Right-click on the combined opportunities header and select **Show fields**. Change the Stage data type to **Reference**. Reference the Normalization collection, and match on **Name**. Click **Save**.
 
 <img src="../assets/2CRMs15.png"  style="width:600px" class="border"></img>
-
-
-
-
-
-
-

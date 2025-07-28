@@ -3,9 +3,9 @@
 [**Video Tutorial**](https://youtu.be/-z-MOrKmMG4?feature=shared)
 
 There are 3 areas of access that can be granted to other users:
-* **Domain** -  All collections and dasboards in a domain
-* **Collection** -  A single collection no dashboards
-* **Dashboard**  - A single dashboard, and the collection data used to build the dashboard
+* **Domain** - All collections and dashboards in a domain
+* **Collection** - A single collection, no dashboards
+* **Dashboard** - A single dashboard, and the collection data used to build the dashboard
 
 ### Domain Access
 
@@ -21,8 +21,6 @@ There are 3 areas of access that can be granted to other users:
 
 3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the domain.
 
-<br>
-
 ### Collection Access
 
 1.	Right click on the tab of the collection to be shared and select the **Share** option.
@@ -33,8 +31,6 @@ There are 3 areas of access that can be granted to other users:
     * **Editor** - Can edit anything in the collection.
 
 3.  Click **Invite** and an email will be sent to the address provided with an invitation to access the collection.
-
-<br>
 
 ### Dashboard Access
 1.	Select the share icon in the upper right menu of the Dashboard

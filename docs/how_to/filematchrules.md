@@ -17,9 +17,9 @@ File Match rules tell StarLifter what to do with data uploaded using SFTP, Dropb
 
 **File Pattern:** The naming convention of the file being uploaded to StarLifter. Use * as a wild card (for example, if the file has a different date for each upload).
 
-**Save To:** The name of the collection data from the file is being uploaded to.
+**Save To:** The name of the collection where the file data will be uploaded.
 
-**Action:** The type of upload. Options include
+**Action:** The type of upload. Options include:
 * Append - Insert new rows, except for the rows where key fields match the collection
 * Overwrite - Insert new rows, and update rows where key fields match the collection
 * Replace - Replace the entire collection with data from the file

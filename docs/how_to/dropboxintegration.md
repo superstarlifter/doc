@@ -2,7 +2,7 @@
 
 [**Video Tutorial**](https://youtu.be/9eMe4fgTrkI?feature=shared)
 
-Uploading data into StarLifter can be accomplished by uploading data to a dropbox folder. Ask StarLifter to set up a dropbox folder for your org.
+Uploading data into StarLifter can be accomplished by uploading data to a Dropbox folder. Ask StarLifter to set up a Dropbox folder for your org.
 
 Once a Dropbox Integration is created, set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations) to clean and upload the data to the right collection and at the right frequency.
 
@@ -11,7 +11,7 @@ Once a Dropbox Integration is created, set up [**File Match Rules**](https://doc
 
 <img src="../assets/dropboxintegration_matt00.png"  style="width:800px" class="border"></img>
 
-2. Set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations). File Match Rules tell StarLifter where and how to upload the data. Scheduled jobs determine the frequency with which data is uploaded.
+2. Set up [**File Match Rules**](https://docs.starlifter.io/#/how_to/filematchrules) and a [**Scheduled Job**](https://docs.starlifter.io/#/how_to/scheduledintegrations). File Match Rules tell StarLifter where and how to upload the data. Scheduled Jobs determine the frequency with which data is uploaded.
 
 <img src="../assets/dropboxintegration_matt01.png"  style="width:600px" class="border"></img>
 

@@ -13,7 +13,7 @@ More complex commands can be accessed using the toolbar at the top of the screen
 
 <img src="../assets/manipulator_dictionary.png"  style="width:800px" class="border"></img>
 
-**Choose Fields**: Edit the layout of a collection, including removing fields
+**Choose Fields:** Edit the layout of a collection, including removing fields
 
 <img src="../assets/manipulator_choosefields.png"  style="width:800px" class="border"></img>
 
@@ -47,7 +47,7 @@ Continue adding more collections to the group by dragging and dropping. Pipeline
 
 Select the collection from which you wish to append data.
 
-You have the options of applying a tag to the appended data. The tag will appear in an additional column. If you do not wish to apply a tag, StarLifter will apply the collection name as a tag.
+You have the option of applying a tag to the appended data. The tag will appear in an additional column. If you do not wish to apply a tag, StarLifter will apply the collection name as a tag.
 
 <img src="../assets/manipulator_appendcollection.png"  style="width:800px" class="border"></img>
 

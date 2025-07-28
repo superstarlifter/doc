@@ -31,7 +31,7 @@ As you execute new plans to the collection, StarLifter saves your list of comman
 
 <img src="../assets/pipeline_commands_list_matt.png"  style="width:400px" class="border"></img>
 
-To edit a command, click the pencil icon to the right of the command. To delete a command, click the ⨂ next to the command.
+To edit a command, click the pencil icon to the right of the command. To delete a command, click the X next to the command.
 
 <img src="../assets/pipeline_commands_list_matt_2.png"  style="width:400px" class="border"></img>
 

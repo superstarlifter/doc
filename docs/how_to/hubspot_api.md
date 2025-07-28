@@ -1,6 +1,6 @@
-## Accessing your Hubspot Data
+## Integrate with Hubspot
 
-To access your Hubspot data in StarLifter, you must first create a Private App in Hubspot to generate your unique Access Token. This may require you to contact your Hubspot administrator, as only super admins are able to create Private Apps.
+To access your Hubspot data in StarLifter, you must first create a Private App in Hubspot to generate your unique Access Token. This may require you to contact your Hubspot administrator, as only super admins are able to create Private Apps..
 
 To create a Private App, follow the instructions below, or link directly to [**Hubspot's documentation**](https://developers.hubspot.com/docs/api/private-apps).
 

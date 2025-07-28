@@ -1,6 +1,6 @@
-## Accessing your QuickBooks Data
+## Integrate with QuickBooks
 
-To access your QuickBooks data in StarLifter, all you need is a QuickBooks Admin login. Contact your Quickbooks administrator  for login information.
+To access your QuickBooks data in StarLifter, all you need is a QuickBooks Admin login. Contact your QuickBooks administrator for login information.
 
 ### Enter your Quickbooks credentials into StarLifter
 

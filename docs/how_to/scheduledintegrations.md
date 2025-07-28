@@ -9,7 +9,7 @@ Use a Scheduled Job to schedule your integrations so data is automatically pulle
 
 <img src="../assets/scheduledjob_matt02.png"  style="width:300px" class="border"></img>
 
-2. Name the Scheduled Job. Under **Type** select, Integration.
+2. Name the Scheduled Job. Under **Type** select Integration.
 
 <img src="../assets/scheduledjob_matt03.png"  style="width:800px" class="border"></img>
 
