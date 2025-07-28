@@ -4,12 +4,6 @@
 
 StarLifter offers you the ability to clean your data so it is ready to analyze. While basic cleaning can be accomplished in a collection, more complex cleaning is done in Clean and Reformat.
 
-### Accessing Clean and Reformat
-1. Select Clean and Reformat under the Data Manipulation dropdown
-
-<img src="../assets/access_clean_and_reformat_matt.png"  style="width:200px" class="border"></img>
-
-
 ### Clean and Reformat layout
 The layout of Clean and Reformat includes the sections below:
 

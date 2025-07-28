@@ -50,7 +50,7 @@
 
 
 * Clean and Reformatting
-    * [Access Clean and Reformat](how_to/accessing_clean_and_reformat.md)
+    * [Clean and Reformat](how_to/accessing_clean_and_reformat.md)
     * [Create a pipeline](how_to/creating_pipeline.md)
     * [Advanced pipeline commands](how_to/advanced_transformer_commands.md)
     * [Combining two collections](how_to/combining_CRM_collections.md)
@@ -61,7 +61,6 @@
   * [Hubspot Integration](how_to/hubspot_api.md)
   * [QuickBooks Integration](how_to/quickbooks_api.md)
   * [Netsuite Integration](how_to/netsuite_api.md)
-  * [Multiple API Configurations](how_to/adding_api_config.md)
   * [SFTP Integration](how_to/sftpintegration.md)
   * [Dropbox Integration](how_to/dropboxintegration.md)
   * [Email Integration](how_to/emailintegration.md)
