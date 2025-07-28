@@ -20,6 +20,7 @@ Key Performance Indicators (KPIs) give you visibility into key metrics that allo
 
 3. Change the type by clicking the menu in the top left corner and select **KPI** or **Single value**
 -  single value is the default
+-  select KPI
 
 <img src="../assets/kpi_type.png"  style="width:00px" class="border"></img>
 
