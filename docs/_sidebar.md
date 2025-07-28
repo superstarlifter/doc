@@ -23,8 +23,6 @@
   * [Primary dates](how_to/date.md)
   * [Data rollup](how_to/rollup.md)
   * [Filters](how_to/filter.md)
-  * [Saved filters](how_to/filter.md)
-  * [Quick filters](how_to/qwik_filter.md)
 
 **Setting Up StarLifter**
 
