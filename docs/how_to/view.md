@@ -4,7 +4,7 @@
 Views are a way to save a filtered collection as a new collection. Collections can be segmented on fields, filters, and/or user permissions.
 
 ### To create a view:  
-1.	Right click in the grid of a base collection ➔ **Create View**.
+1.	Right click the tab of a collection ➔ **Create View**.
 
 <img src="../assets/view_matt1.png"  style="width:500px" class="border"></img>
 
