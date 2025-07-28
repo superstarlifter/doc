@@ -11,11 +11,7 @@ For many of our API integrations, use StarLifter's Quick Start setup to create c
 
 <img src="../assets/QuickStart04.png"  style="width:800px" class="border"></img>
 
-3. If you are using an existing StarLifter org, select **Toggle menu** from the menu at the upper left of the screen.
-
-<img src="../assets/QuickStart02.png"  style="width:300px" class="border"></img>
-
-4. Select Salesforce Integration under the Additional Links dropdown.
+3. If you are using an existing StarLifter org, select Salesforce Integration under the Additional Links dropdown.
 
 <img src="../assets/QuickStart03.png"  style="width:400px" class="border"></img>
 

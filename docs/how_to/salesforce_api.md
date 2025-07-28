@@ -12,15 +12,11 @@ Before you begin, contact your Salesforce Administrator for the following inform
 **Note:** The user login must be a Salesforce API license with ModifyAllData or ModifyMetadata permissions.
 
 ### Set up API Integration
-1. From the menu at the upper left of the screen, select **Toggle menu**.
-
-<img src="../assets/salesforce_api0.png"  style="width:400px" class="border"></img>
-
-2. Select **Salesforce Integration** under the Additional Links dropdown.
+1. Select **Salesforce Integration** under the Additional Links dropdown.
 
 <img src="../assets/salesforce_api1.png"  style="width:300px" class="border"></img>
 
-3. Enter the information provided by your Salesforce Administrator.
+2. Enter the information provided by your Salesforce Administrator.
 
 <img src="../assets/salesforce_api3.png"  style="width:800px" class="border"></img>
 

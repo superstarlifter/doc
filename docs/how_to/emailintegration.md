@@ -40,18 +40,14 @@ You also have the option of creating your own Email Integration.
 * Host - Host for incoming mail server (IMAP)
 * Port - Typically 993 or 143
 
-2.  From the menu at the upper left of the screen, select **Toggle menu**.
-
-<img src="../assets/filematchrules_matt01.png"  style="width:400px" class="border"></img>
-
-3. Under **System Integrations**, select **SL ☆ Mail Configurations**.
+2. Under **System Integrations**, select **SL ☆ Mail Configurations**.
 
 <img src="../assets/emailintegration_matt06.png"  style="width:300px" class="border"></img>
 
-4. Double-click, or right-click and select **Insert row** to insert a new Email Integration. You can either edit the fields in the row, or right-click on the pencil to open up a form.
+3. Double-click, or right-click and select **Insert row** to insert a new Email Integration. You can either edit the fields in the row, or right-click on the pencil to open up a form.
 
 <img src="../assets/emailintegration_matt07.png"  style="width:800px" class="border"></img>
 
-5. Fill in the details for the Email Integration. Click **Save**.
+4. Fill in the details for the Email Integration. Click **Save**.
 
 <img src="../assets/emailintegration_matt08.png"  style="width:600px" class="border"></img>

@@ -6,23 +6,19 @@ In the example below, we will set up a variable to aggregate open pipeline by op
 
 ### Create a variable
 
-1. From the menu at the upper left of the screen, select Toggle menu.
-
-<img src="../assets/variables01.png"  style="width:300px" class="border"></img>
-
-2. Select **SL ✩ Variable** under the System Definition dropdown.
+1. Select **SL ✩ Variable** under the System Definition dropdown.
 
 <img src="../assets/variables02.png"  style="width:250px" class="border"></img>
 
-3. Right-click and select **Insert row** to add a new variable. You can either edit the variable in-line, or select the pencil to open the form.
+2. Right-click and select **Insert row** to add a new variable. You can either edit the variable in-line, or select the pencil to open the form.
 
 <img src="../assets/variables03.png"  style="width:500px" class="border"></img>
 
-4. Either edit the variable in-line, or select the pencil to open the form.
+3. Either edit the variable in-line, or select the pencil to open the form.
 
 <img src="../assets/variables04.png"  style="width:600px" class="border"></img>
 
-5. Fill in the following information for the variable. Note that not every field needs to be filled out.
+4. Fill in the following information for the variable. Note that not every field needs to be filled out.
 
 * **Name:** The name of your variable
 * **Description:** Helpful description about the variable so that future users understand what it is

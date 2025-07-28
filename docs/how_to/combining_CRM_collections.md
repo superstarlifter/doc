@@ -6,27 +6,23 @@ StarLifter helps you gain a complete view of your company's performance by combi
 
 ### Append the Opportunity collections
 
-1. From the menu at the upper left of the screen, select Toggle menu.
-
-<img src="../assets/2CRMs03.png"  style="width:200px" class="border"></img>
-
-2. Select **Clean & Reformat** under the Data Manipulation dropdown. For more information on Data Manipulation, check out [Create a pipeline](https://docs.starlifter.io/#/how_to/creating_pipeline?id=creating-a-pipeline).
+1. Select **Clean & Reformat** under the Data Manipulation dropdown. For more information on Data Manipulation, check out [Create a pipeline](https://docs.starlifter.io/#/how_to/creating_pipeline?id=creating-a-pipeline).
 
 <img src="../assets/2CRMs04.png"  style="width:200px" class="border"></img>
 
-3. Select one of the Opportunity collections (Collection 1) as a starting point. This collection will appear in the middle of the screen.
+2. Select one of the Opportunity collections (Collection 1) as a starting point. This collection will appear in the middle of the screen.
 
 <img src="../assets/2CRMs05.png"  style="width:800px" class="border"></img>
 
-4. Select **Save as...** from the Pipeline dropdown. Name your pipeline and click **OK**. This ensures that your pipeline will be available again for future use.
+3. Select **Save as...** from the Pipeline dropdown. Name your pipeline and click **OK**. This ensures that your pipeline will be available again for future use.
 
 <img src="../assets/2CRMs06.png"  style="width:800px" class="border"></img>
 
-5. Select **Append Collection**.
+4. Select **Append Collection**.
 
 <img src="../assets/2CRMs07.png"  style="width:800px" class="border"></img>
 
-6. Select the other Opportunity Collection (Collection 2) in the **Append from** dropdown. Select the appropriate action for each field.
+5. Select the other Opportunity Collection (Collection 2) in the **Append from** dropdown. Select the appropriate action for each field.
 
 * **Ignore field**: Do not append the values from this field to Collection 1.
 * **Copy to field**: Copy the values from the field in Collection 2 into the field in Collection 1
@@ -34,11 +30,11 @@ StarLifter helps you gain a complete view of your company's performance by combi
 
 <img src="../assets/2CRMs08.png"  style="width:800px" class="border"></img>
 
-7. Select **Save as...** from the Save to collection dropdown. Name your combined collection and click **OK**.
+6. Select **Save as...** from the Save to collection dropdown. Name your combined collection and click **OK**.
 
 <img src="../assets/2CRMs09.png"  style="width:800px" class="border"></img>
 
-8. The combined collection is now ready for analysis.
+7. The combined collection is now ready for analysis.
 
 <img src="../assets/2CRMs10.png"  style="width:800px" class="border"></img>
 
