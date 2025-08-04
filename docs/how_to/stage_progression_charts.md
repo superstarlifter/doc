@@ -1,6 +1,6 @@
 ## Stage progression charts
 
-Because StarLifter records changes to your opportunity data, we are able to show how your opportunities progress over time using Sankey and Funnel charts.
+Because StarLifter records changes to your data, we are able to show how your opportunities progress over time using Sankey and Funnel charts.
 
 ### Set your stage progression order
 
